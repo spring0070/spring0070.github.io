@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jekyll on Github
-tags: [程式開發, github, ruby, jekyll]
+tags: [程式開發]
 categories:
   - Article
 excerpt_separator:  <!--more-->
