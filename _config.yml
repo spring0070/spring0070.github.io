@@ -7,7 +7,7 @@ title:            Spring 007 0
 tagline:          ''
 description:      '思變。<br>持續思考求得更好的變化 <br>能像007一直化險為夷'
 url:              https://spring0070.github.io
-baseurl:          '/about'
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep

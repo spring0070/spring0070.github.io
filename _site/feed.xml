@@ -1,3 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/about/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/about/" rel="alternate" type="text/html" /><updated>2022-02-03T00:44:00+08:00</updated><id>http://localhost:4000/about/feed.xml</id><title type="html">Spring 007 0</title><subtitle>思變。&lt;br&gt;不斷地思考求得更好的變化 &lt;br&gt;希望能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">起點</title><link href="http://localhost:4000/about/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/about/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/about/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">from 2022 spring</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T12:01:07+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spring 007 0</title><subtitle>思變。&lt;br&gt;持續思考求得更好的變化 &lt;br&gt;能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">新程式語言</title><link href="http://localhost:4000/2022/02/02/Test.html" rel="alternate" type="text/html" title="新程式語言" /><published>2022-02-02T00:00:00+08:00</published><updated>2022-02-02T00:00:00+08:00</updated><id>http://localhost:4000/2022/02/02/Test</id><content type="html" xml:base="http://localhost:4000/2022/02/02/Test.html"><![CDATA[<h3 id="ruby--jekyll">Ruby + Jekyll</h3>
 
-<p>讓旅程起始吧</p>]]></content><author><name>Joseph 007</name></author><summary type="html"><![CDATA[from 2022 spring 讓旅程起始吧]]></summary></entry></feed>
+<p>農曆過年有一段空閒的時間，想想自己的職涯<br />
+曾經寫過:<br />
+Java (Struts, Spring框架)<br />
+JSP<br />
+Angular<br />
+C++<br />
+C#<br />
+Python<br />
+去年開始 
+PHP<br />
+Vue<br />
+<br />
+投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺，<br /> 
+往後的確應該多花時間在領導與溝通管理上，<br />
+花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。<br /> 
+<br />
+昨天看到文章介紹Jekyll覺得滿有趣的，<br />
+感覺使用Ruby要快速上架真的是很棒的選擇，<br />
+原來Github, Shopigy, Airbnb….都是用它開發的，<br />
+酷酷酷<br /></p>
+
+<p>人生學無止境啊…呵呵</p>]]></content><author><name>Joseph 007</name></author><category term="程式開發" /><summary type="html"><![CDATA[Ruby + Jekyll 農曆過年有一段空閒的時間，想想自己的職涯 曾經寫過: Java (Struts, Spring框架) JSP Angular C++ C# Python 去年開始 PHP Vue 投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺， 往後的確應該多花時間在領導與溝通管理上， 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。 昨天看到文章介紹Jekyll覺得滿有趣的， 感覺使用Ruby要快速上架真的是很棒的選擇， 原來Github, Shopigy, Airbnb….都是用它開發的， 酷酷酷 人生學無止境啊…呵呵]]></summary></entry><entry><title type="html">起點</title><link href="http://localhost:4000/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">From 2022 spring</h3>
+
+<p>讓旅程起始吧</p>]]></content><author><name>Joseph 007</name></author><category term="起始" /><category term="旅程" /><summary type="html"><![CDATA[From 2022 spring 讓旅程起始吧]]></summary></entry></feed>
