@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-04T00:34:51+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spring-007-0</title><subtitle>思變。&lt;br&gt;持續思考求得更好的變化 &lt;br&gt;能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">Jekyll on Github</title><link href="http://localhost:4000/article/2022/02/03/Jekyll-Build.html" rel="alternate" type="text/html" title="Jekyll on Github" /><published>2022-02-03T00:00:00+08:00</published><updated>2022-02-03T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/03/Jekyll-Build</id><content type="html" xml:base="http://localhost:4000/article/2022/02/03/Jekyll-Build.html"><![CDATA[<h2 id="github--ruby--jekyll--mac-環境">Github + Ruby + Jekyll + Mac 環境</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-04T00:43:33+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spring-007-0</title><subtitle>思變。&lt;br&gt;持續思考求得更好的變化 &lt;br&gt;能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">Jekyll on Github</title><link href="http://localhost:4000/article/2022/02/03/Jekyll-Build.html" rel="alternate" type="text/html" title="Jekyll on Github" /><published>2022-02-03T00:00:00+08:00</published><updated>2022-02-03T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/03/Jekyll-Build</id><content type="html" xml:base="http://localhost:4000/article/2022/02/03/Jekyll-Build.html"><![CDATA[<h2 id="github--ruby--jekyll--mac-環境">Github + Ruby + Jekyll + Mac 環境</h2>
 
 <h3 id="安裝-ruby-30">安裝 Ruby 3.0</h3>
 
@@ -138,16 +138,15 @@ Python<br />
 PHP (Laravel framework) - backend<br />
 Vue - frontend<br />
 <br />
-投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺，<br /> 
-往後的確應該多花時間在領導與溝通管理上，<br />
+往後的確應該多花時間在思考團隊方向與溝通管理上，<br />
 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。<br /> 
 <br />
 昨天看到文章介紹Jekyll覺得滿有趣的，<br />
-感覺使用Ruby要快速上架真的是很棒的選擇，<br />
-原來Github, Shopigy, Airbnb….都是用它開發的，<br />
+感覺使用Ruby要快速上架Blog真的是很棒的選擇，<br />
+原來Github, Shopify, Airbnb….都是用它開發的，<br />
 酷酷酷<br /></p>
 
-<p>人生學無止境啊…呵呵</p>]]></content><author><name>Joseph 007</name></author><category term="Article" /><category term="程式開發" /><summary type="html"><![CDATA[新知識 農曆過年有一段空閒的時間，想想自己的職涯 曾經寫過: C++ JSP Java (Spring framework) - backend Angular - frontend C# Python PHP (Laravel framework) - backend Vue - frontend 投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺， 往後的確應該多花時間在領導與溝通管理上， 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。 昨天看到文章介紹Jekyll覺得滿有趣的， 感覺使用Ruby要快速上架真的是很棒的選擇， 原來Github, Shopigy, Airbnb….都是用它開發的， 酷酷酷 人生學無止境啊…呵呵]]></summary></entry><entry><title type="html">起點</title><link href="http://localhost:4000/article/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/article/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">From 2022 spring</h3>
+<p>人生學無止境啊…呵呵</p>]]></content><author><name>Joseph 007</name></author><category term="Article" /><category term="程式開發" /><summary type="html"><![CDATA[新知識 農曆過年有一段空閒的時間，想想自己的職涯 曾經寫過: C++ JSP Java (Spring framework) - backend Angular - frontend C# Python PHP (Laravel framework) - backend Vue - frontend 往後的確應該多花時間在思考團隊方向與溝通管理上， 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。 昨天看到文章介紹Jekyll覺得滿有趣的， 感覺使用Ruby要快速上架Blog真的是很棒的選擇， 原來Github, Shopify, Airbnb….都是用它開發的， 酷酷酷 人生學無止境啊…呵呵]]></summary></entry><entry><title type="html">起點</title><link href="http://localhost:4000/article/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/article/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">From 2022 spring</h3>
 <p><img src="/assets/DSC01669_begin.jpg" alt="my screenshot" />
 <cite>photo: 北海道 通往天堂的道路 天国に続く道</cite> <br />
  <br />
