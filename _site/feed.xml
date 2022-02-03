@@ -1,16 +1,64 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T13:06:04+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spring-007-0</title><subtitle>思變。&lt;br&gt;持續思考求得更好的變化 &lt;br&gt;能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">Ruby + Jekyll</title><link href="http://localhost:4000/artical/2022/02/02/Test.html" rel="alternate" type="text/html" title="Ruby + Jekyll" /><published>2022-02-02T00:00:00+08:00</published><updated>2022-02-02T00:00:00+08:00</updated><id>http://localhost:4000/artical/2022/02/02/Test</id><content type="html" xml:base="http://localhost:4000/artical/2022/02/02/Test.html"><![CDATA[<h3 id="新知識">新知識</h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-03T17:07:58+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Spring-007-0</title><subtitle>思變。&lt;br&gt;持續思考求得更好的變化 &lt;br&gt;能像007一直化險為夷</subtitle><author><name>Joseph 007</name></author><entry><title type="html">Jekyll on Github</title><link href="http://localhost:4000/article/2022/02/03/Jekyll-Build.html" rel="alternate" type="text/html" title="Jekyll on Github" /><published>2022-02-03T00:00:00+08:00</published><updated>2022-02-03T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/03/Jekyll-Build</id><content type="html" xml:base="http://localhost:4000/article/2022/02/03/Jekyll-Build.html"><![CDATA[<h2 id="github--ruby--jekyll--mac-環境">Github + Ruby + Jekyll + Mac 環境</h2>
 
-<p>農曆過年有一段空閒的時間，想想自己的職涯<br />
+<h3 id="安裝-ruby-30">安裝 Ruby 3.0</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$brew</span> <span class="nx">install</span> <span class="nx">ruby</span></code></pre></figure>
+
+<h3 id="改mac-ruby-讀取位置">改Mac ruby 讀取位置</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$vi</span> <span class="p">.</span><span class="nx">zprofile</span>
+<span class="k">export</span> <span class="nx">PATH</span><span class="o">=</span><span class="sr">/opt/</span><span class="nx">homebrew</span><span class="o">/</span><span class="nx">Cellar</span><span class="o">/</span><span class="nx">ruby</span><span class="o">/</span><span class="mf">3.0</span><span class="p">.</span><span class="mi">3</span><span class="o">/</span><span class="nx">bin</span><span class="p">:</span><span class="o">/</span><span class="nx">usr</span><span class="o">/</span><span class="nx">local</span><span class="o">/</span><span class="nx">bin</span><span class="p">:</span><span class="o">/</span><span class="nx">opt</span><span class="o">/</span><span class="nx">homebrew</span><span class="o">/</span><span class="nx">bin</span><span class="p">:</span><span class="nx">$PATH</span></code></pre></figure>
+
+<h3 id="確認mac-可以讀到正確的ruby版本">確認Mac 可以讀到正確的Ruby版本</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$ruby</span> <span class="o">-</span><span class="nx">v</span>
+<span class="nx">ruby</span> <span class="mf">3.0</span><span class="p">.</span><span class="mi">3</span><span class="nx">p157</span> <span class="p">(</span><span class="mi">2021</span><span class="o">-</span><span class="mi">11</span><span class="o">-</span><span class="mi">24</span> <span class="nx">revision</span> <span class="mi">3</span><span class="nx">fb7d2cadc</span><span class="p">)</span> <span class="p">[</span><span class="nx">arm64</span><span class="o">-</span><span class="nx">darwin21</span><span class="p">]</span></code></pre></figure>
+
+<h3 id="下載想要的-jekyll-theme">下載想要的 Jekyll Theme</h3>
+<p><a href="http://jekyllthemes.org/themes/hydeout/">hydeout theme</a>.</p>
+
+<h3 id="更新缺少ruby套件-rdoc">更新缺少Ruby套件 rdoc</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">gem</span> <span class="nx">install</span> <span class="nx">rdoc</span></code></pre></figure>
+
+<h3 id="更新缺少ruby套件-webrick">更新缺少Ruby套件 webrick</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">gem</span> <span class="nx">install</span> <span class="nx">webrick</span></code></pre></figure>
+
+<h3 id="安裝主要jekyll">安裝主要Jekyll</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">gem</span> <span class="nx">install</span> <span class="nx">jekyll</span>
+<span class="nx">$sudo</span> <span class="nx">gem</span> <span class="nx">install</span> <span class="nx">jekyll</span> <span class="nx">bundler</span></code></pre></figure>
+
+<h3 id="在專案目錄夾下">在專案目錄夾下</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">bundle</span> <span class="nx">install</span> </code></pre></figure>
+
+<h3 id="在專案目錄夾下更新缺少套件">在專案目錄夾下更新缺少套件</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">bundle</span> <span class="nx">add</span> <span class="nx">webrick</span></code></pre></figure>
+
+<h3 id="在專案目錄夾下把網站帶起來">在專案目錄夾下把網站帶起來</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">$sudo</span> <span class="nx">bundle</span> <span class="nx">exec</span> <span class="nx">jekyll</span> <span class="nx">serve</span> <span class="o">--</span><span class="nx">trace</span></code></pre></figure>
+
+<h3 id="本機測試">本機測試</h3>
+<p><a href="http://127.0.0.1:4000/">http://127.0.0.1:4000/</a>.</p>
+
+<h3 id="成功後就可以上傳到github了">成功後就可以上傳到Github了</h3>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">建議使用sourcetree</span> <span class="nx">綁定ssh</span> <span class="nx">來git</span> <span class="nx">push</span></code></pre></figure>]]></content><author><name>Joseph 007</name></author><category term="Article" /><category term="程式開發" /><category term="github" /><category term="ruby" /><category term="jekyll" /><summary type="html"><![CDATA[Github + Ruby + Jekyll + Mac 環境 安裝 Ruby 3.0 $brew install ruby 改Mac ruby 讀取位置 $vi .zprofile export PATH=/opt/homebrew/Cellar/ruby/3.0.3/bin:/usr/local/bin:/opt/homebrew/bin:$PATH 確認Mac 可以讀到正確的Ruby版本 $ruby -v ruby 3.0.3p157 (2021-11-24 revision 3fb7d2cadc) [arm64-darwin21] 下載想要的 Jekyll Theme hydeout theme. 更新缺少Ruby套件 rdoc $sudo gem install rdoc 更新缺少Ruby套件 webrick $sudo gem install webrick 安裝主要Jekyll $sudo gem install jekyll $sudo gem install jekyll bundler 在專案目錄夾下 $sudo bundle install 在專案目錄夾下更新缺少套件 $sudo bundle add webrick 在專案目錄夾下把網站帶起來 $sudo bundle exec jekyll serve --trace 本機測試 http://127.0.0.1:4000/. 成功後就可以上傳到Github了 建議使用sourcetree 綁定ssh 來git push]]></summary></entry><entry><title type="html">Ruby + Jekyll</title><link href="http://localhost:4000/article/2022/02/02/Jekyll.html" rel="alternate" type="text/html" title="Ruby + Jekyll" /><published>2022-02-02T00:00:00+08:00</published><updated>2022-02-02T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/02/Jekyll</id><content type="html" xml:base="http://localhost:4000/article/2022/02/02/Jekyll.html"><![CDATA[<h3 id="新知識">新知識</h3>
+<p><img src="/assets/jekyll.png" alt="my screenshot" />
+農曆過年有一段空閒的時間，想想自己的職涯<br />
 曾經寫過:<br />
-Java (Struts, Spring框架)<br />
-JSP<br />
-Angular<br />
 C++<br />
+JSP<br /> 
+Java (Spring framework) - backend<br />
+Angular - frontend<br />
 C#<br />
 Python<br />
-去年開始 
-PHP<br />
-Vue<br />
+PHP (Laravel framework) - backend<br />
+Vue - frontend<br />
 <br />
 投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺，<br /> 
 往後的確應該多花時間在領導與溝通管理上，<br />
@@ -21,6 +69,8 @@ Vue<br />
 原來Github, Shopigy, Airbnb….都是用它開發的，<br />
 酷酷酷<br /></p>
 
-<p>人生學無止境啊…呵呵</p>]]></content><author><name>Joseph 007</name></author><category term="Artical" /><category term="程式開發" /><summary type="html"><![CDATA[新知識 農曆過年有一段空閒的時間，想想自己的職涯 曾經寫過: Java (Struts, Spring框架) JSP Angular C++ C# Python 去年開始 PHP Vue 投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺， 往後的確應該多花時間在領導與溝通管理上， 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。 昨天看到文章介紹Jekyll覺得滿有趣的， 感覺使用Ruby要快速上架真的是很棒的選擇， 原來Github, Shopigy, Airbnb….都是用它開發的， 酷酷酷 人生學無止境啊…呵呵]]></summary></entry><entry><title type="html">起點</title><link href="http://localhost:4000/artical/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/artical/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/artical/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">From 2022 spring</h3>
-
-<p>讓旅程起始吧</p>]]></content><author><name>Joseph 007</name></author><category term="Artical" /><category term="起始" /><category term="旅程" /><summary type="html"><![CDATA[From 2022 spring 讓旅程起始吧]]></summary></entry></feed>
+<p>人生學無止境啊…呵呵</p>]]></content><author><name>Joseph 007</name></author><category term="Article" /><category term="程式開發" /><summary type="html"><![CDATA[新知識 農曆過年有一段空閒的時間，想想自己的職涯 曾經寫過: C++ JSP Java (Spring framework) - backend Angular - frontend C# Python PHP (Laravel framework) - backend Vue - frontend 投入管理職已經十幾年，但是還是熱愛動手寫程式的感覺， 往後的確應該多花時間在領導與溝通管理上， 花時間寫程式只能當興趣，不然真的會耽誤到團隊發展。 昨天看到文章介紹Jekyll覺得滿有趣的， 感覺使用Ruby要快速上架真的是很棒的選擇， 原來Github, Shopigy, Airbnb….都是用它開發的， 酷酷酷 人生學無止境啊…呵呵]]></summary></entry><entry><title type="html">起點</title><link href="http://localhost:4000/article/2022/02/01/Begin.html" rel="alternate" type="text/html" title="起點" /><published>2022-02-01T00:00:00+08:00</published><updated>2022-02-01T00:00:00+08:00</updated><id>http://localhost:4000/article/2022/02/01/Begin</id><content type="html" xml:base="http://localhost:4000/article/2022/02/01/Begin.html"><![CDATA[<h3 id="from-2022-spring">From 2022 spring</h3>
+<p><img src="/assets/DSC01669_begin.jpg" alt="my screenshot" />
+<cite>photo: 北海道 通往天堂的道路 天国に続く道</cite> <br />
+ <br />
+讓旅程起始吧</p>]]></content><author><name>Joseph 007</name></author><category term="Article" /><category term="起始" /><summary type="html"><![CDATA[From 2022 spring photo: 北海道 通往天堂的道路 天国に続く道 讓旅程起始吧]]></summary></entry></feed>
