@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Spring 007 0
+title:            Spring-007-0
 tagline:          ''
 description:      '思變。<br>持續思考求得更好的變化 <br>能像007一直化險為夷'
 url:              https://spring0070.github.io

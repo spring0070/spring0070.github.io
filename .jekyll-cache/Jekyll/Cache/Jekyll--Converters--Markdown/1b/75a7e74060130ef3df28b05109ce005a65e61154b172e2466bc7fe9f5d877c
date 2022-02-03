@@ -1,4 +1,4 @@
-I"u<div class="tags-expo">
+I"�<div class="tags-expo">
   <div class="tags-expo-list">
     
     <a href="#起始" class="post-tag">起始</a>
@@ -14,7 +14,7 @@
     <h2 id="起始">起始</h2>
     <ul class="tags-expo-posts">
       
-        <a href="/2022/02/01/Begin.html">
+        <a href="/artical/2022/02/01/Begin.html">
       <li>
         起點
       </li>
@@ -25,7 +25,7 @@
     <h2 id="旅程">旅程</h2>
     <ul class="tags-expo-posts">
       
-        <a href="/2022/02/01/Begin.html">
+        <a href="/artical/2022/02/01/Begin.html">
       <li>
         起點
       </li>
@@ -36,9 +36,9 @@
     <h2 id="程式開發">程式開發</h2>
     <ul class="tags-expo-posts">
       
-        <a href="/2022/02/02/Test.html">
+        <a href="/artical/2022/02/02/Test.html">
       <li>
-        新程式語言
+        Ruby + Jekyll
       </li>
       </a>
       

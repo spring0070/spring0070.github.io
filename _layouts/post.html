@@ -8,10 +8,13 @@ layout: default
   
 <div class="content">
   {% include post-meta.html post=page %}
-
+  <!-- add Tags-->
+  {% include post-tags.html post=page %}
+  <!-- end Tags-->
   <div class="post-body">
-    {{ content }} {% include post-tags.html post=page %}
+    {{ content }} 
   </div>
-
+  <!--
   {% include comments.html %} {% include related_posts.html %}
+  -->
 </div>
