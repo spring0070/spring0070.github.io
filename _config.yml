@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Spring-007-0
 tagline:          ''
-description:      '持續思考尋找更好的未來可能性'
+description:      '持續思考未來可能性'
 url:              https://spring0070.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
