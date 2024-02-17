@@ -3,10 +3,10 @@ layout: page
 title: About Me
 sidebar_link: true
 ---
-![my screenshot](/assets/macbook.jpeg)
+![my screenshot](/assets/IMG_2428-209-208.JPG)
 ## Joseph Yu
 
 ### 數位記憶
-* 透過圖文留下點滴人生經歷回憶<br>
-* 期望能夠到世界各地紀錄美好的世界<br>
+* 透過圖文記錄世界各地地理人文知識<br>
+
 
