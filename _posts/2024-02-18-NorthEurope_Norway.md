@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Norway
+title: NorthEurope_Norway
 tags: 
 categories:
   - Article
-excerpt_separator:  <!--more-->
+excerpt_separator:  NorthEurope
 ---
 ## 挪威: 
-[Google Map](https://maps.app.goo.gl/ehQN2bmAGkTYqYq9A "google"){:target="_blank"} 
-- 首都：奧斯陸 人口：540萬 面積：385,159平方公里 官方語言：挪威語 
+[Google Earth](https://earth.google.com/web/search/%e6%8c%aa%e5%a8%81/@64.54932991,17.70297429,531.70692783a,2045249.92022149d,35y,0h,0t,0r/ "google"){:target="_blank"} 
+- 首都：奧斯陸 
+- 人口： 555.02 萬 世界佔比 0.07%
+- 面積：385,159平方公里 官方語言：挪威語 
 - 貨幣：挪威克朗 政府：君主立憲制 
 - 挪威是世界上最富裕的國家之一，擁有高標準的生活和發達的經濟。該國的經濟以石油和天然氣生產、航運和漁業為基礎。 
 - 歷史: [旅拍](https://www.travphotos.com/travel/detail.jsp?id=52059454 "google"){:target="_blank"} 

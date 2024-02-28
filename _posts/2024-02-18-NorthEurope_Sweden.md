@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Sweden
+title: NorthEurope_Sweden
 tags: 
 categories:
   - Article
 excerpt_separator:  <!--more-->
 ---
 ## 瑞典: 
-[Google Map](https://maps.app.goo.gl/ehQN2bmAGkTYqYq9A "google"){:target="_blank"} 
+[Google Earth](https://earth.google.com/web/search/%e7%91%9e%e5%85%b8/@63.55433576,17.57824004,318.86985689a,2167188.66632518d,35y,0h,0t,0r/ "google"){:target="_blank"}  
 瑞典人口約為1030萬，是歐盟人口第十多的國家。瑞典人口密度較低，平均每平方公里25人。瑞典人口結構相對老齡化，65歲以上人口佔22%。
-- 首都：奧斯陸 人口：1030萬 65歲以上人口佔22%。 面積：449,964平方公里 官方語言：瑞典語
+- 首都：奧斯陸 
+- 人口： 1.06 千萬 世界佔比 0.1%
+- 面積：449,964平方公里 官方語言：瑞典語
 - 人均GDP 57,977美金 
 - 貨幣：瑞典克朗 政府：君主立憲制 
 - 傳統的鐵、銅和木材出口國，其水資源也很豐富，但石油和煤礦資源十分匱乏。
@@ -17,13 +19,11 @@ excerpt_separator:  <!--more-->
 - [Youtube](https://youtu.be/SiYtrqQnIzI?si=ehM0jnI56uNEgtfV "YT"){:target="_blank"} 
 {% include custom-nav-links.html src="Screenshot 2024-02-18 at 10.57.52 PM.png" data="photo" title="photo" %} 
 
-
-
 ## 斯德哥爾摩 (Stockholms):：
 [Google Earth](https://earth.google.com/web/search/%e6%96%af%e5%be%b7%e5%93%a5%e7%88%be%e6%91%a9%e7%8e%8b%e5%ae%ae/@59.72536358,17.55682808,-27.57132748a,249908.78263973d,35y,-0.00000009h,63.70794068t,-0r/ "google"){:target="_blank"} 
 - 瑞典的首都和最大的城市。這座城市以其美麗的建築、豐富的歷史和生機勃勃的文化而聞名。
 
-大廣場 (Stortorget Square):
+## 大廣場 (Stortorget Square):
 [Google Earth](https://earth.google.com/web/search/Stortorget+Square/@59.32491967,18.07045419,28.18265845a,164.8769009d,35y,154.36546091h,35.39240344t,0r/ "google"){:target="_blank"} 
 - 最古老的廣場，中世紀老城環繞它逐漸形成
 {% include custom-nav-links.html src="6e593990-201f-455c-9b7d-87799603210c.jpeg" data="photo" title="photo" %}*AI generated!* 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan 
+title: Asia_Japan 
 tags: 
 categories:
   - Article
