@@ -12,7 +12,6 @@ excerpt_separator:  <!--more-->
 - 人文: 北海道原住民愛奴被稱作蝦夷  
 - 北海道面積共83,423.84平方公里，是日本面積最大的一級行政區。 
 - 全道共轄有35市、129町、15村。截至2022年1月31日，北海道的人口有518萬人。 
-<!-- ![Photo](/assets/Hokkaido.png) -->
 {% include custom-nav-links.html src="Hokkaido.png" data="photo" title="photo" %} 
 {% include custom-nav-links.html src="c7bbd383-593d-4627-9c3e-2967ab060bad.jpeg" data="photo" title="photo" %} *AI畫得很美但好像沒這些東西!* 
 
