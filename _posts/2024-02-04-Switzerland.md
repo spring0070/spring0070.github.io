@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Switzerland
+title:  Switzerland 瑞士
 tags: Switzerland 瑞士 
 categories:
 - Article

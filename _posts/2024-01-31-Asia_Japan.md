@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan 
+title: Japan 北海道
 tags: Japan 北海道 Hokkaidō
 categories:
   - Article
@@ -87,7 +87,7 @@ excerpt_separator:  <!--more-->
 *AI generated!* 
 
 ## 五稜郭公園: 
-- [Wiki]( "Wiki"){:target="_blank"} 
+- [Wiki](https://zh.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@41.79545118,140.75400157,11.59560804a,1936.4678448d,35y,9.06971578h,48.41757413t,0.00000001r/ "google"){:target="_blank"} 
 - 是一座星形要塞，位於日本北海道函館市。它是日本現存唯一一座星形要塞。
 - 由江戶幕府於1864年建造，當時正值日本幕府末期。五稜郭的設計參考了法國的星形要塞，採用了最先進的軍事技術。
@@ -95,14 +95,14 @@ excerpt_separator:  <!--more-->
 
 <!-- day4-->
 ## Toyakoonsen 洞爺湖温泉:
-- [Wiki]( "Wiki"){:target="_blank"} 
+- [Wiki](https://zh.wikipedia.org/wiki/%E6%B4%9E%E7%88%BA%E6%B9%96 "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.56606668,140.82464088,91.41992281a,15193.75225727d,35y,2.18980518h,54.47693669t,0r/ "google"){:target="_blank"} 
 - 洞爺湖所在的支笏洞爺國立公園一帶形成了洞爺湖有珠山地質公園，日本面積第9大的湖泊，在火山口湖中僅次於屈斜路湖和支笏湖
 {% include custom-nav-links.html src="ComfyUI_00206_.png" data="photo" title="photo" %}
 *AI generated!* 
 
 ## 有珠山口纜車 有珠山ロープウェイ Mt. USU Ropeway:
-- [Wiki]( "Wiki"){:target="_blank"} 
+- [Wiki](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%8F%A0%E5%B1%B1 "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.54440433,140.85951516,204.98891709a,10692.41103101d,35y,2.18865254h,54.44403425t,0r/ "google"){:target="_blank"} 
 - 搭乘纜車，你可以欣賞到羊蹄山（又稱蝦夷富士）和有珠山的壯麗景色。
 - 有珠山由兩座火山組成：有珠山舊山和昭和新山。有珠山舊山是一座古老的火山，形成於約2萬年前。昭和新山是一座年輕的火山，形成於1943年的一次火山噴發。 
@@ -112,12 +112,11 @@ excerpt_separator:  <!--more-->
 
 <!-- day5-->
 ## 支笏湖 Poropinai Observatory ポロピナイ展望台:
-- [Wiki]( "Wiki"){:target="_blank"} 
+- [Wiki](https://zh.wikipedia.org/wiki/%E6%94%AF%E7%AC%8F%E6%B4%9E%E7%88%BA%E5%9C%8B%E7%AB%8B%E5%85%AC%E5%9C%92 "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.80291689,141.34315818,257.09632222a,27342.58355571d,35y,3.06627031h,70.21664526t,0r/ "google"){:target="_blank"} 
 - 形成於約4萬年前的一次火山爆發，是位於日本北海道千歲市的一個火山口湖，是日本第二深的湖泊，最深處達363公尺。
 
 ## 三井OUTLET PARK 札幌北廣島: 
-- [Wiki]( "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.97209512,141.47169914,101.13574916a,1347.46422705d,35y,3.00492837h,57.82762122t,0r/ "google"){:target="_blank"} 
 - [Official Link](https://mitsui-shopping-park.com/mop/sapporo/tw/search/ "web"){:target="_blank"} 
 - [Floor Map](https://mitsui-shopping-park.com/mop/file/filter/sapporo/floor/00009_fo.pdf "web"){:target="_blank"} 

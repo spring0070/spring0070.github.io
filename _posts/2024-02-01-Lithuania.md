@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Lithuania
+title:  Lithuania 立陶宛
 tags: Lithuania 立陶宛 
 categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
 # 立陶宛
+- [Youtube](https://youtu.be/uBkLVEZh-Bc?si=KMGkBs3TgsJIX6pJ "YT"){:target="_blank"} 
+
 - 首都：維爾紐斯（Vilnius）是立陶宛的首都，也是該國最大的城市。它擁有悠久的歷史，保留了豐富的文化遺產，被聯合國教科文組織列為世界文化遺產。
 
 - 語言：立陶宛語是立陶宛的官方語言，屬於波羅的海語族的巴爾幹語支。儘管大多數人都能理解英語，但立陶宛語仍然是當地使用的主要語言。
