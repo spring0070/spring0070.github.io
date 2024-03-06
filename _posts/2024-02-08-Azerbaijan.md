@@ -23,45 +23,32 @@ excerpt_separator:  <!--more-->
 
 - 旅遊景點： 巴庫是一個現代化城市，擁有許多歷史古蹟和現代建築，如巴庫老城、舊巴庫和弗拉姆斯宮。此外，亞塞拜然的裡海沿岸地區風景優美，吸引了不少遊客。
 
-## 巴庫老城區(Old+City+of+Baku)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Old+City+of+Baku "Wiki"){:target="_blank"} 
+## 巴庫古城（亞塞拜然語：İçərişəhər)(Baku)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%B7%B4%E5%BA%AB%E5%8F%A4%E5%9F%8E "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Old+City+of+Baku "GoogleEarth"){:target="_blank"} 
 - 亞塞拜然首都巴庫的老城區，被聯合國教科文組織列為世界文化遺產，擁有眾多歷史建築和窄巷。
 
-## 石油博物館(Azerbaijan+State+Museum+of+the+Oil+Industry)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Azerbaijan+State+Museum+of+the+Oil+Industry "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Azerbaijan+State+Museum+of+the+Oil+Industry "GoogleEarth"){:target="_blank"} 
-- 這座博物館位於巴庫，展示了亞塞拜然在石油工業方面的歷史和成就。
+## 希爾萬沙宮殿（亞塞拜然語：Şirvanşahlar sarayı）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E5%B0%94%E4%B8%87%E6%B2%99%E5%AE%AB%E6%AE%BF "Wiki"){:target="_blank"} 
+- [GoogleEarth](
+https://earth.google.com/web/search/Old+City+of+Baku/@40.36633612,49.83509823,2.83549382a,622.3354161d,35y,2.0044903h,43.35264789t,-0r/ "GoogleEarth"){:target="_blank"} 
 
-## 舍基亞皇宮(Shaki+Palace)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Shaki+Palace "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Shaki+Palace "GoogleEarth"){:target="_blank"} 
+- 是一座位於亞塞拜然的著名古建築，位於巴庫內城。希爾萬沙宮殿屬於2000年註冊的世界遺產城牆圍繞的巴庫城及其希爾萬沙宮殿和少女塔的一部分。
+
+## 亞塞拜然國家歷史博物館（亞塞拜然語：Milli Azərbaycan Tarixi Muzeyi）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E4%BA%9E%E5%A1%9E%E6%8B%9C%E7%84%B6%E5%9C%8B%E5%AE%B6%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/%e4%ba%9e%e5%a1%9e%e6%8b%9c%e7%84%b6%e5%b7%b4%e5%ba%ab+Haji+Zeynalabdin+Taghiyev+Street,+%e4%ba%9e%e5%a1%9e%e6%8b%9c%e7%84%b6%e5%9c%8b%e5%ae%b6%e6%ad%b7%e5%8f%b2%e5%8d%9a%e7%89%a9%e9%a4%a8/@40.36917061,49.84030648,-0.51075955a,283.47803271d,35y,-3.96606525h,49.24462224t,0r/ "GoogleEarth"){:target="_blank"} 
+- 為亞塞拜然最大的博物館，位於巴庫。博物館建築的前身為亞塞拜然石油大亨暨慈善家哈吉·澤納拉賓·塔吉耶夫的宅邸[1]。
+
+## 舍基可汗宮殿（亞塞拜然語：Şəki xan sarayı）(Shaki Palace)
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E8%88%8D%E5%9F%BA%E5%8F%AF%E6%B1%97%E5%AE%AB%E6%AE%BF "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Shaki+Palace/@41.20385547,47.19769399,736.72123319a,254.69583487d,34.99999995y,-2.45137327h,48.06490505t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是一座位於舍基亞的宮殿，以其獨特的建築風格和精美的內部裝飾而著名。
 
-## 戈貝蘭石圈(Gobustan+Rock+Art+Cultural+Landscape)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Gobustan+Rock+Art+Cultural+Landscape "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Gobustan+Rock+Art+Cultural+Landscape "GoogleEarth"){:target="_blank"} 
+## 戈布斯坦岩石藝術文化景觀(Gobustan Rock Art Cultural Landscape)
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E6%88%88%E5%B8%83%E6%96%AF%E5%9D%A6%E5%B2%A9%E7%9F%B3%E8%89%BA%E6%9C%AF%E6%96%87%E5%8C%96%E6%99%AF%E8%A7%82 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Gobustan+Rock+Art+Cultural+Landscape/@40.1113414,49.37852221,125.87255718a,865.24045852d,34.99999997y,3.08329824h,54.09369621t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是一個包含史前岩畫、石碑和岩石結構的區域，展示了古代人類的文化和藝術。
-
-## 火山湖(Goygol+Lake)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Goygol+Lake "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Goygol+Lake "GoogleEarth"){:target="_blank"} 
-- 這是亞塞拜然最大的湖泊之一，擁有清澈的湖水和美麗的自然風光。
-
-## 納希恩卡蘇爾國家歷史文化博物館(Nakhchivan+State+Historical+and+Architectural+Museum+Complex)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Nakhchivan+State+Historical+and+Architectural+Museum+Complex "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Nakhchivan+State+Historical+and+Architectural+Museum+Complex "GoogleEarth"){:target="_blank"} 
-- 位於納希恩卡蘇爾，這座博物館展示了該地區的歷史和文化。
-
-## 卡爾巴拉草原(Kurkosa+Park,+Qarabağlar)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Kurkosa+Park,+Qarabağlar "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Kurkosa+Park,+Qarabağlar "GoogleEarth"){:target="_blank"} 
-- 這是一個位於巴庫的大型公園，有廣闊的草原和美麗的湖泊，是人們休閒放鬆的好地方。
-
-## 薩馬克蘭德(Samaxi+Palace+Hotel)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Samaxi+Palace+Hotel "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Samaxi+Palace+Hotel "GoogleEarth"){:target="_blank"} 
-- 這是一座位於薩馬克蘭德的奢華酒店，擁有優美的花園和宮殿式建築。
 
 ## 阿茲納爾塔佛羅塔(Asan+Xidir+oğlu+Tower)
 - [Wiki](https://zh.wikipedia.org/w/index.php?search=Asan+Xidir+oğlu+Tower "Wiki"){:target="_blank"} 
@@ -69,7 +56,7 @@ excerpt_separator:  <!--more-->
 - 這座古老的塔樓位於巴庫，是城市歷史的一部分，提供壯觀的城市景觀。
 
 ## 舍肯遺址(Sheki+Archaeological+Site)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Sheki+Archaeological+Site "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Sheki+Archaeological+Site "GoogleEarth"){:target="_blank"} 
+- [Wiki]( "Wiki"){:target="_blank"} 
+- [GoogleEarth]( "GoogleEarth"){:target="_blank"} 
 - 這是一個古老的考古遺址，揭示了亞塞拜然在古代的文明和文化。
 
