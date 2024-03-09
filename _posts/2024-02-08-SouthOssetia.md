@@ -21,53 +21,10 @@ excerpt_separator:  <!--more-->
 
 - 國際地位： 多數國家和國際組織，包括聯合國，未承認南奧塞梯的獨立。格魯吉亞政府堅持南奧塞梯是其領土的一部分，這一立場得到了國際上多數國家的支持。
 
-## 茲納默尤爾(Znaur)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Znaur "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Znaur "GoogleEarth"){:target="_blank"} 
-- 這是南奧塞提亞的一個地區，可能擁有獨特的風景和文化。
 
-## 茲納伊米爾(Znaur+district)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Znaur+district "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Znaur+district "GoogleEarth"){:target="_blank"} 
-- 這個地區可能有一些自然景觀和傳統的村莊。
+## 茲辛瓦利（茨辛瓦利，奧塞提亞語：Цхинвал[ʃχinvɒɫ]；喬治亞語：ცხინვალი[t͡sʰχinvali]
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E8%8C%A8%E6%AC%A3%E7%93%A6%E5%88%A9 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Tskhinvali/@42.19545864,43.99563336,862.93727987a,30565.72208238d,30.00000428y,359.99995543h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 喬治亞宣稱擁有南奧塞提亞的主權，根據該國的行政區劃，茲辛瓦利屬於什達-卡特利州，距離首都提比里西約100公里。
 
-## 茲拉齊奇(Tskhinvali)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Tskhinvali "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Tskhinvali "GoogleEarth"){:target="_blank"} 
-- 南奧塞提亞的首都，可能有一些歷史古蹟和文化景點。
-
-## 艾赫塞特(Alekseevka)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Alekseevka "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Alekseevka "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個村莊，擁有獨特的當地風情。
-
-## 茲納茨克(Znatak)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Znatak "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Znatak "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個區域，具有一些當地的特色。
-
-## 庫瑟麥(Kusarai)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Kusarai "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Kusarai "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個區域，可能擁有美麗的自然風景。
-
-## 尤它(Uta)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Uta "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Uta "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個村莊，可能有一些歷史和文化價值。
-
-## 尤茲賓卡(Uzbinak)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Uzbinak "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Uzbinak "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個地區，可能有當地特色和景觀。
-
-## 茲奇宰(Zzgazau)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Zzgazau "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Zzgazau "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個區域，可能有一些自然和文化景點。
-
-## 庫特拉(Kudar)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Kudar "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Kudar "GoogleEarth"){:target="_blank"} 
-- 這可能是南奧塞提亞的一個地區，可能有當地的傳統和特色。
 

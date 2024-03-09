@@ -25,53 +25,18 @@ excerpt_separator:  <!--more-->
 
 - 旅遊景點： 北馬其頓擁有眾多的歷史和文化景點，如斯科普里的石橋、古代馬其頓城市歐赫里德等，吸引著遊客的注意。
 
-## 斯科普里(Skopje)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Skopje "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Skopje "GoogleEarth"){:target="_blank"} 
+## 史高比耶（馬其頓語：Скопје，羅馬化：Skopje，[ˈskɔpjɛ] ；阿爾巴尼亞語：Shkup）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E6%96%AF%E7%A7%91%E6%99%AE%E9%87%8C "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/%e5%8c%97%e9%a6%ac%e5%85%b6%e9%a0%93%e5%8f%b2%e9%ab%98%e6%af%94%e8%80%b6%e5%91%a8%e9%82%8a%e7%9a%84%e5%9f%8e%e5%a0%a1/@42.00036874,21.43411421,281.91980265a,597.67496029d,34.99999999y,0.46930094h,35.90379367t,0r/ "GoogleEarth"){:target="_blank"} 
 - 北馬其頓的首都，擁有豐富的歷史和文化，以及亞歷山大大帝雕像和石橋等地標。
 
-## 歐赫里德湖(Lake+Ohrid)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Lake+Ohrid "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Lake+Ohrid "GoogleEarth"){:target="_blank"} 
-- 這是歐洲最古老和最深的湖泊之一，被聯合國教科文組織列為自然和文化遺產。
+## 奧赫里德湖（阿爾巴尼亞語：Liqeni i Ohrit；保加利亞語：Охридско Езеро）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E7%A5%9E%E5%AD%B8%E5%AE%B6%E8%81%96%E7%B4%84%E7%BF%B0%E6%95%99%E5%A0%82 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Lake+Ohrid/@41.11112649,20.78916655,704.50470567a,422.34448694d,35y,-1.7846761h,57.37839181t,0r/ "GoogleEarth"){:target="_blank"} 
+- 這是歐洲最古老和最深的湖泊之一，位於阿爾巴尼亞和北馬其頓之間，被聯合國教科文組織列為世界自然和文化遺產。
 
-## 歐赫里德(Ohrid)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Ohrid "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Ohrid "GoogleEarth"){:target="_blank"} 
-- 這是湖畔小鎮，有著古老的教堂、修道院和古城牆，是世界文化遺產。
-
-## 斯特勞米察(Strumica)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Strumica "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Strumica "GoogleEarth"){:target="_blank"} 
-- 這是一座位於南部的城市，以其多樣的植物園、修道院和水上活動而聞名。
-
-## 梅薩尼克修道院(Macedonian+Orthodox+Monastery+of+St.+Naum)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Macedonian+Orthodox+Monastery+of+St.+Naum "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Macedonian+Orthodox+Monastery+of+St.+Naum "GoogleEarth"){:target="_blank"} 
+## 聖瑙姆修道院（馬其頓語：Манастир „Свети Наум）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E8%81%96%E7%91%99%E5%A7%86%E4%BF%AE%E9%81%93%E9%99%A2 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Macedonian+Orthodox+Monastery+of+St.+Naum/@40.91354864,20.74076499,703.30999688a,310.58029497d,34.99999992y,7.22743411h,35.4290239t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這座修道院位於歐赫里德湖畔，建於9世紀，有著獨特的建築和美麗的花園。
-
-## 科克爾瓦國家公園(Mavrovo+National+Park)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Mavrovo+National+Park "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Mavrovo+National+Park "GoogleEarth"){:target="_blank"} 
-- 這是北馬其頓最大的國家公園，擁有山脈、湖泊和豐富的野生動植物。
-
-## 比托拉(Bitola)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Bitola "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Bitola "GoogleEarth"){:target="_blank"} 
-- 這是一座擁有古老建築和街道的城市，有著奧斯曼帝國時期的文化和歷史。
-
-## 科科薩夫斯基巴巴(Kokino+Megalithic+Observatory)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Kokino+Megalithic+Observatory "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Kokino+Megalithic+Observatory "GoogleEarth"){:target="_blank"} 
-- 這是歐洲最古老的天文台之一，提供觀測太陽和月亮的獨特機會。
-
-## 貝爾科(Berovo)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Berovo "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Berovo "GoogleEarth"){:target="_blank"} 
-- 這是一個坐落在山區的小鎮，以其清新的空氣、湖泊和自然美景而受到遊客喜愛。
-
-## 波普瓦(Popova+Shapka)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Popova+Shapka "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Popova+Shapka "GoogleEarth"){:target="_blank"} 
-- 這是北馬其頓的滑雪勝地，位於蒂姆佛河谷，提供冬季運動和美麗的雪景。
 
