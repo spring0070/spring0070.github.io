@@ -35,6 +35,7 @@ excerpt_separator:  <!--more-->
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E5%9F%BA%E5%86%85%E6%96%AF%E5%B2%9B "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Mykines+Island/@62.102114,-7.59696246,423.38129458a,12356.58343217d,35y,1.39172198h,55.05719599t,0r/ "GoogleEarth"){:target="_blank"} 
 - 面積為10.3平方公里，人口數量為16人（2021年1月）
+{% include custom-nav-links.html src="004c2f5a-e7be-4f2f-bc37-5a1af8d80285.jpeg" data="photo" title="photo" %}*AI generated!*  
 
 ## 瀑布 Gásadalur 
 - [GoogleEarth](https://earth.google.com/web/search/G%c3%a1sadalur/@62.11246851,-7.4357749,53.73020869a,1719.66458039d,35y,23.46402833h,83.17851638t,360r/ "GoogleEarth"){:target="_blank"} 

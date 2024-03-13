@@ -71,3 +71,21 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Rhine+Falls/@47.67751517,8.61563162,378.62594581a,731.83626914d,34.99999955y,12.54616612h,46.12941167t,0r/ "GoogleEarth"){:target="_blank"} 
 - 維爾納爾斯瀑布是瑞士最大、最壯觀的瀑布，位於萊茵河上，吸引著大量遊客。
 
+## 因特拉肯（德語 英語：Interlaken）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%9B%A0%E7%89%B9%E6%8B%89%E8%82%AF "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/%e5%b0%91%e5%a5%b3/@46.68597133,7.85666161,567.43862163a,2150.83838838d,35y,-2.07085127h,2.51545213t,0r/ "GoogleEarth"){:target="_blank"} 
+- [Youtube](https://youtu.be/ra0SicbafZc?si=ry4GfzpTIBEK-3GA "YT"){:target="_blank"} 
+- 位於兩湖泊附近的馬滕（Matten）、下塞恩（Unterseen）、伯尼根（Bönigen）等政治獨立的自治市接壤，其合併在一起成為瑞士伯爾尼高地著名的旅遊目的地，也是通往該地區其他山脈湖泊（如南部的少女峰）和市鎮的重要交通門戶。[3]
+
+## 少女峰山坳（Jungfraujoch）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B0%91%E5%A5%B3%E5%B3%B0%E5%B1%B1%E5%9D%B3 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/%e5%b0%91%e5%a5%b3/@46.58139459,7.95971646,2007.75947052a,43265.14188913d,35y,-0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 少女峰鐵路（Jungfraubahn）電車採用Strub齒軌鐵路，全長約7公里，最大坡度高達25%，由瑞士鐵道工程師Adolf Guyer Zeller設計，於1896年動工，施工歷時長達16年，才於1912年通車。它有四分之三左右的路段是在冰河底下隧道岩壁裡通過，工程十分艱鉅。
+
+## Staubbach Falls 瀑布電梯
+- [Wiki](https://en.wikipedia.org/wiki/Staubbach_Falls "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Geirangerfjord/@46.58981652,7.9052179,1035.25869804a,21497.81580587d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- [Youtube](https://www.youtube.com/watch?v=csnD5EVL5z8&ab_channel=GoodStuff "YT"){:target="_blank"} 
+- 位於伯爾尼高地勞特布龍嫩以西。瀑布從懸空山谷落差 297 公尺（974 英尺） 
+瀑布有十個觀賞點，可以先搭電梯到上層，再沿路欣賞慢慢走下山
+
