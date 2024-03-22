@@ -3,47 +3,17 @@ layout: post
 title:  NorthernMarianaIslands 北馬利安納群島
 tags: NorthernMarianaIslands 北馬利安納群島 
 categories:
-- Article
+- Article 
 excerpt_separator:  <!--more-->
 ---
 # 北馬利安納群島
-## 泰瑞岩(Te’erui)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Te’erui "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Te’erui "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島中的一個美麗島嶼，擁有壯麗的海灘、清澈的海水和熱帶雨林，是度假和放鬆的理想場所。
+## 塞班島（英語：Saipan）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A1%9E%E7%8F%AD%E5%B2%9B "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Te’eruihttps://earth.google.com/web/search/%e5%a1%9e%e7%8f%ad%e5%b3%b6/@15.19319658,145.76038662,165.58923178a,35903.06316087d,34.99999998y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 為美國自治邦北馬利安納群島面積最大的島嶼，也是邦內近九成人口所在地。該島為珊瑚島，沿西海岸有潟湖，山脈南北延伸。最高點塔波查山海拔479米。
 
-## 阿克塔岩(Akata+Stone)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Akata+Stone "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Akata+Stone "GoogleEarth"){:target="_blank"} 
-- 這是一個巨大的珊瑚礁岩石，位於北馬利安納群島的一個小島上，是當地的地標之一，提供了壯麗的海岸風景。
-
-## 塔哈阿岩洞(Taha’a+Cave)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Taha’a+Cave "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Taha’a+Cave "GoogleEarth"){:target="_blank"} 
-- 這是一個位於北馬利安納群島的海濱洞穴，擁有迷人的鐘乳石和石筍，是探險和攀岩的熱門目的地。
-
-## 波卡波卡村(Poka+Poka+Village)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Poka+Poka+Village "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Poka+Poka+Village "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島的一個古老村落，保留了傳統的馬利安納文化和建築，遊客可以在這裡體驗到當地的生活方式。
-
-## 波赫群島(Pohue+Island)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Pohue+Island "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Pohue+Island "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島的一個小島，擁有美麗的海灘、珊瑚礁和熱帶植物，是進行浮潛和觀鳥的好地方。
-
-## 阿菲阿菲村(Afia+Afia+Village)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Afia+Afia+Village "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Afia+Afia+Village "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島的一個傳統村落，以其原始的文化和建築而聞名，遊客可以在這裡了解馬利安納人的生活和傳統。
-
-## 納阿雷特阿海灘(Na’arete’a+Beach)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Na’arete’a+Beach "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Na’arete’a+Beach "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島的一個美麗海灘，位於一個小島的海岸線上，擁有金色的沙灘、椰子樹和清澈的海水，是放鬆和游泳的絕佳場所。
-
-## 馬提馬提(Matimati)
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Matimati "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Matimati "GoogleEarth"){:target="_blank"} 
-- 這是北馬利安納群島的一個古老村落，保留了傳統的馬利安納文化和建築，遊客可以在這裡體驗到當地的生活方式和文化。
+## 藍洞 (The Grotto)
+- [Wiki](https://today.line.me/tw/v2/article/vPqoYE "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/%e5%8c%97%e9%a6%ac%e5%88%a9%e5%ae%89%e7%b4%8d%e7%be%a4%e5%b3%b6%e5%a1%9e%e7%8f%ad+Grotto+Drive,+%e6%b4%9e%e7%aa%9f/@15.2604383,145.8237491,32.04752918a,811.99572426d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 塌陷的水下石灰岩洞，最深可達 70 英尺，是相當受歡迎的潛水地點。
 
