@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Japan 北海道
-tags: Japan 北海道 Hokkaidō
+tags: Japan 北海道 hokkaido
 categories:
   - Article
 excerpt_separator:  <!--more-->
 ---
-## 北海道-道南（Hokkaidō）: 
+## 北海道-道南（hokkaido）: 
 [Google Map](https://maps.app.goo.gl/A594JejBaTJywVTB8 "google"){:target="_blank"} 
 - 地理: 日本最北的一級行政區，首府為札幌市。
 

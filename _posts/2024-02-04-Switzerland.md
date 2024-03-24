@@ -89,3 +89,8 @@ excerpt_separator:  <!--more-->
 - 位於伯爾尼高地勞特布龍嫩以西。瀑布從懸空山谷落差 297 公尺（974 英尺） 
 瀑布有十個觀賞點，可以先搭電梯到上層，再沿路欣賞慢慢走下山
 
+## 格施塔德（Gstaad）
+- [Wiki](https://en.wikipedia.org/wiki/Gstaad "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Gstaad,+%e8%96%a9%e5%ab%a9%e7%91%9e%e5%a3%ab/@46.4722139,7.28741717,1050.30301287a,1899.32972837d,35y,3.07048707h,52.53561699t,0r/ "GoogleEarth"){:target="_blank"} 
+- [Youtube](https://youtu.be/xZuiw4ZnDf4?si=KQFWdcBeJ0FtGkZC "YT"){:target="_blank"} 
+- 是瑞士西南部伯爾尼州德語區的一個城鎮。它是薩嫩市的一部分，被稱為主要的滑雪勝地，是上流社會和國際飛機場中的熱門目的地。勒羅西學院的冬季校園位於格施塔德。

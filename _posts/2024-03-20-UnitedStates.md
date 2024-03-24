@@ -45,6 +45,7 @@ excerpt_separator:  <!--more-->
 ## 錫安國家公園（英語：Zion National Park，亦被譯為宰恩國家公園
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E9%8C%AB%E5%AE%89%E5%9C%8B%E5%AE%B6%E5%85%AC%E5%9C%92  "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Zion+National+Park,+%e7%8c%b6%e4%bb%96%e7%be%8e%e5%9c%8b/@37.32208289,-113.04323344,1781.08611533a,59171.76214249d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- [Youtube](https://youtu.be/mVlGynOZV_w?si=o5xDZQpeDnJ2d5CW "YT"){:target="_blank"} 
 - 是一個位於美國西南部猶他州斯普林代爾附近的國家公園。這個佔地共229平方英里（593平方公里）的國家公園的首要景點是錫安峽谷。
 
 ## 華盛頓紀念碑(Washington Monument)
@@ -118,5 +119,13 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/United+States+Capitol/@38.8899389,-77.0090505,22.1531642a,800.51170821d,35y,323.65193318h,45t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是美國國會的議事大樓，位於華盛頓特區，是美國政治的中心。
 
+## 博納維爾鹽灘（英語：Bonneville Salt Flats）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%8D%9A%E7%B4%8D%E7%B6%AD%E7%88%BE%E9%B9%BD%E7%81%98 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Bonneville+Salt+Flats,+%e7%8c%b6%e4%bb%96%e7%be%8e%e5%9c%8b/@40.8046441,-113.82540095,1285.61855967a,28154.62879718d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- [Youtube](https://www.youtube.com/watch?v=b_T8zfMsqqM&ab_channel=RyanShirley "YT"){:target="_blank"} 
+- 是位於美國猶他州西北部，大鹽湖以西的一個鹽灘，面積達260平方公里（100平方英里）
 
-
+## 精緻拱門（英語：Delicate Arch）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E7%B2%BE%E7%B7%BB%E6%8B%B1%E9%96%80 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Arches+National+Park,+%e7%8c%b6%e4%bb%96%e7%be%8e%e5%9c%8b/@38.71542178,-109.55453906,1488.04829381a,26642.92117842d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 精緻拱門由砂岩組成，砂岩會被風雨侵蝕。許多天然拱門因承受過多風蝕而倒塌，精緻拱門卻因為承受了長時間的風蝕沒有倒塌而知名。
