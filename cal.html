@@ -8,6 +8,7 @@
     body {
         font-family: Arial, sans-serif;
         margin: 20px;
+        font:20px;
     }
     table {
         border-collapse: collapse;
@@ -20,6 +21,11 @@
     }
     th {
         background-color: #f2f2f2;
+    }
+    .qty{
+        height: 40px;
+        width: 40px;
+        font-size: 20px;
     }
     #cal {
         display: inline-block;
@@ -43,8 +49,6 @@
 </head>
 <body>
 
-<h2>Point of Sale System</h2>
-
 <table>
     <thead>
         <tr>
@@ -58,166 +62,166 @@
             <td>大銀元寶</td>
             <td><span class="price">100</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>往生錢</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>美鈔,台幣</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>錫箔組合</td>
             <td><span class="price">100</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>銀紙單隻</td>
             <td><span class="price">7</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>60</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>50</td>
             <td><span class="price">50</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>35</td>
             <td><span class="price">35</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>30</td>
             <td><span class="price">30</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>25</td>
             <td><span class="price">25</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <<td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>20</td>
             <td><span class="price">20</span></td>
             <td><input type="number" class="quantity" value=""></td>
-            <td><button onclick="setQuantity(this, 1)">1</button>
-                <button onclick="setQuantity(this, 2)">2</button>
-                <button onclick="setQuantity(this, 3)">3</button>
-                <button onclick="setQuantity(this, 4)">4</button>
-                <button onclick="setQuantity(this, 5)">5</button>
-                <button onclick="setQuantity(this, 6)">6</button>
-                <button onclick="setQuantity(this, 7)">7</button>
-                <button onclick="setQuantity(this, 8)">8</button>
-                <button onclick="setQuantity(this, 9)">9</button>
-                <button onclick="setQuantity(this, 10)">10</button></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">10</button></td>
         </tr>
     </tbody>
 </table>
