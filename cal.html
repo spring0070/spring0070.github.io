@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Point of Sale System</title>
+
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -25,11 +25,19 @@
         display: inline-block;
         height: 100px;
         font-size: 30px;
+        width:200px;
+        color: green;
+    }
+    #clean {
+        display: inline-block;
+        height: 100px;
+        font-size: 30px;
     }
     #totalAmount {
         display: inline-block;
         height: 100px;
-        font-size: 30px;
+        font-size: 50px;
+        color:red;
     }
 </style>
 </head>
@@ -50,63 +58,174 @@
             <td>大銀元寶</td>
             <td><span class="price">100</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>往生錢</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>美鈔,台幣</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>錫箔組合</td>
             <td><span class="price">100</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>銀紙單隻</td>
             <td><span class="price">7</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>60</td>
             <td><span class="price">60</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>50</td>
             <td><span class="price">50</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>35</td>
             <td><span class="price">35</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>30</td>
             <td><span class="price">30</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>25</td>
             <td><span class="price">25</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <<td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
         <tr>
             <td>20</td>
             <td><span class="price">20</span></td>
             <td><input type="number" class="quantity" value=""></td>
+            <td><button onclick="setQuantity(this, 1)">1</button>
+                <button onclick="setQuantity(this, 2)">2</button>
+                <button onclick="setQuantity(this, 3)">3</button>
+                <button onclick="setQuantity(this, 4)">4</button>
+                <button onclick="setQuantity(this, 5)">5</button>
+                <button onclick="setQuantity(this, 6)">6</button>
+                <button onclick="setQuantity(this, 7)">7</button>
+                <button onclick="setQuantity(this, 8)">8</button>
+                <button onclick="setQuantity(this, 9)">9</button>
+                <button onclick="setQuantity(this, 10)">10</button></td>
         </tr>
     </tbody>
 </table>
 <br>
-<button id="cal" onclick="calculateTotal()">Calculate Total</button>
+<button id="cal" onclick="calculateTotal()">結算</button>
+<button id="clean" onclick="cleanAll()">清除</button>
 
-<p>Total Amount: $<span id="totalAmount">0</span></p>
+<p>總結: $<span id="totalAmount">0</span></p>
 
 <script>
 function calculateTotal() {
@@ -119,7 +238,17 @@ function calculateTotal() {
             total += price * quantity;
         }
     });
-    document.getElementById('totalAmount').textContent = total.toFixed(2);
+    document.getElementById('totalAmount').textContent = total;
+}
+function setQuantity(button, value) {
+    var quantityInput = button.parentNode.previousElementSibling.querySelector('.quantity');
+    quantityInput.value = value;
+}
+function cleanAll() {
+    var quantityInputs = document.querySelectorAll('.quantity');
+    quantityInputs.forEach(function(input) {
+        input.value = 0;
+    });
 }
 </script>
 
