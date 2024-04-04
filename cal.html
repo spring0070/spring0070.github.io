@@ -77,7 +77,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -94,7 +94,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -111,7 +111,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -128,7 +128,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -145,7 +145,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -162,7 +162,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -179,7 +179,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -196,7 +196,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -213,7 +213,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -230,7 +230,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -247,7 +247,7 @@
                 <button class="qty" onclick="setQuantity(this, 7)">7</button>
                 <button class="qty" onclick="setQuantity(this, 8)">8</button>
                 <button class="qty" onclick="setQuantity(this, 9)">9</button>
-                <button class="qty" onclick="setQuantity(this, 10)">10</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
                 <button class="qty" onclick="setQuantity(this, 0)">0</button>
             </td>
         </tr>
@@ -274,7 +274,13 @@ function calculateTotal() {
 }
 function setQuantity(button, value) {
     var quantityInput = button.parentNode.previousElementSibling.querySelector('.quantity');
-    quantityInput.value = value;
+    if(value==10){
+        quantityInput.value =  parseInt(quantityInput.value) + parseInt(value);
+    }
+    else{
+        quantityInput.value = value;
+    }
+
     calculateTotal();
     if (value > 0) {
         quantityInput.style.color = "green";
