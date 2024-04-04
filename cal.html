@@ -295,6 +295,13 @@ function cleanAll() {
     });
     document.getElementById('totalAmount').textContent = 0;
 }
+// Add event listeners to all quantity inputs
+var quantityInputs = document.querySelectorAll('.quantity');
+quantityInputs.forEach(function(input) {
+    input.addEventListener('input', function() {
+        calculateTotal();
+    });
+});
 </script>
 
 </body>
