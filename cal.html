@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Point of Sale System</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+</style>
+</head>
+<body>
+
+<h2>Point of Sale System</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Product A</td>
+            <td><span class="price">10</span></td>
+            <td><input type="number" class="quantity" value="0"></td>
+        </tr>
+        <tr>
+            <td>Product B</td>
+            <td><span class="price">15</span></td>
+            <td><input type="number" class="quantity" value="0"></td>
+        </tr>
+        <tr>
+            <td>Product C</td>
+            <td><span class="price">20</span></td>
+            <td><input type="number" class="quantity" value="0"></td>
+        </tr>
+    </tbody>
+</table>
+
+<button onclick="calculateTotal()">Calculate Total</button>
+
+<p>Total Amount: $<span id="totalAmount">0</span></p>
+
+<script>
+function calculateTotal() {
+    var total = 0;
+    var products = document.querySelectorAll('tbody tr');
+    products.forEach(function(product) {
+        var price = parseFloat(product.querySelector('.price').textContent);
+        var quantity = parseInt(product.querySelector('.quantity').value);
+        total += price * quantity;
+    });
+    document.getElementById('totalAmount').textContent = total.toFixed(2);
+}
+</script>
+
+</body>
+</html>
