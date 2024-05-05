@@ -35,6 +35,8 @@ excerpt_separator:  <!--more-->
 - [Google Earth](https://earth.google.com/web/@42.49731038,141.14768104,208.52674397a,772.89478378d,35y,26.23077108h,51.65023391t,360r/ "google"){:target="_blank"} 
 - 由於俱多樂火山的噴發活動所產生的爆裂火口痕跡，直徑約450公尺、面積約為11公頃。 
 {% include custom-nav-links.html src="ComfyUI_00199_.png" data="photo" title="photo" %}*AI generated!* 
+{% include custom-nav-links.html src="DSC01540-47.JPG" data="photo" title="photo" %}
+
 
 ## 大沼國定公園: 
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E6%B2%BC%E5%9C%8B%E5%AE%9A%E5%85%AC%E5%9C%92 "Wiki"){:target="_blank"} 
@@ -43,6 +45,8 @@ excerpt_separator:  <!--more-->
 - 有126個大小島嶼和32個湖灣。 
 {% include custom-nav-links.html src="d094926fc9a7eb95407d577b5adf6559.jpg" data="photo" title="photo" %} 
 {% include custom-nav-links.html src="ComfyUI_00207_.png" data="photo" title="photo" %}*AI generated!* 
+{% include custom-nav-links.html src="DSC01555-126.JPG" data="photo" title="photo" %}
+
 
 <!-- day2 -->
 ## 函館: 
@@ -58,11 +62,17 @@ excerpt_separator:  <!--more-->
 - 倉庫內還設有函館歷史廣場，展示函館的歷史和文化。
 {% include custom-nav-links.html src="202312dl_froormap.jpg" data="photo" title="photo" %} 
 {% include custom-nav-links.html src="ComfyUI_00202_.png" data="photo" title="photo" %}*AI generated!* 
+{% include custom-nav-links.html src="DSC01622-256.JPG" data="photo" title="photo" %} 
+
+
 
 ## 函館山纜車山麓站 函館山ロープウェイ山麓: 
 - [Google Map](https://earth.google.com/web/@41.76081792,140.71438878,49.395694a,807.43932684d,35y,8.15078197h,54.19555154t,0r/ "google"){:target="_blank"} 
 - 函館山纜車是通往函館山的交通工具。纜車全長約1.8公里，高低落差約408米，運行時間約3分鐘。
 {% include custom-nav-links.html src="344bea6a-a539-4159-b1c4-fc5c9a62c5e0.jpeg" data="photo" title="photo" %}*AI generated!* 
+{% include custom-nav-links.html src="DSC01724-452.JPG" data="photo" title="photo" %}
+
+
 
 <!-- day3-->
 
@@ -77,6 +87,8 @@ excerpt_separator:  <!--more-->
 - 名字來源於位於坂道頂端的八幡神社。八幡神社建於1859年，是函館歷史最悠久的神社之一。
 {% include custom-nav-links.html src="ComfyUI_00197_.png" data="photo" title="photo" %}
 *AI generated!* 
+{% include custom-nav-links.html src="DSC01659-335.JPG" data="photo" title="photo" %}
+
 
 ## 函館市舊英國領事館 旧イギリス領事館:
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E5%87%BD%E9%A4%A8%E5%B8%82%E8%88%8A%E8%8B%B1%E5%9C%8B%E9%A0%98%E4%BA%8B%E9%A4%A8 "Wiki"){:target="_blank"}  
@@ -85,6 +97,8 @@ excerpt_separator:  <!--more-->
 - 1934年，英國將領事館遷至東京，該建築被出售給私人。1979年，函館市政府購入該建築，並於1981年將其改建為博物館，對外開放。 
 {% include custom-nav-links.html src="ComfyUI_00195_.png" data="photo" title="photo" %}
 *AI generated!* 
+{% include custom-nav-links.html src="DSC01711-391.JPG" data="photo" title="photo" %}
+
 
 ## 五稜郭公園: 
 - [Wiki](https://zh.wikipedia.org/wiki/%E4%BA%94%E7%A8%9C%E9%83%AD "Wiki"){:target="_blank"} 
@@ -92,6 +106,7 @@ excerpt_separator:  <!--more-->
 - 是一座星形要塞，位於日本北海道函館市。它是日本現存唯一一座星形要塞。
 - 由江戶幕府於1864年建造，當時正值日本幕府末期。五稜郭的設計參考了法國的星形要塞，採用了最先進的軍事技術。
 {% include custom-nav-links.html src="北海道五稜郭.jpg" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="DSC01587-189.JPG" data="photo" title="photo" %} 
 
 <!-- day4-->
 ## Toyakoonsen 洞爺湖温泉:
@@ -100,21 +115,28 @@ excerpt_separator:  <!--more-->
 - 洞爺湖所在的支笏洞爺國立公園一帶形成了洞爺湖有珠山地質公園，日本面積第9大的湖泊，在火山口湖中僅次於屈斜路湖和支笏湖
 {% include custom-nav-links.html src="ComfyUI_00206_.png" data="photo" title="photo" %}
 *AI generated!* 
+{% include custom-nav-links.html src="IMG_1489-539.JPG" data="photo" title="photo" %}
 
-## 有珠山口纜車 有珠山ロープウェイ Mt. USU Ropeway:
+
+## 昭和新山（しょうわしんざん）有珠山口纜車 有珠山ロープウェイ Mt. USU Ropeway:
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%9C%89%E7%8F%A0%E5%B1%B1 "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.54440433,140.85951516,204.98891709a,10692.41103101d,35y,2.18865254h,54.44403425t,0r/ "google"){:target="_blank"} 
+- 是一座位於日本北海道有珠郡壯瞥町的火山。被包含在支笏洞爺國立公園的範圍內。昭和新山是在1943年12月到1945年9月期間噴發所形成的一座火山。在2007年與有珠山被一起選為日本地質百選。
 - 搭乘纜車，你可以欣賞到羊蹄山（又稱蝦夷富士）和有珠山的壯麗景色。
 - 有珠山由兩座火山組成：有珠山舊山和昭和新山。有珠山舊山是一座古老的火山，形成於約2萬年前。昭和新山是一座年輕的火山，形成於1943年的一次火山噴發。 
 - 在過去的100年裡，有珠山已經噴發了四次。最近的一次噴發發生在2000年。
 {% include custom-nav-links.html src="cable_car.jpg" data="photo" title="photo" %}
 *AI generated!* 
+{% include custom-nav-links.html src="IMG_1566-597.JPG" data="photo" title="photo" %}
+
 
 <!-- day5-->
 ## 支笏湖 Poropinai Observatory ポロピナイ展望台:
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%94%AF%E7%AC%8F%E6%B4%9E%E7%88%BA%E5%9C%8B%E7%AB%8B%E5%85%AC%E5%9C%92 "Wiki"){:target="_blank"} 
 - [Google Earth](https://earth.google.com/web/@42.80291689,141.34315818,257.09632222a,27342.58355571d,35y,3.06627031h,70.21664526t,0r/ "google"){:target="_blank"} 
 - 形成於約4萬年前的一次火山爆發，是位於日本北海道千歲市的一個火山口湖，是日本第二深的湖泊，最深處達363公尺。
+{% include custom-nav-links.html src="DSC01756-666.JPG" data="photo" title="photo" %}
+
 
 ## 三井OUTLET PARK 札幌北廣島: 
 - [Google Earth](https://earth.google.com/web/@42.97209512,141.47169914,101.13574916a,1347.46422705d,35y,3.00492837h,57.82762122t,0r/ "google"){:target="_blank"} 
