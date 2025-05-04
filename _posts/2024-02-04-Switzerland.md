@@ -31,6 +31,12 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Kapellbr%c3%bccke/@47.05140844,8.30785295,430.32688912a,726.35912428d,34.99999957y,-1.52568532h,58.6691174t,0r/ "GoogleEarth"){:target="_blank"} 
 - 是位於瑞士琉森（Luzern）的一條木結構廊橋，長204米（670英尺），跨越羅伊斯河（Reuss）兩岸，接近琉森湖的出口處。這條廊橋是歐洲現存最古老的木橋，是琉森的地標，也是瑞士的一大旅遊景點。
 
+## 艾因斯特阿根修道院(Einsiedeln Abbey)
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A4%A9%E4%B8%BB%E6%95%99%E8%89%BE%E5%9B%A0%E8%A5%BF%E5%BE%B7%E5%80%AB%E8%87%AA%E6%B2%BB%E6%9C%83%E9%99%A2%E5%8D%80 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Einsiedeln+Abbey "GoogleEarth"){:target="_blank"} 
+- 是瑞士最重要的朝聖地之一，也是歐洲最宏偉的巴洛克修道院建築之一。它位於瑞士施維茨州（Schwyz）的艾因西德倫小鎮，環繞在壯麗的阿爾卑斯山與湖泊之中，歷史悠久、宗教地位崇高。
+- 創立時間：公元 934 年，起源可追溯至公元 835 年
+
 ## 伯恩老城(Altstadt Bern)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E4%BC%AF%E5%B0%94%E5%B0%BC%E8%80%81%E5%9F%8E "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Altstadt+Bern/@46.94831341,7.45025832,549.68507286a,695.05411428d,35y,3.89126575h,42.38955968t,0r/ "GoogleEarth"){:target="_blank"} 
