@@ -6,7 +6,6 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
-# 捷克
 # 捷克共和國（Czech Republic）
 
 ## 基本資料
@@ -84,17 +83,56 @@ excerpt_separator:  <!--more-->
 ## 布拉格城堡(Prague Castle)
 - [Wiki](https://zh.wikipedia.org/wiki/布拉格城堡 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Prague+Castle/@50.09131212,14.40215451,266.93522571a,816.43371876d,34.99999971y,5.69633721h,64.61748327t,360r/ "GoogleEarth"){:target="_blank"} 
-- 歐洲最大的古城堡之一，包含皇家宮殿、聖維特大教堂和黃金巷等歷史建築。
+- 布拉格城堡是捷克首都布拉格的地標建築，也是世界上最大的古代城堡建築群之一，佔地約 70,000 平方公尺。根據《金氏世界紀錄》，它是現存最大且連續使用時間最久的城堡之一，已有超過千年的歷史。
+
+- 歷史概述
+建於 西元 9 世紀，最早由波希米亞公爵所建。
+經歷多次擴建，融合了 羅馬式、哥德式、巴洛克、新古典主義等多種建築風格。
+曾是 神聖羅馬帝國皇帝、波希米亞國王、捷克總統的駐地。
+今日仍是 捷克共和國總統府與重要國事活動舉辦地點。
+- 主要景點
+1. 聖維特大教堂（St. Vitus Cathedral）
+哥德式建築代表作，為王室加冕與安葬場所，是城堡內最宏偉的建築。
+2. 舊皇宮（Old Royal Palace）
+展示中世紀王宮的面貌，包括瓦拉第斯拉夫大廳等古老空間。
+3. 黃金巷（Golden Lane）
+色彩繽紛的小屋街道，據傳卡夫卡曾短暫居住於此。
+4. 聖喬治大殿（St. George's Basilica）
+保存最完整的羅馬式教堂之一，內部現為美術館展覽空間。
+城堡花園與觀景台
+可俯瞰整個布拉格市區與伏爾塔瓦河，風景絕佳。
+
+{% include custom-nav-links.html src="Prague_Castle.png" data="photo" title="photo" %} 
+
+## 布拉格舊城廣場(Old Town Square)
+- [Wiki](https://zh.wikipedia.org/wiki/布拉格舊城廣場 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Old+Town+Square/@50.08897692,14.41857278,214.09406246a,1575.63564039d,35y,5.93696495h,53.32843866t,0r/ "GoogleEarth"){:target="_blank"} 
+- 布拉格舊城廣場（Staroměstské náměstí）是捷克首都布拉格最具代表性的歷史地標之一，位於舊城區（Staré Město）的中心地帶。這座廣場已有超過900年的歷史，曾是中世紀商人和市民集會、舉辦市集和重要活動的場所，如今則是觀光客和當地人聚集的熱門景點。
+{% include custom-nav-links.html src="Old_Town_Square.png" data="photo" title="photo" %} 
+1. 天文鐘（Prague Astronomical Clock）
+位於舊市政廳塔樓上，建於1410年，是世界上現存最古老仍在運作的天文鐘。
+每到整點，鐘面上的「十二門徒遊行」吸引眾多遊客駐足觀賞。
+{% include custom-nav-links.html src="Prague_Astronomical_Clock.png" data="photo" title="photo" %} 
+2. 聖尼古拉教堂（St. Nicholas Church）
+巴洛克風格建築，內部華麗，有著精緻的壁畫和水晶吊燈。
+經常舉辦古典音樂會。
+3. 提恩教堂（Church of Our Lady before Týn）
+哥德式雙塔教堂，外觀雄偉，是布拉格的地標之一。
+教堂內部收藏有許多文藝復興與哥德風格的藝術品。
+4. 胡斯雕像（Jan Hus Memorial）
+位於廣場中央，為紀念宗教改革先驅揚·胡斯而建（1915年落成）。
+象徵捷克民族自決與宗教自由的精神。
+哥德與文藝復興風格建築
+- 廣場四周圍繞著色彩繽紛的古老建築，每一棟皆有其歷史與藝術價值。
+多數現已改為餐廳、咖啡廳、藝廊或博物館。
+
 
 ## 查理大橋(Charles Bridge)
 - [Wiki](https://zh.wikipedia.org/wiki/查理大橋 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Charles+Bridge/@50.08631194,14.41129624,184.93665218a,718.86418397d,35y,1.5093767h,60.10273521t,0r/ "GoogleEarth"){:target="_blank"} 
 - 查理大橋是聯接老城與布拉格城堡及鄰近地區最重要的通道，也使得布拉格成為東西歐之間重要的貿易通道。該橋最初稱為「石橋」（Kamenný most）或「布拉格橋」（Pražský most），直到1870年才命名為「查理大橋」。
+{% include custom-nav-links.html src="Charles Bridge.png" data="photo" title="photo" %} 
 
-## 布拉格舊城廣場(Old Town Square)
-- [Wiki](https://zh.wikipedia.org/wiki/布拉格舊城廣場 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Old+Town+Square/@50.08897692,14.41857278,214.09406246a,1575.63564039d,35y,5.93696495h,53.32843866t,0r/ "GoogleEarth"){:target="_blank"} 
-- 古老的市中心廣場，被彩色建築、聖尼古拉斯教堂和舊市政廳環繞。
 
 ## 捷克克魯姆洛夫城堡(Český Krumlov Castle)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%8D%B7%E5%85%8B%E5%85%8B%E9%B2%81%E5%A7%86%E6%B4%9B%E5%A4%AB%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
