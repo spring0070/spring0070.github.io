@@ -63,18 +63,6 @@ excerpt_separator:  <!--more-->
 
 ## 精選景點推薦
 
-### 1. 布拉格城堡（Prague Castle）
-歐洲最大古堡之一，俯瞰整座城市，內有聖維特大教堂與王宮。
-
-### 2. 舊城廣場與天文鐘（Old Town Square & Astronomical Clock）
-中世紀廣場與世界最古老的天文鐘，每到整點吸引眾人駐足。
-
-### 3. 查理大橋（Charles Bridge）
-橫跨伏爾塔瓦河的石橋，兩側雕像林立，是布拉格地標。
-
-### 4. 庫倫洛夫（Český Krumlov）
-聯合國教科文組織世界遺產，小鎮有如童話世界般的魅力。
-
 ### 5. 卡羅維瓦利（Karlovy Vary）
 歷史悠久的溫泉城市，以優雅的巴洛克建築和療養文化聞名。
 
@@ -116,6 +104,8 @@ excerpt_separator:  <!--more-->
 2. 聖尼古拉教堂（St. Nicholas Church）
 巴洛克風格建築，內部華麗，有著精緻的壁畫和水晶吊燈。
 經常舉辦古典音樂會。
+{% include custom-nav-links.html src="Prague_St.Nicholas_Church.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Prague_St.Nicholas_Church_interior.png" data="photo" title="photo" %} 
 3. 提恩教堂（Church of Our Lady before Týn）
 哥德式雙塔教堂，外觀雄偉，是布拉格的地標之一。
 教堂內部收藏有許多文藝復興與哥德風格的藝術品。
@@ -130,57 +120,22 @@ excerpt_separator:  <!--more-->
 ## 查理大橋(Charles Bridge)
 - [Wiki](https://zh.wikipedia.org/wiki/查理大橋 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Charles+Bridge/@50.08631194,14.41129624,184.93665218a,718.86418397d,35y,1.5093767h,60.10273521t,0r/ "GoogleEarth"){:target="_blank"} 
-- 查理大橋是聯接老城與布拉格城堡及鄰近地區最重要的通道，也使得布拉格成為東西歐之間重要的貿易通道。該橋最初稱為「石橋」（Kamenný most）或「布拉格橋」（Pražský most），直到1870年才命名為「查理大橋」。
-{% include custom-nav-links.html src="Charles Bridge.png" data="photo" title="photo" %} 
-
+- 查理大橋是布拉格最具代表性的地標之一，橫跨伏爾塔瓦河，連接舊城區（Staré Město）與小區（Malá Strana），自中世紀以來便是布拉格的重要交通要道，也是歐洲最著名的石橋之一。
+- 建造於 1357 年，由神聖羅馬皇帝兼波希米亞國王查理四世下令興建，取代因洪水毀壞的朱迪思橋。
+- 建橋日期為 1357 年 7 月 9 日上午 5:31，這個時間形成了對稱數字「135797531」，據說選擇此時間具有神秘意義。。
+{% include custom-nav-links.html src="Charles_Bridge.png" data="photo" title="photo" %} 
 
 ## 捷克克魯姆洛夫城堡(Český Krumlov Castle)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%8D%B7%E5%85%8B%E5%85%8B%E9%B2%81%E5%A7%86%E6%B4%9B%E5%A4%AB%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/%c4%8cesk%c3%bd+Krumlov+Castle/@48.81216389,14.31589969,503.02885524a,736.62258247d,35y,3.52586134h,55.11897108t,0r/ "GoogleEarth"){:target="_blank"} 
-- 位於維特瓦河彎曲處的文藝復興式城堡，周圍有美麗的花園和小巷。是一座興建於1240年的中世紀城堡。
+- Český Krumlov Castle（克魯姆洛夫城堡）是捷克南部最重要、最壯觀的歷史古蹟之一，位於聯合國教科文組織世界遺產名錄中的小鎮——Český Krumlov（契斯基克魯姆洛夫）。這座城堡是捷克僅次於布拉格城堡的第二大城堡建築群，結合了哥德式、文藝復興、巴洛克等多種建築風格，展示了從13世紀至今的歷史演變。
+- 建於13世紀，最初為羅森伯格家族（Rožmberk）建造。
+- 城堡包含超過40棟建築、5個庭院，坐落在蜿蜒的伏爾塔瓦河（Vltava）懸崖上。
+- 彩繪塔（The Painted Tower / Zámek věž）是 Český Krumlov Castle（契斯基克魯姆洛夫城堡）的標誌性建築，也是整個小鎮最吸引目光的地標之一。它高聳於城堡區與小鎮之上，外觀鮮豔、細節豐富，是文藝復興與巴洛克藝術的完美結合，被譽為捷克最美麗的塔樓之一。
+{% include custom-nav-links.html src="Český_Krumlov_State Castle.png" data="photo" title="photo" %} 
 
-## 特爾奇（捷克語：Telč，捷克語發音：[tɛltʃ]；德語：Teltsch）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E6%B3%B0%E5%B0%94%E5%A5%87 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Tel%c4%8d/@49.18043183,15.45852229,512.86256173a,1502.56056345d,34.99999376y,-0.2182561h,38.9155535t,0r/ "GoogleEarth"){:target="_blank"} 
-- 以其文藝復興式建築和石磚廣場而聞名，是一個被聯合國教科文組織列為世界文化遺產的地方。
-
-## 卡爾施泰因城堡（卡爾斯坦城堡，德語：Burg Karlstein，意為卡爾石頭城堡，捷克語：Hrad Karlštejn）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%B0%94%E6%96%BD%E6%B3%B0%E5%9B%A0%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Karl%c5%a1tejn+Castle/@49.93952341,14.18803565,275.78129431a,745.63032468d,34.99999964y,-5.90590756h,62.30160513t,0r/ "GoogleEarth"){:target="_blank"} 
-- 由神聖羅馬帝國皇帝和波西米亞國王查理四世創建於 1348年。這座城堡是保管王權標記以及波西米亞加冕王冠，神聖的聖物和其他皇家財寶的地方。
-
-## 克里沃克拉城堡（Křivoklát Castle）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%85%8B%E9%87%8C%E6%B2%83%E5%85%8B%E6%8B%89%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/K%c5%99ivokl%c3%a1t+Castle/@50.03759396,13.87215069,263.26898574a,708.59312352d,34.99999965y,-16.89958022h,59.45477754t,0r/ "GoogleEarth"){:target="_blank"} 
-- 建於12世紀的城堡，曾是波希米亞國王的狩獵行宮，具有悠久的歷史和壯麗的風景。
-
-## 奧洛摩次（捷克語：Olomouc；當地方言稱為Olomóc；德語：Olmütz；波蘭語：Ołomuniec）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A5%A7%E6%B4%9B%E7%A9%86%E8%8C%A8"Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Olomouc/@49.59324098,17.25089429,213.85414143a,445.63338513d,34.99999162y,-0.79986537h,52.4241747t,0r/ "GoogleEarth"){:target="_blank"} 
-- 擁有豐富巴洛克建築的城市，其中最著名的景點包括三年廣場（Horní náměstí）、天主教聖母升天主教堂和史克瓦恩斯克石塔。
-
-## 斯皮爾博城堡（捷克語：Špilberk，德語：Spielberg）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E6%96%AF%E7%9A%AE%E7%88%BE%E5%8D%9A%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/%c5%a0pilberk+Castle/@49.19474818,16.59904067,294.76752986a,808.12510565d,35y,-3.69900787h,64.73575557t,0r/ "GoogleEarth"){:target="_blank"} 
-- 是位於捷克城市布爾諾的一座古堡。城堡始建於13世紀時期。14世紀中期之後，這裡成為一座監獄。之後又變為一座兵營。
-
-## 泰雷津集中營(Terezín)
-- [Wiki](https://zh.wikipedia.org/wiki/%E6%B3%B0%E9%9B%B7%E6%B4%A5%E9%9B%86%E4%B8%AD%E8%90%A5 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Terez%c3%adn/@50.51146204,14.15015645,152.66576693a,2033.68489466d,35y,-5.37784976h,50.79640821t,-0r/ "GoogleEarth"){:target="_blank"} 
-- 這是一座曾經被納粹德國用作集中營的城堡，現在是一個紀念館，用來紀念二戰時期的歷史。
-
-## 聖瓦茨拉夫主教座堂（捷克語：Katedrála svatého Václava）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%9C%A3%E7%93%A6%E8%8C%A8%E6%8B%89%E5%A4%AB%E4%B8%BB%E6%95%99%E5%BA%A7%E5%A0%82 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/St.+Wenceslas+Cathedral,+Olomouc/@49.59751923,17.26264408,254.24964044a,687.2918899d,34.99999965y,2.4101273h,61.75862138t,0r/ "GoogleEarth"){:target="_blank"} 
-- 是一座位於捷克共和國奧洛穆茨同名廣場上的新哥德式主教座堂。教堂和廣場都得名於波西米亞大公瓦茨拉夫一世。
-
-## 布爾諾古爾巴宮(Golčův Jeníkov)
-- [Wiki](https://zh.wikipedia.org/wiki/布爾諾古爾巴宮 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Golčův+Jeníkov "GoogleEarth"){:target="_blank"} 
-- 這是一座文藝復興風格的宮殿，位於布爾諾郊區。宮殿內有豐富的藝術收藏品，是一個保存完好的文化遺產。
-
-## 利托米什爾城堡 (deutsch: Schloss LitomyšlLeitomischl) 
-- [Wiki](https://zh.wikipedia.org/wiki/利普尼茨城堡 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Litomy%c5%a1l+Castle/@49.87387728,16.31295786,353.52308357a,460.70174509d,35y,-5.88959469h,56.15331688t,-0r/ "GoogleEarth"){:target="_blank"} 
-- 這座文藝復興風格的城堡位於利普尼茨，是捷克的一個世界文化遺產。城堡內有藝術品和圖書館，是捷克最重要的文化中心之一。
+## Karlovy Vary（卡羅維瓦利），又被稱為「卡爾斯巴德」
+- 是捷克最著名的溫泉療養城市，位於波希米亞西部，距布拉格約2小時車程。它擁有超過600年的溫泉歷史，是歐洲最古老、最具代表性的溫泉療養勝地之一。
+- [YouTube](https://www.youtube.com/watch?v=-z7JOGIr_A8&ab_channel=KarinaWalks4K "YouTube"){:target="_blank"} 
+{% include custom-nav-links.html src="Karlovy_Vary.png" data="photo" title="photo" %} 
 
