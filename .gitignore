@@ -1,8 +1,10 @@
 # Ignore docs files
 _gh_pages
 _site/
+_includes/
 .ruby-version
 .jekyll-cache/
+package-lock.json
 
 # Numerous always-ignore extensions
 *.diff
