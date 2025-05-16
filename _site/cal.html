@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        font:20px;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+    th {
+        background-color: #f2f2f2;
+    }
+    .qty{
+        height: 40px;
+        width: 40px;
+        font-size: 20px;
+    }
+    .quantity{
+        font-size: 20px;
+    }
+    #cal {
+        display: inline-block;
+        height: 100px;
+        font-size: 30px;
+        width:200px;
+        color: green;
+    }
+    input{
+        width:50px;
+    }
+    #clean {
+        display: inline-block;
+        height: 100px;
+        font-size: 30px;
+    }
+    #totalAmount {
+        display: inline-block;
+        height: 100px;
+        font-size: 50px;
+        color:red;
+    }
+</style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>大銀元寶</td>
+            <td><span class="price">100</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>往生錢</td>
+            <td><span class="price">60</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>美鈔,台幣</td>
+            <td><span class="price">60</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>錫箔組合</td>
+            <td><span class="price">100</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>銀紙單隻</td>
+            <td><span class="price">7</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>60</td>
+            <td><span class="price">60</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>50</td>
+            <td><span class="price">50</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td><span class="price">35</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td><span class="price">30</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td><span class="price">25</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td><span class="price">20</span></td>
+            <td><input type="number" class="quantity" value=""></td>
+            <td><button class="qty" onclick="setQuantity(this, 1)">1</button>
+                <button class="qty" onclick="setQuantity(this, 2)">2</button>
+                <button class="qty" onclick="setQuantity(this, 3)">3</button>
+                <button class="qty" onclick="setQuantity(this, 4)">4</button>
+                <button class="qty" onclick="setQuantity(this, 5)">5</button>
+                <button class="qty" onclick="setQuantity(this, 6)">6</button>
+                <button class="qty" onclick="setQuantity(this, 7)">7</button>
+                <button class="qty" onclick="setQuantity(this, 8)">8</button>
+                <button class="qty" onclick="setQuantity(this, 9)">9</button>
+                <button class="qty" onclick="setQuantity(this, 10)">+10</button>
+                <button class="qty" onclick="setQuantity(this, 0)">0</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<br>
+<button id="cal" onclick="calculateTotal()">結算</button>
+<button id="clean" onclick="cleanAll()">清除</button>
+
+總結: $<span id="totalAmount">0</span>
+
+<script>
+function calculateTotal() {
+    var total = 0;
+    var products = document.querySelectorAll('tbody tr');
+    products.forEach(function(product) {
+        var price = parseFloat(product.querySelector('.price').textContent);
+        var quantity = parseInt(product.querySelector('.quantity').value);
+        if(quantity){
+            total += price * quantity;
+        }
+    });
+    document.getElementById('totalAmount').textContent = total;
+}
+function setQuantity(button, value) {
+    var quantityInput = button.parentNode.previousElementSibling.querySelector('.quantity');
+    if(value==10){
+        quantityInput.value =  parseInt(quantityInput.value) + parseInt(value);
+    }
+    else{
+        quantityInput.value = value;
+    }
+
+    calculateTotal();
+    if (value > 0) {
+        quantityInput.style.color = "green";
+    } else {
+        quantityInput.style.color = "black";
+    } 
+}
+function cleanAll() {
+    var quantityInputs = document.querySelectorAll('.quantity');
+    quantityInputs.forEach(function(input) {
+        input.value = 0;
+    });
+    document.getElementById('totalAmount').textContent = 0;
+}
+// Add event listeners to all quantity inputs
+var quantityInputs = document.querySelectorAll('.quantity');
+quantityInputs.forEach(function(input) {
+    input.addEventListener('input', function() {
+        calculateTotal();
+    });
+});
+</script>
+
+</body>
+</html>
