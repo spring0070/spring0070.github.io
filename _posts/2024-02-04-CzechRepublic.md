@@ -61,16 +61,11 @@ excerpt_separator:  <!--more-->
 
 ---
 
-## 精選景點推薦
-
-### 5. 卡羅維瓦利（Karlovy Vary）
-歷史悠久的溫泉城市，以優雅的巴洛克建築和療養文化聞名。
-
----
-
 ## 布拉格城堡(Prague Castle)
 - [Wiki](https://zh.wikipedia.org/wiki/布拉格城堡 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Prague+Castle/@50.09131212,14.40215451,266.93522571a,816.43371876d,34.99999971y,5.69633721h,64.61748327t,360r/ "GoogleEarth"){:target="_blank"} 
+- [YouTube](https://www.youtube.com/watch?v=lEB5xaqjulc&ab_channel=August "YouTube"){:target="_blank"} 
+- [YouTube](https://www.youtube.com/watch?v=HxAx79fVDVo&ab_channel=PerceptionPhilosophy "YouTube"){:target="_blank"} 
 - 布拉格城堡是捷克首都布拉格的地標建築，也是世界上最大的古代城堡建築群之一，佔地約 70,000 平方公尺。根據《金氏世界紀錄》，它是現存最大且連續使用時間最久的城堡之一，已有超過千年的歷史。
 
 - 歷史概述
@@ -94,7 +89,9 @@ excerpt_separator:  <!--more-->
 
 ## 布拉格舊城廣場(Old Town Square)
 - [Wiki](https://zh.wikipedia.org/wiki/布拉格舊城廣場 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Old+Town+Square/@50.08897692,14.41857278,214.09406246a,1575.63564039d,35y,5.93696495h,53.32843866t,0r/ "GoogleEarth"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Old+Town+Square/@50.08897692,14.41857278,214.09406246a,1575.63564039d,35y,5.93696495h,53.32843866t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube](https://youtu.be/fXlTURiSbWA?si=tf1vv0YDFqk8y3I7 "YouTube"){:target="_blank"} 
+- [YouTube](https://youtu.be/pZF0eZPZBMk?si=LjKu1DvdYUaKlEDq "YouTube"){:target="_blank"} 
 - 布拉格舊城廣場（Staroměstské náměstí）是捷克首都布拉格最具代表性的歷史地標之一，位於舊城區（Staré Město）的中心地帶。這座廣場已有超過900年的歷史，曾是中世紀商人和市民集會、舉辦市集和重要活動的場所，如今則是觀光客和當地人聚集的熱門景點。
 {% include custom-nav-links.html src="Old_Town_Square.png" data="photo" title="photo" %} 
 1. 天文鐘（Prague Astronomical Clock）
@@ -116,19 +113,22 @@ excerpt_separator:  <!--more-->
 - 廣場四周圍繞著色彩繽紛的古老建築，每一棟皆有其歷史與藝術價值。
 多數現已改為餐廳、咖啡廳、藝廊或博物館。
 
-
 ## 查理大橋(Charles Bridge)
 - [Wiki](https://zh.wikipedia.org/wiki/查理大橋 "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Charles+Bridge/@50.08631194,14.41129624,184.93665218a,718.86418397d,35y,1.5093767h,60.10273521t,0r/ "GoogleEarth"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Charles+Bridge/@50.08631194,14.41129624,184.93665218a,718.86418397d,35y,1.5093767h,60.10273521t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube](https://www.youtube.com/watch?v=h5NELNFGPMI&ab_channel=DWTravel "YouTube"){:target="_blank"}  
 - 查理大橋是布拉格最具代表性的地標之一，橫跨伏爾塔瓦河，連接舊城區（Staré Město）與小區（Malá Strana），自中世紀以來便是布拉格的重要交通要道，也是歐洲最著名的石橋之一。
 - 建造於 1357 年，由神聖羅馬皇帝兼波希米亞國王查理四世下令興建，取代因洪水毀壞的朱迪思橋。
 - 建橋日期為 1357 年 7 月 9 日上午 5:31，這個時間形成了對稱數字「135797531」，據說選擇此時間具有神秘意義。。
 {% include custom-nav-links.html src="Charles_Bridge.png" data="photo" title="photo" %} 
 
-## 捷克克魯姆洛夫城堡(Český Krumlov Castle)
+## 克魯姆洛夫城堡(Český Krumlov Castle)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%8D%B7%E5%85%8B%E5%85%8B%E9%B2%81%E5%A7%86%E6%B4%9B%E5%A4%AB%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/%c4%8cesk%c3%bd+Krumlov+Castle/@48.81216389,14.31589969,503.02885524a,736.62258247d,35y,3.52586134h,55.11897108t,0r/ "GoogleEarth"){:target="_blank"} 
-- Český Krumlov Castle（克魯姆洛夫城堡）是捷克南部最重要、最壯觀的歷史古蹟之一，位於聯合國教科文組織世界遺產名錄中的小鎮——Český Krumlov（契斯基克魯姆洛夫）。這座城堡是捷克僅次於布拉格城堡的第二大城堡建築群，結合了哥德式、文藝復興、巴洛克等多種建築風格，展示了從13世紀至今的歷史演變。
+- [YouTube](https://www.youtube.com/watch?v=ffS17KkyaFA&ab_channel=RokGoesAround "YouTube"){:target="_blank"} 
+- [YouTube](https://www.youtube.com/watch?v=Jqp1MvAsxuo&ab_channel=KarinaWalks4K "YouTube"){:target="_blank"} 
+
+- 是捷克南部最重要、最壯觀的歷史古蹟之一，位於聯合國教科文組織世界遺產名錄中的小鎮——Český Krumlov（契斯基克魯姆洛夫）。這座城堡是捷克僅次於布拉格城堡的第二大城堡建築群，結合了哥德式、文藝復興、巴洛克等多種建築風格，展示了從13世紀至今的歷史演變。
 - 建於13世紀，最初為羅森伯格家族（Rožmberk）建造。
 - 城堡包含超過40棟建築、5個庭院，坐落在蜿蜒的伏爾塔瓦河（Vltava）懸崖上。
 - 彩繪塔（The Painted Tower / Zámek věž）是 Český Krumlov Castle（契斯基克魯姆洛夫城堡）的標誌性建築，也是整個小鎮最吸引目光的地標之一。它高聳於城堡區與小鎮之上，外觀鮮豔、細節豐富，是文藝復興與巴洛克藝術的完美結合，被譽為捷克最美麗的塔樓之一。
@@ -136,6 +136,7 @@ excerpt_separator:  <!--more-->
 
 ## Karlovy Vary（卡羅維瓦利），又被稱為「卡爾斯巴德」
 - 是捷克最著名的溫泉療養城市，位於波希米亞西部，距布拉格約2小時車程。它擁有超過600年的溫泉歷史，是歐洲最古老、最具代表性的溫泉療養勝地之一。
+- [YouTube](https://www.youtube.com/watch?v=r9wiu0r8BqE&t=19s&ab_channel=BeforeYouGo "YouTube"){:target="_blank"} 
 - [YouTube](https://www.youtube.com/watch?v=-z7JOGIr_A8&ab_channel=KarinaWalks4K "YouTube"){:target="_blank"} 
 {% include custom-nav-links.html src="Karlovy_Vary.png" data="photo" title="photo" %} 
 
