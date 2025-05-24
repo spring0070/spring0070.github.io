@@ -134,7 +134,7 @@ excerpt_separator:  <!--more-->
 - 彩繪塔（The Painted Tower / Zámek věž）是 Český Krumlov Castle（契斯基克魯姆洛夫城堡）的標誌性建築，也是整個小鎮最吸引目光的地標之一。它高聳於城堡區與小鎮之上，外觀鮮豔、細節豐富，是文藝復興與巴洛克藝術的完美結合，被譽為捷克最美麗的塔樓之一。
 {% include custom-nav-links.html src="Český_Krumlov_State Castle.png" data="photo" title="photo" %} 
 
-## Karlovy Vary（卡羅維瓦利），又被稱為「卡爾斯巴德」
+## 卡羅維瓦利（Karlovy Vary）
 - 是捷克最著名的溫泉療養城市，位於波希米亞西部，距布拉格約2小時車程。它擁有超過600年的溫泉歷史，是歐洲最古老、最具代表性的溫泉療養勝地之一。
 - [YouTube](https://www.youtube.com/watch?v=r9wiu0r8BqE&t=19s&ab_channel=BeforeYouGo "YouTube"){:target="_blank"} 
 - [YouTube](https://www.youtube.com/watch?v=-z7JOGIr_A8&ab_channel=KarinaWalks4K "YouTube"){:target="_blank"} 
