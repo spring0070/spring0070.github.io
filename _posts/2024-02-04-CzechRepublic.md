@@ -7,6 +7,8 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 # 捷克共和國（Czech Republic）
+- [Youtube](https://youtu.be/WtkB5uRRQhg?si=UC0eZB1LuBuGnFo1 "YT"){:target="_blank"} 
+
 
 ## 基本資料
 
