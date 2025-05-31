@@ -1,10 +1,7 @@
 ---
-layout: post
-title:  World
-tags: 
-categories:
-- Article
-excerpt_separator:  <!--more-->
+layout: page
+title: World
+sidebar_link: true
 ---
 # Europe
 
@@ -548,7 +545,3 @@ excerpt_separator:  <!--more-->
 - 賴索托([Lesotho]({% post_url 2024-03-20-Lesotho %})) - [Wiki](https://zh.wikipedia.org/wiki/賴索托 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/賴索托 "GoogleEarth"){:target="_blank"} - 人口:225.26 萬  0.03%
 
 - 史瓦帝尼([Swaziland]({% post_url 2024-03-20-Swaziland %})) - [Wiki](https://zh.wikipedia.org/wiki/史瓦帝尼 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/史瓦帝尼 "GoogleEarth"){:target="_blank"} - 人口:137.77 萬  0.02%
-
-
-
-
