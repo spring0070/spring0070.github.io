@@ -6,12 +6,12 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
-# 捷克共和國（Czech Republic）
+# 🇨🇿捷克共和國（Czech Republic）
+- [GoogleEarth](https://earth.google.com/web/search/Czech+Republic/@49.80175924,15.46917705,420.83122109a,768493.80278494d,35y,0h,0t,0r/ "GoogleEarth")
 - [Youtube](https://youtu.be/WtkB5uRRQhg?si=UC0eZB1LuBuGnFo1 "YT"){:target="_blank"} 
-
+---
 
 ## 基本資料
-
 - **首都**：布拉格（Prague）  
 - **官方語言**：捷克語（Czech）  
 - **人口**：約 1,070 萬人  
