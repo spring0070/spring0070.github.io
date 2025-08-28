@@ -22,13 +22,56 @@ excerpt_separator:  <!--more-->
 - 經濟：諾福克島的經濟主要依賴於旅遊業、農業和漁業。該地區擁有豐富的自然景觀和文化遺產，吸引了一定數量的遊客。
 
 - 政治：諾福克島是澳大利亞的一個外餘地，享有一定程度的自治權利。該地區設有地方政府，負責管理當地事務，但外交和國防等領域由澳大利亞政府負責。
+
 ## 金斯敦（Kingston）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E9%87%91%E6%96%AF%E6%95%A6_(%E8%AF%BA%E7%A6%8F%E5%85%8B%E5%B2%9B) "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+National+Park/@-29.05139859,167.9567643,67.67930111a,11550.15427782d,34.99999075y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 是澳大利亞聯邦領地諾福克島的首府和行政、歷史和文化中心。
+{% include custom-nav-links.html src="NorfolkIsland_Kingston.png" data="photo" title="photo" %}
 
 ## 諾福克島歷史遺址(Norfolk Island Historic Sites)
 - [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Historic+Sites/@-29.0498334,167.96307675,49.71228166a,4798.59709021d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這些歷史遺址包括古老的監獄、教堂和墓地，反映了諾福克島的殖民歷史和文化遺產。
+{% include custom-nav-links.html src="NorfolkIsland_Historic_Sites.png" data="photo" title="photo" %}
+
+## 諾福克島海灘（英語：Norfolk Island Beaches）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Beaches/@-29.05,167.96,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島擁有眾多美麗的海灘，以其潔白的沙灘、清澈的海水和寧靜的環境而聞名。
+{% include custom-nav-links.html src="NorfolkIsland_Beaches.png" data="photo" title="photo" %}
+
+## 諾福克島珊瑚礁（英語：Norfolk Island Coral Reefs）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Coral+Reefs/@-29.05,167.96,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島擁有豐富的珊瑚礁生態系統，是潛水和海洋探險的理想地點。
+{% include custom-nav-links.html src="NorfolkIsland_Coral_Reefs.png" data="photo" title="photo" %}
+
+## 諾福克島文化中心（英語：Norfolk Island Cultural Center）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Cultural+Center/@-29.05,167.96,100a,500d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 展示諾福克島傳統文化的地方，遊客可以體驗諾福克島文化、傳統舞蹈和手工藝。
+{% include custom-nav-links.html src="NorfolkIsland_Cultural_Center.png" data="photo" title="photo" %}
+
+## 諾福克島日落（英語：Norfolk Island Sunset）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Sunset/@-29.05,167.96,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島以其壯麗的日落景色而聞名，是攝影愛好者和浪漫情侶的理想地點。
+{% include custom-nav-links.html src="NorfolkIsland_Sunset.png" data="photo" title="photo" %}
+
+## 諾福克島海洋生物（英語：Norfolk Island Marine Life）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Marine+Life/@-29.05,167.96,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島擁有豐富的海洋生物多樣性，包括各種魚類、海龜和海洋哺乳動物。
+{% include custom-nav-links.html src="NorfolkIsland_Marine_Life.png" data="photo" title="photo" %}
+
+## 諾福克島傳統村落（英語：Traditional Norfolk Island Villages）
+- [GoogleEarth](https://earth.google.com/web/search/Traditional+Norfolk+Island+Villages/@-29.05,167.96,500a,2000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島的傳統村落展示了該國豐富的文化遺產，包括傳統建築、手工藝和生活方式。
+{% include custom-nav-links.html src="NorfolkIsland_Traditional_Villages.png" data="photo" title="photo" %}
+
+## 諾福克島漁業景觀（英語：Norfolk Island Fishing Landscape）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Fishing/@-29.05,167.96,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島的漁業是該國經濟的重要支柱，提供豐富的海鮮資源和就業機會。
+{% include custom-nav-links.html src="NorfolkIsland_Fishing_Landscape.png" data="photo" title="photo" %}
+
+## 諾福克島農業景觀（英語：Norfolk Island Agricultural Landscape）
+- [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Agriculture/@-29.05,167.96,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 諾福克島擁有豐富的農業景觀，包括各種農作物和畜牧業。
+{% include custom-nav-links.html src="NorfolkIsland_Agricultural_Landscape.png" data="photo" title="photo" %}
 
 

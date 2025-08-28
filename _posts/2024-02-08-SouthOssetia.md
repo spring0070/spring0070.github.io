@@ -21,10 +21,28 @@ excerpt_separator:  <!--more-->
 
 - 國際地位： 多數國家和國際組織，包括聯合國，未承認南奧塞梯的獨立。格魯吉亞政府堅持南奧塞梯是其領土的一部分，這一立場得到了國際上多數國家的支持。
 
-
 ## 茲辛瓦利（茨辛瓦利，奧塞提亞語：Цхинвал[ʃχinvɒɫ]；喬治亞語：ცხინვალი[t͡sʰχinvali]
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E8%8C%A8%E6%AC%A3%E7%93%A6%E5%88%A9 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Tskhinvali/@42.19545864,43.99563336,862.93727987a,30565.72208238d,30.00000428y,359.99995543h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 喬治亞宣稱擁有南奧塞提亞的主權，根據該國的行政區劃，茲辛瓦利屬於什達-卡特利州，距離首都提比里西約100公里。
+{% include custom-nav-links.html src="SouthOssetia_Tskhinvali.png" data="photo" title="photo" %}
+
+## 南奧塞提亞山脈（奧塞提亞語：Хуссар Ирыстон）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E9%AB%98%E5%8A%A0%E7%B4%A2%E5%B1%B1%E8%84%89 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/South+Ossetia+Mountains/@42.5,44.0,0a,1000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 南奧塞提亞地區的主要山脈，屬於高加索山脈的一部分，以其壯麗的自然風光和豐富的礦產資源而聞名。
+{% include custom-nav-links.html src="SouthOssetia_Mountains.png" data="photo" title="photo" %}
+
+## 利亞赫維河（奧塞提亞語：Лехура）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%88%A9%E4%BA%9A%E8%B5%AB%E7%BB%B4%E6%B2%B3 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Liakhvi+River/@42.19545864,43.99563336,862.93727987a,30565.72208238d,30.00000428y,359.99995543h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 流經南奧塞提亞的主要河流，是該地區重要的水源和自然景觀，為當地農業和生態系統提供支持。
+{% include custom-nav-links.html src="SouthOssetia_Liakhvi_River.png" data="photo" title="photo" %}
+
+## 南奧塞提亞國家博物館（奧塞提亞語：Хуссар Ирыстоны националон музей）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%A5%A7%E5%A1%9E%E6%8F%90%E4%BA%9A "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/South+Ossetia+National+Museum/@42.19545864,43.99563336,862.93727987a,30565.72208238d,30.00000428y,359.99995543h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 位於茲辛瓦利的博物館，展示南奧塞提亞的歷史、文化和民族遺產，是了解該地區文化的重要場所。
+{% include custom-nav-links.html src="SouthOssetia_National_Museum.png" data="photo" title="photo" %}
 
 

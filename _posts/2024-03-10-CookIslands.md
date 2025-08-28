@@ -24,11 +24,53 @@ excerpt_separator:  <!--more-->
 ## 阿瓦魯阿瓦魯海灘(Avarua Harbour)
 - [GoogleEarth](https://earth.google.com/web/search/Avarua+Harbour/@-21.2049992,-159.774953,-0.1419237a,461.0129564d,34.99999999y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是庫克群島的首都拉羅湾的主要港口，周圍有熱鬧的市場、餐廳和商店，是探索庫克群島文化和購物的理想地點。
+{% include custom-nav-links.html src="CookIslands_Avarua_Harbour.png" data="photo" title="photo" %}
 
 ## 庫克群島國家博物館(Cook Islands National Museum)
 {:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+National+Museum/@-21.206752,-159.769664,6.6109447a,977.08471608d,34.99999997y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是一座位於拉羅湾的博物館，展示了庫克群島的歷史、文化和傳統工藝品，是了解該國文化和歷史的重要場所。
+{% include custom-nav-links.html src="CookIslands_National_Museum.png" data="photo" title="photo" %}
+
+## 庫克群島海灘（英語：Cook Islands Beaches）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Beaches/@-21.2,-159.8,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島擁有眾多美麗的海灘，以其潔白的沙灘、清澈的海水和寧靜的環境而聞名。
+{% include custom-nav-links.html src="CookIslands_Beaches.png" data="photo" title="photo" %}
+
+## 庫克群島珊瑚礁（英語：Cook Islands Coral Reefs）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Coral+Reefs/@-21.2,-159.8,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島擁有豐富的珊瑚礁生態系統，是潛水和海洋探險的理想地點。
+{% include custom-nav-links.html src="CookIslands_Coral_Reefs.png" data="photo" title="photo" %}
+
+## 庫克群島文化中心（英語：Cook Islands Cultural Center）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Cultural+Center/@-21.21,-159.77,100a,500d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 展示庫克群島傳統文化的地方，遊客可以體驗庫克群島文化、傳統舞蹈和手工藝。
+{% include custom-nav-links.html src="CookIslands_Cultural_Center.png" data="photo" title="photo" %}
+
+## 庫克群島日落（英語：Cook Islands Sunset）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Sunset/@-21.2,-159.8,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島以其壯麗的日落景色而聞名，是攝影愛好者和浪漫情侶的理想地點。
+{% include custom-nav-links.html src="CookIslands_Sunset.png" data="photo" title="photo" %}
+
+## 庫克群島海洋生物（英語：Cook Islands Marine Life）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Marine+Life/@-21.2,-159.8,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島擁有豐富的海洋生物多樣性，包括各種魚類、海龜和海洋哺乳動物。
+{% include custom-nav-links.html src="CookIslands_Marine_Life.png" data="photo" title="photo" %}
+
+## 庫克群島傳統村落（英語：Traditional Cook Islands Villages）
+- [GoogleEarth](https://earth.google.com/web/search/Traditional+Cook+Islands+Villages/@-21.2,-159.8,500a,2000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島的傳統村落展示了該國豐富的文化遺產，包括傳統建築、手工藝和生活方式。
+{% include custom-nav-links.html src="CookIslands_Traditional_Villages.png" data="photo" title="photo" %}
+
+## 庫克群島漁業景觀（英語：Cook Islands Fishing Landscape）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Fishing/@-21.2,-159.8,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島的漁業是該國經濟的重要支柱，提供豐富的海鮮資源和就業機會。
+{% include custom-nav-links.html src="CookIslands_Fishing_Landscape.png" data="photo" title="photo" %}
+
+## 庫克群島椰子種植園（英語：Cook Islands Coconut Plantations）
+- [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Coconut+Plantations/@-21.2,-159.8,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 庫克群島擁有廣闊的椰子種植園，椰子是該國重要的經濟作物之一。
+{% include custom-nav-links.html src="CookIslands_Coconut_Plantations.png" data="photo" title="photo" %}
 
 
 

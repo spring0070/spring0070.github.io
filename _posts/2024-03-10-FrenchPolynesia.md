@@ -27,19 +27,54 @@ excerpt_separator:  <!--more-->
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%B3%A2%E6%8B%89%E6%B3%A2%E6%8B%89%E5%B3%B6 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Bora+Bora/@-16.504424,-151.73864914,193.46901203a,22291.7165711d,34.99999921y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這個著名的島嶼以其壯麗的海灣、潔白的沙灘和豪華的水上飯店而聞名，是浪漫度假和水上活動的理想地點。
+{% include custom-nav-links.html src="FrenchPolynesia_Bora_Bora.png" data="photo" title="photo" %}
 
 ## 巴比提（Papeete，發音 : /papeʔete/, 類似法文的 papé-été）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B8%95%E7%9A%AE%E6%8F%90 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Papeete/@-17.557143,-149.55540119,195.5662071a,22167.44877296d,34.99999997y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 法屬玻里尼西亞的首都和最大城市，擁有繁華的市場、美麗的海濱長廊和具有法國風情的建築。
+{% include custom-nav-links.html src="FrenchPolynesia_Papeete.png" data="photo" title="photo" %}
 
 ## 胡阿希內島是南太平洋法屬玻里尼西亞的島嶼(Baie Huahine)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E8%83%A1%E9%98%BF%E5%B8%8C%E5%85%A7%E5%B3%B6 "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Baie+Huahine/@-16.7863578,-150.99246749,228.64868797a,22259.59499759d,34.99999997y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這個美麗的島嶼位於法屬玻里尼西亞的雷阿提亞群島，擁有原始的村落、古老的遺址和迷人的海灣。
+{% include custom-nav-links.html src="FrenchPolynesia_Huahine_Island.png" data="photo" title="photo" %}
 
 ## 塔帕丘拉(Taputapuātea)
 - [GoogleEarth](hhttps://earth.google.com/web/search/Taputapu%c4%81tea/@-16.8358179,-151.3584148,4.30067508a,1006.15345771d,34.99999997y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 這是一個位於拉阿伊島的古老遺址，是玻里尼西亞文化和宗教的重要中心，被聯合國教科文組織列為世界文化遺產。
+{% include custom-nav-links.html src="FrenchPolynesia_Taputapuatea.png" data="photo" title="photo" %}
+
+## 塔希提島（英語：Tahiti）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A1%94%E5%B8%8C%E6%8F%90%E5%B3%B6 "Wiki"){:target="_blank"} 
+- [GoogleEarth](https://earth.google.com/web/search/Tahiti/@-17.5,-149.5,2000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 法屬玻里尼西亞最大的島嶼，擁有壯麗的山脈、美麗的海灘和豐富的文化遺產。
+{% include custom-nav-links.html src="FrenchPolynesia_Tahiti.png" data="photo" title="photo" %}
+
+## 法屬玻里尼西亞海灘（英語：French Polynesia Beaches）
+- [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Beaches/@-17.5,-149.5,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 法屬玻里尼西亞擁有眾多美麗的海灘，以其潔白的沙灘、清澈的海水和寧靜的環境而聞名。
+{% include custom-nav-links.html src="FrenchPolynesia_Beaches.png" data="photo" title="photo" %}
+
+## 法屬玻里尼西亞珊瑚礁（英語：French Polynesia Coral Reefs）
+- [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Coral+Reefs/@-17.5,-149.5,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 法屬玻里尼西亞擁有豐富的珊瑚礁生態系統，是潛水和海洋探險的理想地點。
+{% include custom-nav-links.html src="FrenchPolynesia_Coral_Reefs.png" data="photo" title="photo" %}
+
+## 法屬玻里尼西亞文化中心（英語：French Polynesia Cultural Center）
+- [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Cultural+Center/@-17.56,-149.56,100a,500d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 展示法屬玻里尼西亞傳統文化的地方，遊客可以體驗玻里尼西亞文化、傳統舞蹈和手工藝。
+{% include custom-nav-links.html src="FrenchPolynesia_Cultural_Center.png" data="photo" title="photo" %}
+
+## 法屬玻里尼西亞熱帶雨林（英語：French Polynesia Tropical Rainforest）
+- [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Rainforest/@-17.5,-149.5,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 法屬玻里尼西亞擁有豐富的熱帶雨林生態系統，是許多特有植物和動物的家園。
+{% include custom-nav-links.html src="FrenchPolynesia_Tropical_Rainforest.png" data="photo" title="photo" %}
+
+## 法屬玻里尼西亞日落（英語：French Polynesia Sunset）
+- [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Sunset/@-17.5,-149.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
+- 法屬玻里尼西亞以其壯麗的日落景色而聞名，是攝影愛好者和浪漫情侶的理想地點。
+{% include custom-nav-links.html src="FrenchPolynesia_Sunset.png" data="photo" title="photo" %}
 
 
