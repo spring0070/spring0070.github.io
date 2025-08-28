@@ -3,7 +3,7 @@ layout: page
 title: About Me
 sidebar_link: true
 ---
-![my screenshot](/assets/IMG_2428-209-208.JPG)
+![my screenshot](/assets/About_Profile.JPG)
 ## Joseph Yu
 contact me: simplestock007@gmail.com
 

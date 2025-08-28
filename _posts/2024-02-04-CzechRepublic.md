@@ -87,7 +87,7 @@ excerpt_separator:  <!--more-->
 城堡花園與觀景台
 可俯瞰整個布拉格市區與伏爾塔瓦河，風景絕佳。
 
-{% include custom-nav-links.html src="Prague_Castle.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Prague_Castle.png" data="photo" title="photo" %} 
 
 ## 布拉格舊城廣場(Old Town Square)
 - [Wiki](https://zh.wikipedia.org/wiki/布拉格舊城廣場 "Wiki"){:target="_blank"} 
@@ -95,16 +95,16 @@ excerpt_separator:  <!--more-->
 - [YouTube](https://youtu.be/fXlTURiSbWA?si=tf1vv0YDFqk8y3I7 "YouTube"){:target="_blank"} 
 - [YouTube](https://youtu.be/pZF0eZPZBMk?si=LjKu1DvdYUaKlEDq "YouTube"){:target="_blank"} 
 - 布拉格舊城廣場（Staroměstské náměstí）是捷克首都布拉格最具代表性的歷史地標之一，位於舊城區（Staré Město）的中心地帶。這座廣場已有超過900年的歷史，曾是中世紀商人和市民集會、舉辦市集和重要活動的場所，如今則是觀光客和當地人聚集的熱門景點。
-{% include custom-nav-links.html src="Old_Town_Square.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Old_Town_Square.png" data="photo" title="photo" %} 
 1. 天文鐘（Prague Astronomical Clock）
 位於舊市政廳塔樓上，建於1410年，是世界上現存最古老仍在運作的天文鐘。
 每到整點，鐘面上的「十二門徒遊行」吸引眾多遊客駐足觀賞。
-{% include custom-nav-links.html src="Prague_Astronomical_Clock.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Prague_Astronomical_Clock.png" data="photo" title="photo" %} 
 2. 聖尼古拉教堂（St. Nicholas Church）
 巴洛克風格建築，內部華麗，有著精緻的壁畫和水晶吊燈。
 經常舉辦古典音樂會。
-{% include custom-nav-links.html src="Prague_St.Nicholas_Church.png" data="photo" title="photo" %} 
-{% include custom-nav-links.html src="Prague_St.Nicholas_Church_interior.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Prague_St_Nicholas_Church.png" data="photo" title="photo" %}
+{% include custom-nav-links.html src="Czech_Prague_St_Nicholas_Church_Interior.png" data="photo" title="photo" %} 
 3. 提恩教堂（Church of Our Lady before Týn）
 哥德式雙塔教堂，外觀雄偉，是布拉格的地標之一。
 教堂內部收藏有許多文藝復興與哥德風格的藝術品。
@@ -122,7 +122,7 @@ excerpt_separator:  <!--more-->
 - 查理大橋是布拉格最具代表性的地標之一，橫跨伏爾塔瓦河，連接舊城區（Staré Město）與小區（Malá Strana），自中世紀以來便是布拉格的重要交通要道，也是歐洲最著名的石橋之一。
 - 建造於 1357 年，由神聖羅馬皇帝兼波希米亞國王查理四世下令興建，取代因洪水毀壞的朱迪思橋。
 - 建橋日期為 1357 年 7 月 9 日上午 5:31，這個時間形成了對稱數字「135797531」，據說選擇此時間具有神秘意義。。
-{% include custom-nav-links.html src="Charles_Bridge.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Charles_Bridge.png" data="photo" title="photo" %} 
 
 ## 克魯姆洛夫城堡(Český Krumlov Castle)
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%8D%B7%E5%85%8B%E5%85%8B%E9%B2%81%E5%A7%86%E6%B4%9B%E5%A4%AB%E5%9F%8E%E5%A0%A1 "Wiki"){:target="_blank"} 
@@ -134,11 +134,11 @@ excerpt_separator:  <!--more-->
 - 建於13世紀，最初為羅森伯格家族（Rožmberk）建造。
 - 城堡包含超過40棟建築、5個庭院，坐落在蜿蜒的伏爾塔瓦河（Vltava）懸崖上。
 - 彩繪塔（The Painted Tower / Zámek věž）是 Český Krumlov Castle（契斯基克魯姆洛夫城堡）的標誌性建築，也是整個小鎮最吸引目光的地標之一。它高聳於城堡區與小鎮之上，外觀鮮豔、細節豐富，是文藝復興與巴洛克藝術的完美結合，被譽為捷克最美麗的塔樓之一。
-{% include custom-nav-links.html src="Český_Krumlov_State Castle.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Cesky_Krumlov_Castle.png" data="photo" title="photo" %} 
 
 ## 卡羅維瓦利（Karlovy Vary）
 - 是捷克最著名的溫泉療養城市，位於波希米亞西部，距布拉格約2小時車程。它擁有超過600年的溫泉歷史，是歐洲最古老、最具代表性的溫泉療養勝地之一。
 - [YouTube](https://www.youtube.com/watch?v=r9wiu0r8BqE&t=19s&ab_channel=BeforeYouGo "YouTube"){:target="_blank"} 
 - [YouTube](https://www.youtube.com/watch?v=-z7JOGIr_A8&ab_channel=KarinaWalks4K "YouTube"){:target="_blank"} 
-{% include custom-nav-links.html src="Karlovy_Vary.png" data="photo" title="photo" %} 
+{% include custom-nav-links.html src="Czech_Karlovy_Vary.png" data="photo" title="photo" %} 
 
