@@ -2,6 +2,7 @@
 _gh_pages
 .ruby-version
 .jekyll-cache/
+_site/
 package-lock.json
 
 # Numerous always-ignore extensions
