@@ -6,7 +6,8 @@ categories:
   - Article
 excerpt_separator:  <!--more-->
 ---
-# 🗾 北海道
+# 🗾 北海道 [V]
+
 - [Youtube](https://youtu.be/G5RpJwCJDqc?si=RjmHPcBuFqDEpitr "YT"){:target="_blank"}
 
 ## 📌 基本資料
@@ -87,14 +88,6 @@ excerpt_separator:  <!--more-->
 {% include custom-nav-links.html src="Japan_Hokkaido_Photo11.jpg" data="photo" title="photo" %}
 {% include custom-nav-links.html src="Japan_Hokkaido_Photo2.JPG" data="photo" title="photo" %}
 
-## 函館（Hakodate）
-- [GoogleEarth](https://earth.google.com/web/@41.7700963,140.71190292,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
-- [Youtube](https://youtu.be/G5RpJwCJDqc?si=RjmHPcBuFqDEpitr "YT"){:target="_blank"}
-- [Youtube](https://youtu.be/8COaMKynNdA "YT"){:target="_blank"}
-- 函館是北海道南部的港口城市，在遠古時期，函館山曾是一個小島，由火山噴發形成。1854年，幕府與美國使節培理簽訂開國條約，函館開港。
-- 1920年代，北洋漁業發展，函館迎來了未曾有過的繁榮。現在函館以其美麗的夜景、歷史建築和美食而聞名。
-{% include custom-nav-links.html src="Japan_Hokkaido_Hakodate.jpeg" data="photo" title="photo" %}
-
 ## 金森紅磚倉庫（Kanemori Red Brick Warehouse）
 - [GoogleEarth](https://earth.google.com/web/@41.76765863,140.71741939,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - [Youtube](https://youtu.be/8COaMKynNdA "YT"){:target="_blank"}
@@ -104,10 +97,12 @@ excerpt_separator:  <!--more-->
 {% include custom-nav-links.html src="Japan_Hokkaido_Food_Map.jpg" data="photo" title="photo" %}
 {% include custom-nav-links.html src="Japan_Hokkaido_Photo4.JPG" data="photo" title="photo" %}
 
-## 函館山纜車（Hakodate Ropeway）
+## 函館山（Hakodate）
 - [GoogleEarth](https://earth.google.com/web/@41.76081792,140.71438878,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - [Youtube](https://youtu.be/G5RpJwCJDqc?si=RjmHPcBuFqDEpitr "YT"){:target="_blank"}
 - [Youtube](https://youtu.be/8COaMKynNdA "YT"){:target="_blank"}
+- 函館是北海道南部的港口城市，在遠古時期，函館山曾是一個小島，由火山噴發形成。1854年，幕府與美國使節培理簽訂開國條約，函館開港。
+- 1920年代，北洋漁業發展，函館迎來了未曾有過的繁榮。現在函館以其美麗的夜景、歷史建築和美食而聞名。
 - 函館山纜車是通往函館山的交通工具。纜車全長約1.8公里，高低落差約408米，運行時間約3分鐘。
 - 從函館山頂可以欣賞到函館市的美麗夜景，被譽為世界三大夜景之一。這裡是函館最受歡迎的觀光景點。
 {% include custom-nav-links.html src="Japan_Hokkaido_Hakodate_Ropeway.jpeg" data="photo" title="photo" %}

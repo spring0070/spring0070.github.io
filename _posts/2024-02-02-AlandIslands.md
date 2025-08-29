@@ -7,6 +7,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 # 🇦🇽 奧蘭群島
+
 - [Youtube](https://youtu.be/tVmYwJ6lid4?si=9wIdpl-OVMZXBGxc "YT"){:target="_blank"}
 
 ## 📌 基本資料

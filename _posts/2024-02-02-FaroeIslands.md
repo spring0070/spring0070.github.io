@@ -7,6 +7,7 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 # 🇫🇴 法羅群島
+
 - [Youtube](https://youtu.be/2SJWylh4UGg?si=lIszxmbY5xTh0rYb "YT"){:target="_blank"}
 
 ## 📌 基本資料
