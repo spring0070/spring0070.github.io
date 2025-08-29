@@ -426,122 +426,122 @@ sidebar_link: true
 
 ## 中非
 
-- 剛果民主共和國([Democratic Republic of the Congo]({% post_url 2024-03-20-DemocraticRepublicOfTheCongo %})) - [Wiki](https://zh.wikipedia.org/wiki/剛果民主共和國 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/剛果民主共和國 "GoogleEarth"){:target="_blank"} - 人口:9.54 千萬  1.18%
+- 剛果民主共和國([Democratic Republic of the Congo]({% post_url 2024-05-01-DemocraticRepublicOfTheCongo %})) - [Wiki](https://zh.wikipedia.org/wiki/剛果民主共和國 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/剛果民主共和國 "GoogleEarth"){:target="_blank"} - 人口:9.54 千萬  1.18%
 
-- 安哥拉([Angola]({% post_url 2024-03-20-Angola %})) - [Wiki](https://zh.wikipedia.org/wiki/安哥拉 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/安哥拉 "GoogleEarth"){:target="_blank"} - 人口:3.41 千萬  0.42%
+- 安哥拉([Angola]({% post_url 2024-05-01-Angola %})) - [Wiki](https://zh.wikipedia.org/wiki/安哥拉 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/安哥拉 "GoogleEarth"){:target="_blank"} - 人口:3.41 千萬  0.42%
 
-- 喀麥隆([Cameroon]({% post_url 2024-03-20-Cameroon %})) - [Wiki](https://zh.wikipedia.org/wiki/喀麥隆 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/喀麥隆 "GoogleEarth"){:target="_blank"} - 人口:2.43 千萬  0.30%
+- 喀麥隆([Cameroon]({% post_url 2024-05-01-Cameroon %})) - [Wiki](https://zh.wikipedia.org/wiki/喀麥隆 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/喀麥隆 "GoogleEarth"){:target="_blank"} - 人口:2.43 千萬  0.30%
 
-- 查德([Chad]({% post_url 2024-03-20-Chad %})) - [Wiki](https://zh.wikipedia.org/wiki/查德 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/查德 "GoogleEarth"){:target="_blank"} - 人口:1.68 千萬  0.21%
+- 查德([Chad]({% post_url 2024-05-01-Chad %})) - [Wiki](https://zh.wikipedia.org/wiki/查德 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/查德 "GoogleEarth"){:target="_blank"} - 人口:1.68 千萬  0.21%
 
-- 中非([Central African Republic]({% post_url 2024-03-20-CentralAfricanRepublic %})) - [Wiki](https://zh.wikipedia.org/wiki/中非 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/中非 "GoogleEarth"){:target="_blank"} - 人口:536.84 萬  0.07%
+- 中非([Central African Republic]({% post_url 2024-05-01-CentralAfricanRepublic %})) - [Wiki](https://zh.wikipedia.org/wiki/中非 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/中非 "GoogleEarth"){:target="_blank"} - 人口:536.84 萬  0.07%
 
-- 剛果共和國([Republic of the Congo]({% post_url 2024-03-20-RepublicOfTheCongo %})) - [Wiki](https://zh.wikipedia.org/wiki/剛果共和國 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/剛果共和國 "GoogleEarth"){:target="_blank"} - 人口:520.64 萬  0.06%
+- 剛果共和國([Republic of the Congo]({% post_url 2024-05-01-RepublicOfTheCongo %})) - [Wiki](https://zh.wikipedia.org/wiki/剛果共和國 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/剛果共和國 "GoogleEarth"){:target="_blank"} - 人口:520.64 萬  0.06%
 
-- 加彭([Gabon]({% post_url 2024-03-20-Gabon %})) - [Wiki](https://zh.wikipedia.org/wiki/加彭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/加彭 "GoogleEarth"){:target="_blank"} - 人口:190.67 萬  0.02%
+- 加彭([Gabon]({% post_url 2024-05-01-Gabon %})) - [Wiki](https://zh.wikipedia.org/wiki/加彭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/加彭 "GoogleEarth"){:target="_blank"} - 人口:190.67 萬  0.02%
 
-- 赤道幾內亞([Equatorial Guinea]({% post_url 2024-03-20-EquatorialGuinea %})) - [Wiki](https://zh.wikipedia.org/wiki/赤道幾內亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/赤道幾內亞 "GoogleEarth"){:target="_blank"} - 人口:145.48 萬  0.02%
+- 赤道幾內亞([Equatorial Guinea]({% post_url 2024-05-01-EquatorialGuinea %})) - [Wiki](https://zh.wikipedia.org/wiki/赤道幾內亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/赤道幾內亞 "GoogleEarth"){:target="_blank"} - 人口:145.48 萬  0.02%
 
-- 聖多美普林西比([Sao Tome And Principe]({% post_url 2024-03-20-SaoTomeAndPrincipe %})) - [Wiki](https://zh.wikipedia.org/wiki/聖多美普林西比 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/聖多美普林西比 "GoogleEarth"){:target="_blank"} - 人口:21.46 萬  0.00%
+- 聖多美普林西比([Sao Tome And Principe]({% post_url 2024-05-01-SaoTomeAndPrincipe %})) - [Wiki](https://zh.wikipedia.org/wiki/聖多美普林西比 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/聖多美普林西比 "GoogleEarth"){:target="_blank"} - 人口:21.46 萬  0.00%
 
 ## 北非
 
-- 埃及([Egypt]({% post_url 2024-03-20-Egypt %})) - [Wiki](https://zh.wikipedia.org/wiki/埃及 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/埃及 "GoogleEarth"){:target="_blank"} - 人口:1.06 億  1.31%
+- 埃及([Egypt]({% post_url 2024-05-05-Egypt %})) - [Wiki](https://zh.wikipedia.org/wiki/埃及 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/埃及 "GoogleEarth"){:target="_blank"} - 人口:1.06 億  1.31%
 
-- 利比亞([Libya]({% post_url 2024-03-20-Libya %})) - [Wiki](https://zh.wikipedia.org/wiki/利比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/利比亞 "GoogleEarth"){:target="_blank"} - 人口:628.18 萬  0.08%
+- 利比亞([Libya]({% post_url 2024-05-05-Libya %})) - [Wiki](https://zh.wikipedia.org/wiki/利比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/利比亞 "GoogleEarth"){:target="_blank"} - 人口:628.18 萬  0.08%
 
 
 ## 東非
 
-- 衣索比亞([Ethiopia]({% post_url 2024-03-20-Ethiopia %})) - [Wiki](https://zh.wikipedia.org/wiki/衣索比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/衣索比亞 "GoogleEarth"){:target="_blank"} - 人口:1.07 億  1.33%
+- 衣索比亞([Ethiopia]({% post_url 2024-05-10-Ethiopia %})) - [Wiki](https://zh.wikipedia.org/wiki/衣索比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/衣索比亞 "GoogleEarth"){:target="_blank"} - 人口:1.07 億  1.33%
 
-- 坦尚尼亞([Tanzania]({% post_url 2024-03-20-Tanzania %})) - [Wiki](https://zh.wikipedia.org/wiki/坦尚尼亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/坦尚尼亞 "GoogleEarth"){:target="_blank"} - 人口:6.17 千萬  0.76%
+- 坦尚尼亞([Tanzania]({% post_url 2024-05-10-Tanzania %})) - [Wiki](https://zh.wikipedia.org/wiki/坦尚尼亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/坦尚尼亞 "GoogleEarth"){:target="_blank"} - 人口:6.17 千萬  0.76%
 
-- 蘇丹([Sudan]({% post_url 2024-03-20-Sudan %})) - [Wiki](https://zh.wikipedia.org/wiki/蘇丹 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/蘇丹 "GoogleEarth"){:target="_blank"} - 人口:4.81 千萬  0.59%
+- 蘇丹([Sudan]({% post_url 2024-05-10-Sudan %})) - [Wiki](https://zh.wikipedia.org/wiki/蘇丹 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/蘇丹 "GoogleEarth"){:target="_blank"} - 人口:4.81 千萬  0.59%
 
-- 肯亞([Kenya]({% post_url 2024-03-20-Kenya %})) - [Wiki](https://zh.wikipedia.org/wiki/肯亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/肯亞 "GoogleEarth"){:target="_blank"} - 人口:4.76 千萬  0.59%
+- 肯亞([Kenya]({% post_url 2024-05-10-Kenya %})) - [Wiki](https://zh.wikipedia.org/wiki/肯亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/肯亞 "GoogleEarth"){:target="_blank"} - 人口:4.76 千萬  0.59%
 
-- 烏干達([Uganda]({% post_url 2024-03-20-Uganda %})) - [Wiki](https://zh.wikipedia.org/wiki/烏干達 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/烏干達 "GoogleEarth"){:target="_blank"} - 人口:4.29 千萬  0.56%
+- 烏干達([Uganda]({% post_url 2024-05-10-Uganda %})) - [Wiki](https://zh.wikipedia.org/wiki/烏干達 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/烏干達 "GoogleEarth"){:target="_blank"} - 人口:4.29 千萬  0.56%
 
-- 莫三比克([Mozambique]({% post_url 2024-03-20-Mozambique %})) - [Wiki](https://zh.wikipedia.org/wiki/莫三比克 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/莫三比克 "GoogleEarth"){:target="_blank"} - 人口:3.24 千萬  0.40%
+- 莫三比克([Mozambique]({% post_url 2024-05-10-Mozambique %})) - [Wiki](https://zh.wikipedia.org/wiki/莫三比克 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/莫三比克 "GoogleEarth"){:target="_blank"} - 人口:3.24 千萬  0.40%
 
-- 馬達加斯加([Madagascar]({% post_url 2024-03-20-Madagascar %})) - [Wiki](https://zh.wikipedia.org/wiki/馬達加斯加 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬達加斯加 "GoogleEarth"){:target="_blank"} - 人口:2.82 千萬  0.35%
+- 馬達加斯加([Madagascar]({% post_url 2024-05-10-Madagascar %})) - [Wiki](https://zh.wikipedia.org/wiki/馬達加斯加 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬達加斯加 "GoogleEarth"){:target="_blank"} - 人口:2.82 千萬  0.35%
 
-- 尚比亞([Zambia]({% post_url 2024-03-20-Zambia %})) - [Wiki](https://zh.wikipedia.org/wiki/尚比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/尚比亞 "GoogleEarth"){:target="_blank"} - 人口:1.96 千萬  0.24%
+- 尚比亞([Zambia]({% post_url 2024-05-10-Zambia %})) - [Wiki](https://zh.wikipedia.org/wiki/尚比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/尚比亞 "GoogleEarth"){:target="_blank"} - 人口:1.96 千萬  0.24%
 
-- 索馬利亞([Somalia]({% post_url 2024-03-20-Somalia %})) - [Wiki](https://zh.wikipedia.org/wiki/索馬利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/索馬利亞 "GoogleEarth"){:target="_blank"} - 人口:1.76 千萬  0.22%
+- 索馬利亞([Somalia]({% post_url 2024-05-10-Somalia %})) - [Wiki](https://zh.wikipedia.org/wiki/索馬利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/索馬利亞 "GoogleEarth"){:target="_blank"} - 人口:1.76 千萬  0.22%
 
-- 馬拉威([Malawi]({% post_url 2024-03-20-Malawi %})) - [Wiki](https://zh.wikipedia.org/wiki/馬拉威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬拉威 "GoogleEarth"){:target="_blank"} - 人口:1.76 千萬  0.22%
+- 馬拉威([Malawi]({% post_url 2024-05-10-Malawi %})) - [Wiki](https://zh.wikipedia.org/wiki/馬拉威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬拉威 "GoogleEarth"){:target="_blank"} - 人口:1.76 千萬  0.22%
 
-- 辛巴威([Zimbabwe]({% post_url 2024-03-20-Zimbabwe %})) - [Wiki](https://zh.wikipedia.org/wiki/辛巴威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/辛巴威 "GoogleEarth"){:target="_blank"} - 人口:1.52 千萬  0.19%
+- 辛巴威([Zimbabwe]({% post_url 2024-05-10-Zimbabwe %})) - [Wiki](https://zh.wikipedia.org/wiki/辛巴威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/辛巴威 "GoogleEarth"){:target="_blank"} - 人口:1.52 千萬  0.19%
 
-- 南蘇丹([South Sudan]({% post_url 2024-03-20-SouthSudan %})) - [Wiki](https://zh.wikipedia.org/wiki/南蘇丹 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/南蘇丹 "GoogleEarth"){:target="_blank"} - 人口:1.32 千萬  0.16%
+- 南蘇丹([South Sudan]({% post_url 2024-05-10-SouthSudan %})) - [Wiki](https://zh.wikipedia.org/wiki/南蘇丹 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/南蘇丹 "GoogleEarth"){:target="_blank"} - 人口:1.32 千萬  0.16%
 
-- 盧安達([Rwanda]({% post_url 2024-03-20-Rwanda %})) - [Wiki](https://zh.wikipedia.org/wiki/盧安達 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/盧安達 "GoogleEarth"){:target="_blank"} - 人口:1.32 千萬  0.16%
+- 盧安達([Rwanda]({% post_url 2024-05-10-Rwanda %})) - [Wiki](https://zh.wikipedia.org/wiki/盧安達 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/盧安達 "GoogleEarth"){:target="_blank"} - 人口:1.32 千萬  0.16%
 
-- 蒲隆地([Burundi]({% post_url 2024-03-20-Burundi %})) - [Wiki](https://zh.wikipedia.org/wiki/蒲隆地 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/蒲隆地 "GoogleEarth"){:target="_blank"} - 人口:1.28 千萬  0.16%
+- 蒲隆地([Burundi]({% post_url 2024-05-10-Burundi %})) - [Wiki](https://zh.wikipedia.org/wiki/蒲隆地 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/蒲隆地 "GoogleEarth"){:target="_blank"} - 人口:1.28 千萬  0.16%
 
-- 厄利垂亞([Eritrea]({% post_url 2024-03-20-Eritrea %})) - [Wiki](https://zh.wikipedia.org/wiki/厄利垂亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/厄利垂亞 "GoogleEarth"){:target="_blank"} - 人口:578.45 萬  0.07%
+- 厄利垂亞([Eritrea]({% post_url 2024-05-10-Eritrea %})) - [Wiki](https://zh.wikipedia.org/wiki/厄利垂亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/厄利垂亞 "GoogleEarth"){:target="_blank"} - 人口:578.45 萬  0.07%
 
-- 模里西斯([Mauritius]({% post_url 2024-03-20-Mauritius %})) - [Wiki](https://zh.wikipedia.org/wiki/模里西斯 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/模里西斯 "GoogleEarth"){:target="_blank"} - 人口:122.17 萬  0.02%
+- 模里西斯([Mauritius]({% post_url 2024-05-10-Mauritius %})) - [Wiki](https://zh.wikipedia.org/wiki/模里西斯 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/模里西斯 "GoogleEarth"){:target="_blank"} - 人口:122.17 萬  0.02%
 
-- 吉布地([Djibouti]({% post_url 2024-03-20-Djibouti %})) - [Wiki](https://zh.wikipedia.org/wiki/吉布地 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/吉布地 "GoogleEarth"){:target="_blank"} - 人口:107.84 萬  0.01%
+- 吉布地([Djibouti]({% post_url 2024-05-10-Djibouti %})) - [Wiki](https://zh.wikipedia.org/wiki/吉布地 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/吉布地 "GoogleEarth"){:target="_blank"} - 人口:107.84 萬  0.01%
 
-- 塞席爾([Seychelles]({% post_url 2024-03-20-Seychelles %})) - [Wiki](https://zh.wikipedia.org/wiki/塞席爾 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/塞席爾 "GoogleEarth"){:target="_blank"} - 人口:10.04 萬  0.00%
+- 塞席爾([Seychelles]({% post_url 2024-05-10-Seychelles %})) - [Wiki](https://zh.wikipedia.org/wiki/塞席爾 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/塞席爾 "GoogleEarth"){:target="_blank"} - 人口:10.04 萬  0.00%
 
-- 索馬利蘭([Somaliland]({% post_url 2024-03-20-Somaliland %})) - [Wiki](https://zh.wikipedia.org/wiki/索馬利蘭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/索馬利蘭 "GoogleEarth"){:target="_blank"} - 人口:450.00 萬  0.06%
+- 索馬利蘭([Somaliland]({% post_url 2024-05-10-Somaliland %})) - [Wiki](https://zh.wikipedia.org/wiki/索馬利蘭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/索馬利蘭 "GoogleEarth"){:target="_blank"} - 人口:450.00 萬  0.06%
 
 ## 西非
 
-- 奈及利亞([Nigeria]({% post_url 2024-03-20-Nigeria %})) - [Wiki](https://zh.wikipedia.org/wiki/奈及利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/奈及利亞 "GoogleEarth"){:target="_blank"} - 人口:2.31 億  2.85%
+- 奈及利亞([Nigeria]({% post_url 2024-05-15-Nigeria %})) - [Wiki](https://zh.wikipedia.org/wiki/奈及利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/奈及利亞 "GoogleEarth"){:target="_blank"} - 人口:2.31 億  2.85%
 
-- 阿爾及利亞([Algeria]({% post_url 2024-03-20-Algeria %})) - [Wiki](https://zh.wikipedia.org/wiki/阿爾及利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/阿爾及利亞 "GoogleEarth"){:target="_blank"} - 人口:4.54 千萬  0.56%
+- 阿爾及利亞([Algeria]({% post_url 2024-05-05-Algeria %})) - [Wiki](https://zh.wikipedia.org/wiki/阿爾及利亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/阿爾及利亞 "GoogleEarth"){:target="_blank"} - 人口:4.54 千萬  0.56%
 
-- 摩洛哥([Morocco]({% post_url 2024-03-20-Morocco %})) - [Wiki](https://zh.wikipedia.org/wiki/摩洛哥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/摩洛哥 "GoogleEarth"){:target="_blank"} - 人口:3.70 千萬  0.46%
+- 摩洛哥([Morocco]({% post_url 2024-05-15-Morocco %})) - [Wiki](https://zh.wikipedia.org/wiki/摩洛哥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/摩洛哥 "GoogleEarth"){:target="_blank"} - 人口:3.70 千萬  0.46%
 
-- 迦納([Ghana]({% post_url 2024-03-20-Ghana %})) - [Wiki](https://zh.wikipedia.org/wiki/迦納 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/迦納 "GoogleEarth"){:target="_blank"} - 人口:3.08 千萬  0.38%
+- 迦納([Ghana]({% post_url 2024-05-15-Ghana %})) - [Wiki](https://zh.wikipedia.org/wiki/迦納 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/迦納 "GoogleEarth"){:target="_blank"} - 人口:3.08 千萬  0.38%
 
-- 象牙海岸([Ivory Coast]({% post_url 2024-03-20-IvoryCoast %})) - [Wiki](https://zh.wikipedia.org/wiki/象牙海岸 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/象牙海岸 "GoogleEarth"){:target="_blank"} - 人口:2.94 千萬  0.36%
+- 象牙海岸([Ivory Coast]({% post_url 2024-05-15-IvoryCoast %})) - [Wiki](https://zh.wikipedia.org/wiki/象牙海岸 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/象牙海岸 "GoogleEarth"){:target="_blank"} - 人口:2.94 千萬  0.36%
 
-- 尼日([Niger]({% post_url 2024-03-20-Niger %})) - [Wiki](https://zh.wikipedia.org/wiki/尼日 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/尼日 "GoogleEarth"){:target="_blank"} - 人口:2.41 千萬  0.30%
+- 尼日([Niger]({% post_url 2024-05-15-Niger %})) - [Wiki](https://zh.wikipedia.org/wiki/尼日 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/尼日 "GoogleEarth"){:target="_blank"} - 人口:2.41 千萬  0.30%
 
-- 馬利([Mali]({% post_url 2024-03-20-Mali %})) - [Wiki](https://zh.wikipedia.org/wiki/馬利 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬利 "GoogleEarth"){:target="_blank"} - 人口:2.26 千萬  0.28%
+- 馬利([Mali]({% post_url 2024-05-15-Mali %})) - [Wiki](https://zh.wikipedia.org/wiki/馬利 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/馬利 "GoogleEarth"){:target="_blank"} - 人口:2.26 千萬  0.28%
 
-- 布吉納法索([Burkina Faso]({% post_url 2024-03-20-BurkinaFaso %})) - [Wiki](https://zh.wikipedia.org/wiki/布吉納法索 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/布吉納法索 "GoogleEarth"){:target="_blank"} - 人口:2.28 千萬  0.27%
+- 布吉納法索([Burkina Faso]({% post_url 2024-05-15-BurkinaFaso %})) - [Wiki](https://zh.wikipedia.org/wiki/布吉納法索 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/布吉納法索 "GoogleEarth"){:target="_blank"} - 人口:2.28 千萬  0.27%
 
-- 塞內加爾([Senegal]({% post_url 2024-03-20-Senegal %})) - [Wiki](https://zh.wikipedia.org/wiki/塞內加爾 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/塞內加爾 "GoogleEarth"){:target="_blank"} - 人口:1.77 千萬  0.22%
+- 塞內加爾([Senegal]({% post_url 2024-05-15-Senegal %})) - [Wiki](https://zh.wikipedia.org/wiki/塞內加爾 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/塞內加爾 "GoogleEarth"){:target="_blank"} - 人口:1.77 千萬  0.22%
 
-- 幾內亞([Guinea]({% post_url 2024-03-20-Guinea %})) - [Wiki](https://zh.wikipedia.org/wiki/幾內亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/幾內亞 "GoogleEarth"){:target="_blank"} - 人口:1.33 千萬  0.16%
+- 幾內亞([Guinea]({% post_url 2024-05-15-Guinea %})) - [Wiki](https://zh.wikipedia.org/wiki/幾內亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/幾內亞 "GoogleEarth"){:target="_blank"} - 人口:1.33 千萬  0.16%
 
-- 貝南([Benin]({% post_url 2024-03-20-Benin %})) - [Wiki](https://zh.wikipedia.org/wiki/貝南 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/貝南 "GoogleEarth"){:target="_blank"} - 人口:1.26 千萬  0.16%
+- 貝南([Benin]({% post_url 2024-05-15-Benin %})) - [Wiki](https://zh.wikipedia.org/wiki/貝南 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/貝南 "GoogleEarth"){:target="_blank"} - 人口:1.26 千萬  0.16%
 
-- 突尼西亞([Tunisia]({% post_url 2024-03-20-Tunisia %})) - [Wiki](https://zh.wikipedia.org/wiki/突尼西亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/突尼西亞 "GoogleEarth"){:target="_blank"} - 人口:1.19 千萬  0.15%
+- 突尼西亞([Tunisia]({% post_url 2024-05-15-Tunisia %})) - [Wiki](https://zh.wikipedia.org/wiki/突尼西亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/突尼西亞 "GoogleEarth"){:target="_blank"} - 人口:1.19 千萬  0.15%
 
-- 多哥([Togo]({% post_url 2024-03-20-Togo %})) - [Wiki](https://zh.wikipedia.org/wiki/多哥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/多哥 "GoogleEarth"){:target="_blank"} - 人口:809.55 萬  0.10%
+- 多哥([Togo]({% post_url 2024-05-15-Togo %})) - [Wiki](https://zh.wikipedia.org/wiki/多哥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/多哥 "GoogleEarth"){:target="_blank"} - 人口:809.55 萬  0.10%
 
-- 獅子山([Sierra Leone]({% post_url 2024-03-20-SierraLeone %})) - [Wiki](https://zh.wikipedia.org/wiki/獅子山 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/獅子山 "GoogleEarth"){:target="_blank"} - 人口:754.16 萬  0.09%
+- 獅子山([Sierra Leone]({% post_url 2024-05-15-SierraLeone %})) - [Wiki](https://zh.wikipedia.org/wiki/獅子山 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/獅子山 "GoogleEarth"){:target="_blank"} - 人口:754.16 萬  0.09%
 
-- 賴比瑞亞([Liberia]({% post_url 2024-03-20-Liberia %})) - [Wiki](https://zh.wikipedia.org/wiki/賴比瑞亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/賴比瑞亞 "GoogleEarth"){:target="_blank"} - 人口:524.86 萬  0.06%
+- 賴比瑞亞([Liberia]({% post_url 2024-05-15-Liberia %})) - [Wiki](https://zh.wikipedia.org/wiki/賴比瑞亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/賴比瑞亞 "GoogleEarth"){:target="_blank"} - 人口:524.86 萬  0.06%
 
-- 茅利塔尼亞([Mauritania]({% post_url 2024-03-20-Mauritania %})) - [Wiki](https://zh.wikipedia.org/wiki/茅利塔尼亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/茅利塔尼亞 "GoogleEarth"){:target="_blank"} - 人口:407.73 萬  0.05%
+- 茅利塔尼亞([Mauritania]({% post_url 2024-05-15-Mauritania %})) - [Wiki](https://zh.wikipedia.org/wiki/茅利塔尼亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/茅利塔尼亞 "GoogleEarth"){:target="_blank"} - 人口:407.73 萬  0.05%
 
-- 甘比亞([Gambia]({% post_url 2024-03-20-Gambia %})) - [Wiki](https://zh.wikipedia.org/wiki/甘比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/甘比亞 "GoogleEarth"){:target="_blank"} - 人口:229.77 萬  0.03%
+- 甘比亞([Gambia]({% post_url 2024-05-15-Gambia %})) - [Wiki](https://zh.wikipedia.org/wiki/甘比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/甘比亞 "GoogleEarth"){:target="_blank"} - 人口:229.77 萬  0.03%
 
-- 幾內亞比索([Guinea-Bissau]({% post_url 2024-03-20-Guinea-Bissau %})) - [Wiki](https://zh.wikipedia.org/wiki/幾內亞比索 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/幾內亞比索 "GoogleEarth"){:target="_blank"} - 人口:158.48 萬  0.02%
+- 幾內亞比索([Guinea-Bissau]({% post_url 2024-05-15-Guinea-Bissau %})) - [Wiki](https://zh.wikipedia.org/wiki/幾內亞比索 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/幾內亞比索 "GoogleEarth"){:target="_blank"} - 人口:158.48 萬  0.02%
 
-- 西撒哈拉([Western Sahara]({% post_url 2024-03-20-WesternSahara %})) - [Wiki](https://zh.wikipedia.org/wiki/西撒哈拉 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/西撒哈拉 "GoogleEarth"){:target="_blank"} - 人口:61.22 萬  0.01%
+- 西撒哈拉([Western Sahara]({% post_url 2024-05-15-WesternSahara %})) - [Wiki](https://zh.wikipedia.org/wiki/西撒哈拉 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/西撒哈拉 "GoogleEarth"){:target="_blank"} - 人口:61.22 萬  0.01%
 
-- 維德角([Cape Verde]({% post_url 2024-03-20-CapeVerde %})) - [Wiki](https://zh.wikipedia.org/wiki/維德角 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/維德角 "GoogleEarth"){:target="_blank"} - 人口:49.12 萬  0.01%
+- 維德角([Cape Verde]({% post_url 2024-05-15-CapeVerde %})) - [Wiki](https://zh.wikipedia.org/wiki/維德角 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/維德角 "GoogleEarth"){:target="_blank"} - 人口:49.12 萬  0.01%
 
 
 ## 南部非洲
 
-- 南非([South Africa]({% post_url 2024-03-20-SouthAfrica %})) - [Wiki](https://zh.wikipedia.org/wiki/南非 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/南非 "GoogleEarth"){:target="_blank"} - 人口:6.20 千萬  0.77%
+- 南非([South Africa]({% post_url 2024-05-20-SouthAfrica %})) - [Wiki](https://zh.wikipedia.org/wiki/南非 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/南非 "GoogleEarth"){:target="_blank"} - 人口:6.20 千萬  0.77%
 
-- 納米比亞([Namibia]({% post_url 2024-03-20-Namibia %})) - [Wiki](https://zh.wikipedia.org/wiki/納米比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/納米比亞 "GoogleEarth"){:target="_blank"} - 人口:245.89 萬  0.03%
+- 納米比亞([Namibia]({% post_url 2024-05-20-Namibia %})) - [Wiki](https://zh.wikipedia.org/wiki/納米比亞 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/納米比亞 "GoogleEarth"){:target="_blank"} - 人口:245.89 萬  0.03%
 
-- 波札那([Botswana]({% post_url 2024-03-20-Botswana %})) - [Wiki](https://zh.wikipedia.org/wiki/波札那 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/波札那 "GoogleEarth"){:target="_blank"} - 人口:233.89 萬  0.03%
+- 波札那([Botswana]({% post_url 2024-05-20-Botswana %})) - [Wiki](https://zh.wikipedia.org/wiki/波札那 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/波札那 "GoogleEarth"){:target="_blank"} - 人口:233.89 萬  0.03%
 
-- 賴索托([Lesotho]({% post_url 2024-03-20-Lesotho %})) - [Wiki](https://zh.wikipedia.org/wiki/賴索托 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/賴索托 "GoogleEarth"){:target="_blank"} - 人口:225.26 萬  0.03%
+- 賴索托([Lesotho]({% post_url 2024-05-20-Lesotho %})) - [Wiki](https://zh.wikipedia.org/wiki/賴索托 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/賴索托 "GoogleEarth"){:target="_blank"} - 人口:225.26 萬  0.03%
 
-- 史瓦帝尼([Swaziland]({% post_url 2024-03-20-Swaziland %})) - [Wiki](https://zh.wikipedia.org/wiki/史瓦帝尼 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/史瓦帝尼 "GoogleEarth"){:target="_blank"} - 人口:137.77 萬  0.02%
+- 史瓦帝尼([Swaziland]({% post_url 2024-05-20-Swaziland %})) - [Wiki](https://zh.wikipedia.org/wiki/史瓦帝尼 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/史瓦帝尼 "GoogleEarth"){:target="_blank"} - 人口:137.77 萬  0.02%

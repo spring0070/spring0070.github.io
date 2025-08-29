@@ -6,8 +6,119 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
-## Swaziland 
-- [Wiki](https://zh.wikipedia.org/w/index.php?search=Swaziland "Wiki"){:target="_blank"} 
-- [GoogleEarth](https://earth.google.com/web/search/Swaziland "GoogleEarth"){:target="_blank"} 
-- A 
+
+# 🇸🇿 Swaziland 史瓦帝尼
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+
+## 📌 基本資料
+| 項目 | 資訊 |
+|------|------|
+| 首都 | 姆巴巴內 (Mbabane) |
+| 官方語言 | 英語、史瓦希里語 |
+| 貨幣 | 史瓦帝尼里蘭吉尼 (SZL) |
+| 人口 | 約140萬人 |
+| 面積 | 17,364平方公里 |
+| 主要宗教 | 基督教 |
+
+## 🏛️ 歷史沿革簡介
+史瓦帝尼擁有豐富的歷史，曾是古代史瓦濟蘭王國的所在地。19世紀末成為英國保護地，1968年獲得獨立。史瓦帝尼是非洲最後一個絕對君主制國家，擁有豐富的文化遺產和傳統習俗。這裡有壯觀的山地景觀和獨特的文化傳統。
+
+## 🎨 文化特色
+史瓦帝尼文化融合了史瓦濟族的傳統，有豐富的音樂、舞蹈和手工藝品。傳統節慶如蘆葦舞節聞名於世，展現了史瓦帝尼人民的創造力。美食文化以玉米粥、烤肉和當地蔬菜為特色。史瓦帝尼人熱情好客，重視家庭和社區關係。
+
+## 🧳 旅遊實用資訊
+- **最佳旅遊時間**: 5月到9月（乾季）
+- **簽證**: 需要提前申請旅遊簽證
+- **交通**: 主要城市間有航班和公路連接，境內交通便利
+- **住宿**: 從豪華度假村到經濟型旅館都有
+- **安全**: 大部分地區相對安全，但建議注意個人財物
+
+## 🎯 主題旅遊推薦
+- **文化體驗**: 了解當地史瓦濟文化和傳統
+- **自然探險**: 探索史瓦帝尼豐富的自然景觀
+- **歷史探索**: 了解史瓦帝尼的歷史和文化遺產
+- **山地探險**: 體驗史瓦帝尼的山地景觀
+
+## 📍 精選景點推薦
+
+## 史瓦帝尼山脈 (Swaziland Mountains)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E5%B1%B1%E8%84%89 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Mountains/@-26.5,31.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼山脈是該國重要的自然景觀，有壯觀的山峰和美麗的山谷。這裡是山地探險、徒步旅行和欣賞自然景觀的理想地點。山脈中有許多瀑布、溪流和高山草甸，是戶外運動愛好者的天堂。
+{% include custom-nav-links.html src="Swaziland_Mountains.png" data="photo" title="photo" %}
+
+## 史瓦帝尼國家公園 (Swaziland National Park)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+National+Park/@-26.5,31.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼國家公園是該國重要的自然保護區，有豐富的野生動物和植物資源。這裡是自然探險、生態旅遊和野生動物觀賞的理想地點。公園內有高山湖泊、瀑布和獨特的岩石地貌。
+{% include custom-nav-links.html src="Swaziland_National_Park.png" data="photo" title="photo" %}
+
+## 姆巴巴內市中心 (Mbabane City Center)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%A7%86%E5%B7%B4%E5%B7%B4%E5%86%85 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Mbabane+City+Center/@-26.3167,31.1333,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 姆巴巴內是史瓦帝尼的首都，位於西部高地。這裡有現代化的建築、豐富的文化設施和傳統市場，是了解史瓦帝尼城市生活和文化的重要地點。市中心有政府大樓、購物中心和傳統市場。
+{% include custom-nav-links.html src="Swaziland_Mbabane_City_Center.png" data="photo" title="photo" %}
+
+## 史瓦帝尼國家博物館 (Swaziland National Museum)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+National+Museum/@-26.3167,31.1333,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼國家博物館收藏了豐富的考古文物和文化藝術品，包括古代文物、傳統手工藝品和歷史文物。這裡是了解史瓦帝尼歷史和文化的重要場所。博物館展示了史瓦濟族的傳統文化和歷史發展。
+{% include custom-nav-links.html src="Swaziland_National_Museum.png" data="photo" title="photo" %}
+
+## 史瓦帝尼手工藝品中心 (Swaziland Craft Center)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E6%89%8B%E5%B7%A5%E8%89%BA%E5%93%81 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Craft+Center/@-26.3167,31.1333,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼手工藝品中心展示了豐富的傳統手工藝品，包括紡織品、陶器、木雕等。這裡是了解史瓦帝尼傳統手工藝和文化藝術的重要地點。遊客可以觀看手工藝製作過程並購買紀念品。
+{% include custom-nav-links.html src="Swaziland_Craft_Center.png" data="photo" title="photo" %}
+
+## 史瓦帝尼傳統村莊 (Swaziland Traditional Village)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E4%BC%A0%E7%BB%9F%E6%9D%91%E5%BA%84 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Traditional+Village/@-26.5,31.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼傳統村莊展示了史瓦濟族的傳統生活方式和建築風格。這裡是了解史瓦帝尼傳統文化和生活習俗的重要地點。遊客可以體驗傳統的圓形茅草屋、觀看傳統舞蹈表演和品嚐當地美食。
+{% include custom-nav-links.html src="Swaziland_Traditional_Village.png" data="photo" title="photo" %}
+
+## 史瓦帝尼蘆葦舞節 (Swaziland Reed Dance Festival)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E8%98%86%E8%8B%BA%E8%88%9E%E8%8A%82 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Reed+Dance+Festival/@-26.5,31.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼蘆葦舞節是該國最重要的傳統節慶，每年8月舉行。這個節日展示了史瓦濟族的傳統文化和舞蹈，是了解史瓦帝尼文化的重要活動。節日期間有傳統舞蹈表演、手工藝展示和文化活動。
+{% include custom-nav-links.html src="Swaziland_Reed_Dance_Festival.png" data="photo" title="photo" %}
+
+## 史瓦帝尼皇家宮殿 (Swaziland Royal Palace)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E7%9A%87%E5%AE%B6%E5%AE%AB%E6%AE%BF "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Royal+Palace/@-26.3167,31.1333,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼皇家宮殿是該國最重要的歷史建築，展示了史瓦濟王室的傳統建築風格。這裡是了解史瓦帝尼政治歷史和皇室文化的重要地點。宮殿有美麗的建築設計和豐富的歷史文化。
+{% include custom-nav-links.html src="Swaziland_Royal_Palace.png" data="photo" title="photo" %}
+
+## 史瓦帝尼瀑布 (Swaziland Waterfalls)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E7%80%91%E5%B8%83 "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Waterfalls/@-26.5,31.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼瀑布是該國重要的自然景觀，有壯觀的瀑布景觀和美麗的自然環境。這裡是攝影和自然探險的理想地點。瀑布周圍有徒步小徑和觀景台，是欣賞自然風光的好去處。
+{% include custom-nav-links.html src="Swaziland_Waterfalls.png" data="photo" title="photo" %}
+
+## 史瓦帝尼市場 (Swaziland Market)
+- [Wiki](https://zh.wikipedia.org/wiki/%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC%E5%B8%82%E5%9C%BA "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/Swaziland+Market/@-26.3167,31.1333,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- 史瓦帝尼市場是該國最重要的傳統市場，有豐富的當地商品、手工藝品和美食。這裡是了解史瓦帝尼日常生活和商業文化的重要地點。市場內有傳統手工藝品、當地美食和新鮮農產品。
+{% include custom-nav-links.html src="Swaziland_Market.png" data="photo" title="photo" %}
 
