@@ -3,6 +3,17 @@
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
+## 📚 專案文件 (Project Documentation)
+
+所有專案相關的文件、腳本和設定說明都整理在 [`docs/`](docs/) 目錄中：
+
+- **設定文件**: Cursor IDE 規則、專案配置
+- **Python 腳本**: 自動化工具和維護腳本  
+- **專案文件**: PRD、設定指南、分類摘要
+- **使用指南**: 開發環境設定和腳本使用說明
+
+詳細內容請參考 [docs/README.md](docs/README.md)。
+
 ![Desktop](/_screenshots/1.png?raw=true)
 <img alt="Mobile home page" src="/_screenshots/2.png?raw=true" width="300px" />
 <img alt="Mobile post page" src="/_screenshots/3.png?raw=true" width="300px" />
