@@ -32,8 +32,18 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
-disqus:
-  shortname: spring0070
-  layout: default
-  comments: true
-  # other options
+
+# Gitalk Comments Configuration
+gitalk:
+  clientID: 'Ov23liQhyVcC6NnTHGWl'
+  clientSecret: '53d84c7dcb91db6e59a473c97b3e2d401e9ba8f1'
+  repo: 'spring0070.github.io'
+  owner: 'spring0070'
+  admin: 'spring0070'
+
+# Disqus Comments Configuration (Commented out - replaced by Gitalk)
+# disqus:
+#   shortname: spring0070
+#   layout: default
+#   comments: true
+#   # other options
