@@ -27,13 +27,13 @@ sidebar_link: true
 
 ## 北歐
 
-10. 🏗️ 🇸🇪 瑞典([Sweden]({% post_url 2024-02-02-Sweden %})) - [Wiki](https://zh.wikipedia.org/wiki/瑞典 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/瑞典 "GoogleEarth"){:target="_blank"} - 人口:1.06 千萬  0.13%
+10. ✅  🇸🇪 瑞典([Sweden]({% post_url 2024-02-02-Sweden %})) - [Wiki](https://zh.wikipedia.org/wiki/瑞典 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/瑞典 "GoogleEarth"){:target="_blank"} - 人口:1.06 千萬  0.13%
 
-11. 🏗️ 🇩🇰 丹麥([Denmark]({% post_url 2024-02-02-Denmark %})) - [Wiki](https://zh.wikipedia.org/wiki/丹麥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/丹麥 "GoogleEarth"){:target="_blank"} - 人口:582.75 萬  0.07%
+11. ✅  🇩🇰 丹麥([Denmark]({% post_url 2024-02-02-Denmark %})) - [Wiki](https://zh.wikipedia.org/wiki/丹麥 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/丹麥 "GoogleEarth"){:target="_blank"} - 人口:582.75 萬  0.07%
 
-12. 🏗️ 🇳🇴 挪威([Norway]({% post_url 2024-02-02-Norway %})) - [Wiki](https://zh.wikipedia.org/wiki/挪威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/挪威 "GoogleEarth"){:target="_blank"} - 人口:536.76 萬  0.07%
+12. ✅  🇳🇴 挪威([Norway]({% post_url 2024-02-02-Norway %})) - [Wiki](https://zh.wikipedia.org/wiki/挪威 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/挪威 "GoogleEarth"){:target="_blank"} - 人口:536.76 萬  0.07%
 
-13. 🇫🇮 芬蘭([Finland]({% post_url 2024-02-02-Finland %})) - [Wiki](https://zh.wikipedia.org/wiki/芬蘭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/芬蘭 "GoogleEarth"){:target="_blank"} - 人口:552.68 萬  0.07%
+13. ✅ 🇫🇮 芬蘭([Finland]({% post_url 2024-02-02-Finland %})) - [Wiki](https://zh.wikipedia.org/wiki/芬蘭 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/芬蘭 "GoogleEarth"){:target="_blank"} - 人口:552.68 萬  0.07%
 
 14. 🇮🇸 冰島([Iceland]({% post_url 2024-02-02-Iceland %})) - [Wiki](https://zh.wikipedia.org/wiki/冰島 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/冰島 "GoogleEarth"){:target="_blank"} - 人口:39.70 萬  0.00%
 
