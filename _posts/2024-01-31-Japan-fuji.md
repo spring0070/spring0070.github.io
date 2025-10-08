@@ -27,6 +27,8 @@ excerpt_separator:  <!--more-->
 - **豐臣秀吉**：完成日本統一的戰國大名
 - **織田信長**：開啟天下布武的戰國大名
 
+{% include custom-nav-links.html src="Japan_fuji_king.png" data="photo" title="photo" %}
+
 ---
 
 ## 🎭 文化特色
