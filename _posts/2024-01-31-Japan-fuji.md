@@ -7,6 +7,8 @@ categories:
 excerpt_separator:  <!--more-->
 ---
 # 🏯 甲信越名城賞楓之旅 · 戰國群像故事線
+- [Youtube](https://www.youtube.com/watch?v=X4yLiTGY82k "YT"){:target="_blank"}
+
 
 ## 📌 基本資料
 - **行程主題**：甲信越名城賞楓之旅 · 戰國群像故事線
@@ -71,8 +73,7 @@ excerpt_separator:  <!--more-->
 ## 📍 精選景點推薦
 
 ## 奈良井宿（Narai-juku）
-- [Wiki](https://zh.wikipedia.org/zh-tw/%E5%A5%88%E8%89%AF%E4%BA%95%E5%AE%BF "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Narai-juku/@36.0625,138.0417,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e5%a5%88%e8%89%af%e4%ba%95%e5%ae%bf/@35.9682997,137.8145375,938.33176324a,668.6809138d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=JSuzHdoiMZo "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=exEd5pT6sdY "YT"){:target="_blank"}
 - 中山道保存最完整的宿場町，江戶時代庶民文化的縮影
@@ -82,7 +83,7 @@ excerpt_separator:  <!--more-->
 
 ## 松本城（Matsumoto Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%9D%BE%E6%9C%AC%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Matsumoto+Castle/@36.2386,137.9692,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%97%a5%e6%9c%ac%e9%95%b7%e9%87%8e%e7%b8%a3%e6%9d%be%e6%9c%ac%e5%b8%82+Marunouchi,+4%e2%88%921+%e6%9d%be%e6%9c%ac%e5%9f%8e/@36.238653,137.9688674,605.45256674a,666.10500404d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=noob9UpGTNw "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=wdF7-joNj-o "YT"){:target="_blank"}
 - 國寶五城之一，由石川數正所建，象徵豐臣政權時代的城郭技術
@@ -92,7 +93,7 @@ excerpt_separator:  <!--more-->
 
 ## 松代城（Matsushiro Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%9D%BE%E4%BB%A3%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Matsushiro+Castle/@36.5644,138.2019,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%97%a5%e6%9c%ac%e9%95%b7%e9%87%8e%e7%b8%a3%e9%95%b7%e9%87%8e%e5%b8%82+%e6%9d%be%e4%bb%a3%e7%94%ba%e6%9d%be%e4%bb%a344+%e6%9d%be%e4%bb%a3%e5%9f%8e%e8%b7%a1/@36.56544755,138.19605575,347.83821657a,829.77836066d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=Jp2RgQdAkM8 "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=Jg6sy_yfJWw "YT"){:target="_blank"}
 - 川中島古戰場之一，武田信玄（甲斐之虎）與上杉謙信（越後之龍）多次激戰之地
@@ -102,7 +103,7 @@ excerpt_separator:  <!--more-->
 
 ## 上田城（Ueda Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E4%B8%8A%E7%94%B0%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Ueda+Castle/@36.4019,138.2486,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%97%a5%e6%9c%ac%e9%95%b7%e9%87%8e%e7%b8%a3%e4%b8%8a%e7%94%b0%e5%b8%82+Ninomaru,+2+%e4%b8%8a%e7%94%b0%e5%9f%8e%e8%b7%a1%e5%85%ac%e5%9c%92/@36.40402235,138.24462565,449.51263814a,830.68071411d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=ui43H6bdPEI "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=2uRVEhd2kOY "YT"){:target="_blank"}
 - 真田昌幸築城，憑小城擊退德川大軍兩度，展現「表裡比興」的真田智略
@@ -112,7 +113,7 @@ excerpt_separator:  <!--more-->
 
 ## 諏訪湖（Lake Suwa）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E8%AB%8F%E8%A8%AA%E6%B9%96 "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Lake+Suwa/@36.0333,138.0833,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%97%a5%e6%9c%ac%e9%95%b7%e9%87%8e%e7%b8%a3%e8%ab%8f%e8%a8%aa%e6%b9%96/@36.04570789,138.12178453,799.6161586a,36313.76079014d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=GhoPwKlQg6Q "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=PntADimCV3o "YT"){:target="_blank"}
 - 諏訪氏的根據地，也是信玄入主甲斐後的重要盟友
@@ -122,7 +123,7 @@ excerpt_separator:  <!--more-->
 
 ## 高島城（Takashima Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E9%AB%98%E5%B3%B6%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Takashima+Castle/@36.0333,138.0833,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%E9%AB%98%E5%B3%B6%E5%9F%8E/@36.039798,138.1120318,775.60251714a,667.78148196d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=dv8ANmOZ5DM "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=AavRFMMlAiA "YT"){:target="_blank"}
 - 諏訪氏的重要據點，被稱為「浮城」
@@ -132,7 +133,7 @@ excerpt_separator:  <!--more-->
 
 ## 諏訪大社（Suwa Taisha）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E8%AB%8F%E8%A8%AA%E5%A4%A7%E7%A4%BE "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Suwa+Taisha/@36.0333,138.0833,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e8%ab%8f%e8%a8%aa%e5%a4%a7%e7%a4%be/@35.99912368,138.12205118,764.18869017a,2250.1772084d,35y,-0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=cQX1bFRr4R0 "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=j2p8zgsNLg8 "YT"){:target="_blank"}
 - 供奉古代神族，將神話與戰國串接的重要神社
@@ -142,7 +143,7 @@ excerpt_separator:  <!--more-->
 
 ## 武田神社（Takeda Shrine）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%AD%A6%E7%94%B0%E7%A5%9E%E7%A4%BE "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Takeda+Shrine/@35.6667,138.5667,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%ad%a6%e7%94%b0%e7%a5%9e%e7%a4%be/@35.689481,138.57607119,357.69273994a,3736.62359225d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=kq8o44tRw7M "YT"){:target="_blank"}
 - 原為武田氏館，後人祭祀武田信玄於此，象徵甲斐之虎的精神殿堂
 - 是了解武田信玄生平的重要場所
@@ -151,7 +152,7 @@ excerpt_separator:  <!--more-->
 
 ## 甲府城（Kofu Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E7%94%B2%E5%BA%9C%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Kofu+Castle/@35.6667,138.5667,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e7%94%b2%e5%ba%9c%e5%9f%8e/@35.66681767,138.56813606,274.63611257a,3199.35460131d,34.99999953y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=ep4slWuOvME "YT"){:target="_blank"}
 - 豐臣家臣加藤光泰所建，象徵「甲斐國已脫離武田家，進入豐臣與德川秩序」
 - 現為甲府城址公園，是甲府市的重要地標
@@ -160,7 +161,7 @@ excerpt_separator:  <!--more-->
 
 ## 小田原城（Odawara Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E7%94%B0%E5%8E%9F%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Odawara+Castle/@35.2500,139.1500,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e5%b0%8f%e7%94%b0%e5%8e%9f%e5%9f%8e/@35.2509493,139.1535136,45.43128181a,675.09680414d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=Gdg3WYGfCLU "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=xZ7JqiUfNGI "YT"){:target="_blank"}
 - 北條氏政的居城，曾是關東無敵的要塞，但最終被豐臣秀吉小田原征伐擊潰
@@ -170,7 +171,7 @@ excerpt_separator:  <!--more-->
 
 ## 駿府城（Sunpu Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E9%A7%BF%E5%BA%9C%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Sunpu+Castle/@34.9667,138.3833,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e9%a7%bf%e5%ba%9c%e5%9f%8e/@34.97926037,138.38268687,22.33256443a,956.31720604d,35y,360h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=AKAjrZD7w6c "YT"){:target="_blank"}
 - 德川家康晚年隱居地，象徵天下歸一後的太平
 - 是了解德川家康晚年生活的重要場所
@@ -179,7 +180,7 @@ excerpt_separator:  <!--more-->
 
 ## 掛川城（Kakegawa Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%8E%9B%E5%B7%9D%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Kakegawa+Castle/@34.7667,138.0167,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%8e%9b%e5%b7%9d%e5%9f%8e/@34.7752055,138.0139033,60.07436319a,679.42698557d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=p_g7kUJhk3M "YT"){:target="_blank"}
 - 山內一豐領地，關原戰後成為土佐藩藩祖，夫妻內助之功廣為流傳
 - 是了解山內一豐夫婦故事的重要場所
@@ -188,7 +189,7 @@ excerpt_separator:  <!--more-->
 
 ## 濱松城（Hamamatsu Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%BF%B1%E6%9D%BE%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Hamamatsu+Castle/@34.7167,137.7167,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%bf%b1%e6%9d%be%e5%9f%8e/@34.7117753,137.7249058,43.82261695a,679.99535481d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=0lNn_1_iMbY "YT"){:target="_blank"}
 - 家康青年期據點，因仕途飛黃騰達，被稱為「出世城」
 - 是了解德川家康青年時期的重要場所
@@ -197,7 +198,7 @@ excerpt_separator:  <!--more-->
 
 ## 長篠古戰場（Nagashino Battlefield）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E9%95%B7%E7%AF%A0%E5%8F%A4%E6%88%B0%E5%A0%B4 "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Nagashino+Battlefield/@34.9167,137.5667,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e9%95%b7%e7%af%a0%e5%8f%a4%e6%88%b0%e5%a0%b4/@34.9206551,137.52116153,81.95610401a,3983.92153142d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=PAdvmnb4_8E "YT"){:target="_blank"}
 - 織田信長＋德川家康聯軍以火繩銃「三段擊」擊潰武田勝賴騎兵，戰國戰術大轉折
 - 是了解戰國時代軍事技術發展的重要場所
@@ -206,7 +207,7 @@ excerpt_separator:  <!--more-->
 
 ## 岡崎城（Okazaki Castle）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B2%A1%E5%B4%8E%E5%9F%8E "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Okazaki+Castle/@34.9500,137.1667,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e5%b2%a1%e5%b4%8e%e5%9f%8e/@34.95649525,137.15927985,25.49198045a,847.21952359d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=TTc-02F4HbQ "YT"){:target="_blank"}
 - 家康的出生地，從此孕育東照大權現
 - 是了解德川家康出生和成長的重要場所
@@ -215,7 +216,7 @@ excerpt_separator:  <!--more-->
 
 ## 桶狹間古戰場（Okehazama Battlefield）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E6%A1%B6%E7%8B%AD%E9%96%93%E5%8F%A4%E6%88%B0%E5%A0%B4 "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Okehazama+Battlefield/@35.0667,136.9167,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e6%a1%b6%e7%8b%b9%e9%96%93%e5%8f%a4%e6%88%b0%e5%a0%b4/@35.05685261,136.96971464,41.44336393a,1867.040922d,35y,359.99999999h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=39ZGpkninf4 "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=vpDG82kc30k "YT"){:target="_blank"}
 - 織田信長以奇襲擊敗今川義元，揭開天下布武序幕
@@ -225,7 +226,7 @@ excerpt_separator:  <!--more-->
 
 ## 熱田神宮（Atsuta Shrine）
 - [Wiki](https://zh.wikipedia.org/zh-tw/%E7%86%B1%E7%94%B0%E7%A5%9E%E5%AE%AE "Wiki"){:target="_blank"}
-- [GoogleEarth](https://earth.google.com/web/search/Atsuta+Shrine/@35.1333,136.9167,0a,100000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e7%86%b1%e7%94%b0%e7%a5%9e%e5%ae%ae/@35.12678318,136.91113204,3.64436317a,2884.03337475d,35y,-0h,0t,0r/ "GoogleEarth"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=6HLDPcsEk-k "YT"){:target="_blank"}
 - [Youtube](https://www.youtube.com/watch?v=-f-BFW57x9Q "YT"){:target="_blank"}
 - 日本三神器之一「草薙劍」鎮座於此
@@ -233,6 +234,15 @@ excerpt_separator:  <!--more-->
 - 現為名古屋市的重要神社，每年吸引大量參拜者
 {% include custom-nav-links.html src="Japan_Atsuta_Shrine.png" data="photo" title="photo" %}
 
+## 犬山城（Inuyama Castle）
+- [Wiki](https://zh.wikipedia.org/zh-tw/%E7%8A%AC%E5%B1%B1%E5%9F%8E "Wiki"){:target="_blank"}
+- [GoogleEarth](https://earth.google.com/web/search/%e7%8a%ac%e5%b1%b1%e5%9f%8e/@35.3883604,136.9391766,87.62345725a,673.82572159d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
+- [Youtube](https://www.youtube.com/watch?v=VYMI4Ufs6io "YT"){:target="_blank"}
+- [Youtube](https://www.youtube.com/watch?v=3j7vcvVFxeU "YT"){:target="_blank"}
+- 國寶五城之一，日本現存最古老的天守閣，由織田信康所建
+- 木曾川畔的戰略要地，見證了織田信長統一尾張的重要據點
+- 秋季時分，天守閣與木曾川的紅葉形成絕美風景，是賞楓的絕佳地點
+{% include custom-nav-links.html src="Japan_Inuyama_Castle.png" data="photo" title="photo" %}
 ---
 
 ## 🗓️ 行程安排
@@ -264,6 +274,7 @@ excerpt_separator:  <!--more-->
 - **長篠古戰場**：織田信長＋德川家康聯軍擊潰武田勝賴
 - **岡崎城**：家康的出生地
 - **桶狹間古戰場**：織田信長奇襲今川義元
+- **犬山城**：國寶五城之一，織田信長統一尾張的重要據點
 - **熱田神宮**：日本三神器之一「草薙劍」鎮座地
 
 ---
@@ -281,5 +292,7 @@ excerpt_separator:  <!--more-->
 **家康**：從青年「出世」到太平天下（濱松 → 駿府）
 
 **信長 × 家康聯盟**：決定天下格局（桶狹間、長篠）
+
+**織田信長**：從尾張統一到天下布武（犬山城、桶狹間）
 
 整個路線把 **戰國群雄 → 豐臣天下統一 → 德川太平盛世** 串成完整故事，在秋季紅葉的襯托下，更顯歷史的厚重與美麗。

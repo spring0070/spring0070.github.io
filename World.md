@@ -311,7 +311,7 @@ sidebar_link: true
 
 134. 日本北海道([Japan hokkaido]({% post_url 2024-01-31-Japan-hokkaido %})) - [Wiki](https://zh.wikipedia.org/wiki/北海道 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/北海道 "GoogleEarth"){:target="_blank"} 
 
-135. 日本富士山名城([Japan Fuji]({% post_url 2024-01-31-Japan-fuji %})) - [Wiki](https://zh.wikipedia.org/wiki/fuji "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/fuji  "GoogleEarth"){:target="_blank"} 
+135.  ✅ 日本富士山名城([Japan Fuji]({% post_url 2024-01-31-Japan-fuji %})) - [Wiki](https://zh.wikipedia.org/wiki/fuji "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/fuji  "GoogleEarth"){:target="_blank"} 
 
 136. 南韓([South Korea]({% post_url 2024-03-15-SouthKorea %})) - [Wiki](https://zh.wikipedia.org/wiki/南韓 "Wiki"){:target="_blank"} - [GoogleEarth](https://earth.google.com/web/search/南韓 "GoogleEarth"){:target="_blank"} - 人口:5.13 千萬  0.63%
 
