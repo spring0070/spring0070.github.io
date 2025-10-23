@@ -8,8 +8,8 @@ excerpt_separator:  <!--more-->
 ---
 
 # 🇰🇷 南韓 South Korea
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=4FE9_MqAy_c "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=yF8GYfdgtNU "YouTube長版"){:target="_blank"} 
 
 ## 📌 基本資料
 | 項目 | 資訊 |
@@ -45,24 +45,24 @@ excerpt_separator:  <!--more-->
 ### 景福宮 (Gyeongbokgung Palace)
 - [Wiki](https://zh.wikipedia.org/wiki/景福宮 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Gyeongbokgung+Palace/@37.5796,126.9770,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=29RCEgRrzEA "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=znUhFhtaVZs "YouTube長版"){:target="_blank"}
 - 景福宮是朝鮮王朝的正宮，是首爾最重要的歷史建築，擁有眾多傳統建築和文物，是了解韓國歷史文化的重要場所。
 {% include custom-nav-links.html src="SouthKorea_Gyeongbokgung_Palace.png" data="photo" title="photo" %}
 
-### 濟州島 (Jeju Island)
+### 濟州島 (Jeju Island) 
 - [Wiki](https://zh.wikipedia.org/wiki/濟州島 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Jeju+Island/@33.5000,126.5000,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版](https://www.youtube.com/watch?v=yP_pjtBPpwQ "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://www.youtube.com/watch?v=jtIa57owJBg "YouTube長版"){:target="_blank"}
 - 濟州島是韓國最大的島嶼，擁有美麗的海灘、火山地形和獨特的文化，被列入世界自然遺產，是著名的度假勝地。
 {% include custom-nav-links.html src="SouthKorea_Jeju_Island.png" data="photo" title="photo" %}
 
 ### 明洞 (Myeongdong)
 - [Wiki](https://zh.wikipedia.org/wiki/明洞 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Myeongdong/@37.5636,126.9834,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版](https://youtu.be/EBPm7U4JzUA?si=MIa498DrcCw_zykP "YouTube短版"){:target="_blank"}
+- [YouTube長版](https://youtu.be/EBPm7U4JzUA?si=eortGSe1Tv2MXrWk "YouTube長版"){:target="_blank"}
 - 明洞是首爾最著名的購物區，匯集了各種商店、餐廳和娛樂場所，是體驗韓國現代都市生活的好地方。
 {% include custom-nav-links.html src="SouthKorea_Myeongdong.png" data="photo" title="photo" %}
 
