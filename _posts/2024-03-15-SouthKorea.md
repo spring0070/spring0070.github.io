@@ -69,64 +69,64 @@ excerpt_separator:  <!--more-->
 ### 釜山海雲台 (Haeundae Beach)
 - [Wiki](https://zh.wikipedia.org/wiki/海雲台海水浴場 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Haeundae+Beach/@35.1586,129.1603,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 海雲台是釜山最著名的海灘，擁有美麗的沙灘和清澈的海水，是韓國最受歡迎的海濱度假勝地之一。
 {% include custom-nav-links.html src="SouthKorea_Haeundae_Beach.png" data="photo" title="photo" %}
 
 ### 昌德宮 (Changdeokgung Palace)
 - [Wiki](https://zh.wikipedia.org/wiki/昌德宮 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Changdeokgung+Palace/@37.5794,126.9910,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 昌德宮是朝鮮王朝的離宮，以其優雅的建築和美麗的後花園聞名，被列入世界文化遺產。
 {% include custom-nav-links.html src="SouthKorea_Changdeokgung_Palace.png" data="photo" title="photo" %}
 
 ### 首爾塔 (N Seoul Tower)
 - [Wiki](https://zh.wikipedia.org/wiki/首爾塔 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/N+Seoul+Tower/@37.5512,126.9882,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 首爾塔是首爾的地標建築，高236米，擁有觀景台和餐廳，是欣賞首爾全景的最佳地點。
 {% include custom-nav-links.html src="SouthKorea_N_Seoul_Tower.png" data="photo" title="photo" %}
 
 ### 東大門 (Dongdaemun)
 - [Wiki](https://zh.wikipedia.org/wiki/東大門 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Dongdaemun/@37.5714,127.0095,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 東大門是首爾著名的購物區，擁有眾多服裝批發市場和購物中心，是韓國時尚產業的重要中心。
 {% include custom-nav-links.html src="SouthKorea_Dongdaemun.png" data="photo" title="photo" %}
 
 ### 慶州 (Gyeongju)
 - [Wiki](https://zh.wikipedia.org/wiki/慶州 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Gyeongju/@35.8562,129.2247,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 慶州是新羅王朝的古都，擁有眾多歷史遺跡和文化遺產，被稱為"沒有圍牆的博物館"。
 {% include custom-nav-links.html src="SouthKorea_Gyeongju.png" data="photo" title="photo" %}
 
 ### 釜山甘川文化村 (Gamcheon Culture Village)
 - [Wiki](https://zh.wikipedia.org/wiki/甘川文化村 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Gamcheon+Culture+Village/@35.0974,129.0117,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 甘川文化村是釜山的藝術村，以其彩色的房屋和壁畫聞名，被稱為"韓國的聖托里尼"。
 {% include custom-nav-links.html src="SouthKorea_Gamcheon_Culture_Village.png" data="photo" title="photo" %}
 
 ### 江原道雪嶽山 (Seoraksan)
 - [Wiki](https://zh.wikipedia.org/wiki/雪嶽山 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Seoraksan/@38.1194,128.4653,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 雪嶽山是韓國最著名的山脈之一，以其壯麗的山峰和美麗的自然風光聞名，是韓國重要的國家公園。
 {% include custom-nav-links.html src="SouthKorea_Seoraksan.png" data="photo" title="photo" %}
 
 ### 全州韓屋村 (Jeonju Hanok Village)
 - [Wiki](https://zh.wikipedia.org/wiki/全州韓屋村 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Jeonju+Hanok+Village/@35.8150,127.1530,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 全州韓屋村保存了大量傳統韓屋建築，是體驗韓國傳統文化的重要場所，也是著名的旅遊景點。
 {% include custom-nav-links.html src="SouthKorea_Jeonju_Hanok_Village.png" data="photo" title="photo" %}
 

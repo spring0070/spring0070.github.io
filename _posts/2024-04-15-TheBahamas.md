@@ -8,8 +8,8 @@ excerpt_separator:  <!--more-->
 ---
 
 # 🇧🇸 The Bahamas 巴哈馬
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 
 ## 📌 基本資料
 | 項目 | 資訊 |
@@ -45,64 +45,64 @@ excerpt_separator:  <!--more-->
 ## 天堂島 (Paradise Island)
 - [Wiki](https://zh.wikipedia.org/wiki/%E5%A4%A9%E5%A0%82%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Paradise+Island/@25.0852,-77.3234,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 天堂島是巴哈馬最著名的旅遊勝地之一，擁有美麗的海灘、豪華度假村和亞特蘭蒂斯度假村。這裡有清澈的加勒比海水、白色沙灘和豐富的水上活動，是理想的度假目的地。
 {% include custom-nav-links.html src="Bahamas_Paradise_Island.png" data="photo" title="photo" %}
 
 ## 拿騷 (Nassau)
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%8B%BF%E9%A8%B7 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Nassau+Bahamas/@25.0343,-77.3963,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 拿騷是巴哈馬的首都，擁有豐富的歷史遺跡和文化景點。這裡有海盜博物館、總督府、彩色房屋等著名景點，展現了巴哈馬豐富的歷史和文化遺產。
 {% include custom-nav-links.html src="Bahamas_Nassau.png" data="photo" title="photo" %}
 
 ## 埃克蘇馬群島 (Exuma Islands)
 - [Wiki](https://zh.wikipedia.org/wiki/%E5%9F%83%E5%85%8B%E8%98%87%E9%A6%AC%E7%BE%A4%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Exuma+Islands/@23.5000,-75.7500,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 埃克蘇馬群島以其原始的美麗海灘、清澈的海水和豐富的海洋生物而聞名。這裡有豬島、沙灘島等著名景點，是潛水、浮潛和自然探索的理想地點。
 {% include custom-nav-links.html src="Bahamas_Exuma_Islands.png" data="photo" title="photo" %}
 
 ## 阿巴科群島 (Abaco Islands)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E5%B7%B4%E7%A7%91%E7%BE%A4%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Abaco+Islands/@26.5000,-77.0000,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿巴科群島是巴哈馬最美麗的地區之一，擁有原始的海灘、熱帶雨林和豐富的野生動物。這裡有馬什港、希望鎮等著名景點，是遠離城市喧囂的理想度假地點。
 {% include custom-nav-links.html src="Bahamas_Abaco_Islands.png" data="photo" title="photo" %}
 
 ## 安德羅斯島 (Andros Island)
 - [Wiki](https://zh.wikipedia.org/wiki/%E5%AE%89%E5%BE%B7%E7%BE%85%E6%96%AF%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Andros+Island/@24.5000,-77.7500,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 安德羅斯島是巴哈馬最大的島嶼，以其原始的自然環境和豐富的海洋生物而聞名。這裡有大堡礁、藍洞等著名景點，是潛水、釣魚和自然探索的理想地點。
 {% include custom-nav-links.html src="Bahamas_Andros_Island.png" data="photo" title="photo" %}
 
 ## 比米尼群島 (Bimini Islands)
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%AF%94%E7%B1%B3%E5%B0%BC%E7%BE%A4%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Bimini+Islands/@25.7500,-79.2500,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 比米尼群島以其美麗的海灘、清澈的海水和豐富的海洋生物而聞名。這裡有海豚灣、沉船遺跡等著名景點，是潛水、浮潛和海洋探索的理想地點。
 {% include custom-nav-links.html src="Bahamas_Bimini_Islands.png" data="photo" title="photo" %}
 
 ## 長島 (Long Island)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%95%B7%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Long+Island+Bahamas/@23.2500,-75.0000,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 長島是巴哈馬最美麗的地區之一，擁有原始的海灘、熱帶雨林和豐富的野生動物。這裡有迪恩藍洞、海灘等著名景點，是遠離城市喧囂的理想度假地點。
 {% include custom-nav-links.html src="Bahamas_Long_Island.png" data="photo" title="photo" %}
 
 ## 伊柳塞拉島 (Eleuthera Island)
 - [Wiki](https://zh.wikipedia.org/wiki/%E4%BC%8A%E6%9F%B3%E5%A1%9E%E6%8B%89%E5%B3%B6 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Eleuthera+Island/@25.0000,-76.2500,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 伊柳塞拉島以其美麗的海灘、清澈的海水和豐富的海洋生物而聞名。這裡有粉紅沙灘、玻璃窗橋等著名景點，是潛水、浮潛和自然探索的理想地點。
 {% include custom-nav-links.html src="Bahamas_Eleuthera_Island.png" data="photo" title="photo" %}
 

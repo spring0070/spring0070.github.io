@@ -8,8 +8,8 @@ excerpt_separator:  <!--more-->
 ---
 
 # 🇪🇭 Western Sahara 西撒哈拉
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 
 ## 📌 基本資料
 | 項目 | 資訊 |
@@ -45,64 +45,64 @@ excerpt_separator:  <!--more-->
 ## 阿尤恩海濱 (El Aaiún Seafront)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E6%81%A9 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/El+Aaiún+Seafront/@27.15,-13.2,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿尤恩是西撒哈拉的主要城市，位於大西洋沿岸。這裡有美麗的海灘、現代化的建築和豐富的文化設施。海濱地區是享受海灘度假和城市生活的理想地點。
 {% include custom-nav-links.html src="WesternSahara_El_Aaiun_Seafront.png" data="photo" title="photo" %}
 
 ## 達赫拉海灘 (Dakhla Beach)
 - [Wiki](https://zh.wikipedia.org/wiki/%E8%BE%BE%E8%B5%AB%E6%8B%89 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Dakhla+Beach/@23.7167,-15.95,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 達赫拉是西撒哈拉重要的港口城市，有美麗的海灘和豐富的文化遺產。這裡有歷史悠久的建築、傳統市場和自然景觀。
 {% include custom-nav-links.html src="WesternSahara_Dakhla_Beach.png" data="photo" title="photo" %}
 
 ## 撒哈拉沙漠 (Sahara Desert)
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%92%92%E5%93%88%E6%8B%89%E6%B2%99%E6%BC%A0 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Sahara+Desert/@25.0,-14.0,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 西撒哈拉的撒哈拉沙漠有壯麗的沙丘景觀和綠洲。這裡可以體驗駱駝旅行、沙漠露營和柏柏爾文化，是自然探險的理想地點。
 {% include custom-nav-links.html src="WesternSahara_Sahara_Desert.png" data="photo" title="photo" %}
 
 ## 斯馬拉古城 (Smara Old Town)
 - [Wiki](https://zh.wikipedia.org/wiki/%E6%96%AF%E9%A9%AC%E6%8B%89 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/Smara+Old+Town/@26.7333,-11.6833,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 斯馬拉是西撒哈拉重要的文化城市，有豐富的文化遺產和傳統市場。這裡有傳統的建築、手工藝品和當地美食，是了解西撒哈拉文化的重要城市。
 {% include custom-nav-links.html src="WesternSahara_Smara_Old_Town.png" data="photo" title="photo" %}
 
 ## 阿尤恩國家博物館 (El Aaiún National Museum)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E6%81%A9%E5%9B%BD%E5%AE%B6%E5%8D%9A%E7%89%A9%E9%A6%86 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/El+Aaiún+National+Museum/@27.15,-13.2,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿尤恩國家博物館收藏了豐富的歷史文物和文化藝術品，包括柏柏爾文化、傳統手工藝品和考古文物。這裡是了解西撒哈拉歷史和文化的重要場所。
 {% include custom-nav-links.html src="WesternSahara_El_Aaiun_National_Museum.png" data="photo" title="photo" %}
 
 ## 阿尤恩大清真寺 (El Aaiún Grand Mosque)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E6%81%A9%E5%A4%A7%E6%B8%85%E7%9C%9F%E5%AF%BA "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/El+Aaiún+Grand+Mosque/@27.15,-13.2,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿尤恩大清真寺是西撒哈拉最大的清真寺，有壯觀的建築設計和精美的伊斯蘭藝術。這裡是西撒哈拉伊斯蘭文化的重要象徵。
 {% include custom-nav-links.html src="WesternSahara_El_Aaiun_Grand_Mosque.png" data="photo" title="photo" %}
 
 ## 阿尤恩傳統市場 (El Aaiún Traditional Market)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E6%81%A9%E4%BC%A0%E7%BB%9F%E5%B8%82%E5%9C%BA "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/El+Aaiún+Traditional+Market/@27.15,-13.2,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿尤恩傳統市場是西撒哈拉最重要的市場之一，有豐富的手工藝品、傳統美食和文化表演。這裡是體驗西撒哈拉傳統文化和購買紀念品的理想地點。
 {% include custom-nav-links.html src="WesternSahara_El_Aaiun_Traditional_Market.png" data="photo" title="photo" %}
 
 ## 阿尤恩海灘 (El Aaiún Beach)
 - [Wiki](https://zh.wikipedia.org/wiki/%E9%98%BF%E4%BC%8A%E6%81%A9%E6%B5%B7%E6%BB%A9 "Wiki"){:target="_blank"}
 - [GoogleEarth](https://earth.google.com/web/search/El+Aaiún+Beach/@27.15,-13.2,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"}
-- [YouTube短版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube短版"){:target="_blank"}
-- [YouTube長版](https://www.youtube.com/watch?v=QzI9pD5yOIY "YouTube長版"){:target="_blank"}
+- [YouTube短版]( "YouTube短版"){:target="_blank"}
+- [YouTube長版]( "YouTube長版"){:target="_blank"}
 - 阿尤恩海灘是西撒哈拉著名的海灘度假勝地，有美麗的海灘和豐富的文化遺產。這裡有傳統的村莊、手工藝品和當地美食。
 {% include custom-nav-links.html src="WesternSahara_El_Aaiun_Beach.png" data="photo" title="photo" %}
 
