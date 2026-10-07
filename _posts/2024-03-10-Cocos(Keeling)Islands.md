@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="Cocos(Keeling)Islands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 科科斯（基林）群島
 - 首都與大城市：科科斯（基林）群島是位於印度洋中的澳洲海外領地，沒有首都或大城市。最主要的居住地包括西島（West Island）和家島（Home Island）。
 
@@ -65,5 +66,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Cocos+Keeling+Islands+Coconut+Plantations/@-12.0,97.0,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 科科斯（基林）群島擁有廣闊的椰子種植園，椰子是該國重要的經濟作物之一。
 {% include custom-nav-links.html src="CocosKeelingIslands_Coconut_Plantations.png" data="photo" title="photo" %}
-
 

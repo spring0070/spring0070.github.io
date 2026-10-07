@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="FederatedStatesofMicronesia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 密克羅尼西亞聯邦
 - 首都與大城市：密克羅尼西亞聯邦的首都是帕勞（Palikir），而主要城市包括帕勞、科索雷（Kosrae）、楚克（Chuuk）和波恩佩（Pohnpei）等。
 
@@ -73,5 +74,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Federated+States+of+Micronesia+War+Relics/@7,158,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 密克羅尼西亞聯邦擁有豐富的二戰歷史遺跡，包括戰爭紀念碑、博物館和歷史遺址。
 {% include custom-nav-links.html src="FederatedStatesofMicronesia_War_Relics.png" data="photo" title="photo" %}
-
 

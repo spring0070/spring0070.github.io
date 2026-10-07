@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="NorthernCyprus_Territory_Map.png" data="photo" title="國土地圖" %}
 # 北賽普勒斯
 - 地理位置：北賽普勒斯位於塞浦路斯島的北部，東臨地中海，西臨地中海，北臨地中海，南與塞浦路斯共和國接壤。
 

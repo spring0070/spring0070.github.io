@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="ChristmasIsland_Territory_Map.png" data="photo" title="國土地圖" %}
 # 聖誕島
 - 首都與大城市：聖誕島是一個小島，沒有首都或大城市。該島主要的聚居地是飛魚灣（Flying Fish Cove）。
 
@@ -70,5 +71,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Christmas+Island+Rainforest/@-10.44,105.58,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 聖誕島擁有豐富的熱帶雨林生態系統，是許多特有植物和動物的家園。
 {% include custom-nav-links.html src="ChristmasIsland_Tropical_Rainforest.png" data="photo" title="photo" %}
-
 

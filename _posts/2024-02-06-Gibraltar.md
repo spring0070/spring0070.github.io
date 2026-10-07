@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 3.27 萬人
 - **宗教**：基督教、伊斯蘭教、猶太教
 - **國土面積**：約 6.8 平方公里
+{% include custom-nav-links.html src="Gibraltar_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

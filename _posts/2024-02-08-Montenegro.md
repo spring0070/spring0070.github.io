@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="Montenegro_Territory_Map.png" data="photo" title="國土地圖" %}
 # 蒙特內哥羅
 - 首都與大城市： 蒙特內哥羅的首都是波德戈里察（Podgorica），是該國政治、經濟和文化的中心。此外，蒙特內哥羅的海邊城市卡托洛也是一個重要的旅遊勝地。
 
@@ -72,5 +73,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Lake+Skadar/@42.1667,19.25,0a,1000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 巴爾幹半島最大的湖泊，以其豐富的鳥類生態系統和美麗的自然風光而聞名，是重要的自然保護區。
 {% include custom-nav-links.html src="Montenegro_Lake_Skadar.png" data="photo" title="photo" %}
-
 

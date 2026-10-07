@@ -19,6 +19,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 280 萬人
 - **宗教**：天主教為主
 - **國土面積**：約 65,300 平方公里
+{% include custom-nav-links.html src="Lithuania_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

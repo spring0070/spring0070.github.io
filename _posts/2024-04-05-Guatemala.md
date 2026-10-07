@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 1,800 萬人
 - **宗教**：天主教、瑪雅傳統宗教
 - **國土面積**：約 108,889 平方公里
+{% include custom-nav-links.html src="Guatemala_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 3.39 萬人
 - **宗教**：天主教
 - **國土面積**：約 61 平方公里
+{% include custom-nav-links.html src="SanMarino_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 
@@ -188,5 +189,4 @@ excerpt_separator:  <!--more-->
 - **文化展示**：展示當地文化。
 - **歷史傳承**：重要的歷史傳承。
 {% include custom-nav-links.html src="SanMarino_Folk_Museum.png" data="photo" title="photo" %}
-
 

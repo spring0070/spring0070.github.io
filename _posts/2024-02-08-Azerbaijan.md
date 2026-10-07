@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="Azerbaijan_Territory_Map.png" data="photo" title="國土地圖" %}
 # 亞塞拜然
 - 地理位置： 亞塞拜然位於東歐和西亞的交界處，東臨裡海，北與俄羅斯接壤，西與亞美尼亞、喬治亞相鄰，南界伊朗。該國地形多樣，包括高山區域、平原和沿海地區。
 

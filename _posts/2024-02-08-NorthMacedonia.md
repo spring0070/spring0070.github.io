@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="NorthMacedonia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 北馬其頓
 - 首都與大城市： 北馬其頓的首都是斯科普里（Skopje），同時也是最大的城市。斯科普里是政治、文化和經濟的中心。
 

@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 1,070 萬人
 - **宗教**：天主教為主，也有新教及無宗教人口
 - **國土面積**：約 78,866 平方公里
+{% include custom-nav-links.html src="CzechRepublic_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

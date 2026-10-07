@@ -20,6 +20,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 500 萬人
 - **宗教**：基督教（主要）、無宗教信仰、其他宗教
 - **國土面積**：約 268,021 平方公里
+{% include custom-nav-links.html src="NewZealand_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

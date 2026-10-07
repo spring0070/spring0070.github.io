@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SaintVincentAndTheGrenadines_Territory_Map.png" data="photo" title="國土地圖" %}
 ## Saint Vincent and the Grenadines 
 - [Wiki](https://zh.wikipedia.org/w/index.php?search=Saint Vincent and the Grenadines "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Saint Vincent and the Grenadines "GoogleEarth"){:target="_blank"} 

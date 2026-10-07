@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SaintLucia_Territory_Map.png" data="photo" title="國土地圖" %}
 ## Saint Lucia 
 - [Wiki](https://zh.wikipedia.org/w/index.php?search=Saint Lucia "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/Saint Lucia "GoogleEarth"){:target="_blank"} 

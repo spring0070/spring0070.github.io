@@ -6,6 +6,7 @@ categories:
 - Article 
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="NorthernMarianaIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 北馬利安納群島
 - 首都與大城市：北馬利安納群島的首都是薩伊帕（Saipan），同時也是該群島上最大的城市。
 

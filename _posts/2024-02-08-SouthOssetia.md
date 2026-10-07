@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SouthOssetia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 南奧塞提亞
 - 自稱為獨立國家。然而，目前大多數國際社會並未承認南奧塞梯的獨立地位，而將其視為格魯吉亞的一個分離區域。
 
@@ -44,5 +45,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/South+Ossetia+National+Museum/@42.19545864,43.99563336,862.93727987a,30565.72208238d,30.00000428y,359.99995543h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 位於茲辛瓦利的博物館，展示南奧塞提亞的歷史、文化和民族遺產，是了解該地區文化的重要場所。
 {% include custom-nav-links.html src="SouthOssetia_National_Museum.png" data="photo" title="photo" %}
-
 

@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="NorfolkIsland_Territory_Map.png" data="photo" title="國土地圖" %}
 # 諾福克島
 - 首都與大城市：諾福克島的首都是金斯敦（Kingston），同時也是該島上最大的城市。
 
@@ -73,5 +74,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Norfolk+Island+Agriculture/@-29.05,167.96,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 諾福克島擁有豐富的農業景觀，包括各種農作物和畜牧業。
 {% include custom-nav-links.html src="NorfolkIsland_Agricultural_Landscape.png" data="photo" title="photo" %}
-
 

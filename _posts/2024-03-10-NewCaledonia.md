@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="NewCaledonia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 新喀里多尼亞
 - 首都與大城市：新喀里多尼亞的首都是努美阿（Nouméa），也是該地區最大的城市。
 
@@ -73,6 +74,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/New+Caledonia+Mining/@-22.3,166.4,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 新喀里多尼亞擁有豐富的礦產資源，包括鎳礦和鈷礦，這些礦產對當地經濟發展至關重要。
 {% include custom-nav-links.html src="NewCaledonia_Mining_Landscape.png" data="photo" title="photo" %}
-
-
 

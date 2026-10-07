@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 1,700 萬人
 - **宗教**：基督教、天主教、伊斯蘭教等
 - **國土面積**：約 41,543 平方公里
+{% include custom-nav-links.html src="Netherlands_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

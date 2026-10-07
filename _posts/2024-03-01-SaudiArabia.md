@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SaudiArabia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 沙烏地阿拉伯
 - 地理位置：沙烏地阿拉伯位於阿拉伯半島，東臨波斯灣，西臨紅海，北與約旦、伊拉克和科威特接壤，東南與阿曼接壤，南與葉門接壤。
 
@@ -82,5 +83,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Kingdom+Centre/@24.71166667,46.67527778,0a,1000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 利雅德王國中心是沙烏地阿拉伯最高的建築之一，是現代利雅德的標誌性建築，象徵著該國的現代化發展。
 {% include custom-nav-links.html src="SaudiArabia_Kingdom_Centre.png" data="photo" title="photo" %}
-
 

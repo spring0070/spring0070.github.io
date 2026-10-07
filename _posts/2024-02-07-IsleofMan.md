@@ -18,6 +18,7 @@ excerpt_separator: <!--more-->
 - **人口**：約 8 萬人
 - **宗教**：基督教為主
 - **國土面積**：約 572 平方公里
+{% include custom-nav-links.html src="IsleofMan_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

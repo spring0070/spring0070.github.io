@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 570 萬人
 - **宗教**：佛教、基督教、伊斯蘭教、道教、印度教等
 - **國土面積**：約 728.6 平方公里
+{% include custom-nav-links.html src="Singapore_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="FrenchPolynesia_Territory_Map.png" data="photo" title="國土地圖" %}
 # 法屬玻里尼西亞
 - 首都與大城市：法屬玻里尼西亞的首都和最大城市是巴皮提（Papeete），位於塔希提島（Tahiti）。
 
@@ -76,5 +77,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/French+Polynesia+Sunset/@-17.5,-149.5,1000a,5000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 法屬玻里尼西亞以其壯麗的日落景色而聞名，是攝影愛好者和浪漫情侶的理想地點。
 {% include custom-nav-links.html src="FrenchPolynesia_Sunset.png" data="photo" title="photo" %}
-
 

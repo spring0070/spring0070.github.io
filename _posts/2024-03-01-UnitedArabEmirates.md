@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="UnitedArabEmirates_Territory_Map.png" data="photo" title="國土地圖" %}
 # 阿拉伯聯合大公國
 - 地理位置：阿拉伯聯合大公國位於阿拉伯半島東部，北臨波斯灣，西與沙烏地阿拉伯接壤，東與阿曼接壤，東南與阿曼接壤。
 

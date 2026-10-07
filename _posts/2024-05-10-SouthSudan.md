@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SouthSudan_Territory_Map.png" data="photo" title="國土地圖" %}
 ## South Sudan 
 - [Wiki](https://zh.wikipedia.org/w/index.php?search=South Sudan "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/South Sudan "GoogleEarth"){:target="_blank"} 

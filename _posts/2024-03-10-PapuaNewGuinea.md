@@ -20,6 +20,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 900 萬人
 - **宗教**：基督教（主要）、傳統宗教信仰、伊斯蘭教
 - **國土面積**：約 462,840 平方公里
+{% include custom-nav-links.html src="PapuaNewGuinea_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

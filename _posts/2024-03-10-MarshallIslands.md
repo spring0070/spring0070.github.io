@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="MarshallIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 馬紹爾群島
 - 首都與大城市：馬紹爾群島的首都是馬札蘭（Majuro），也是該群島最大的城市。
 
@@ -75,5 +76,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Marshall+Islands+Fishing/@7.1,171.4,5000a,20000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 馬紹爾群島的漁業是該國經濟的重要支柱，提供豐富的海鮮資源和就業機會。
 {% include custom-nav-links.html src="MarshallIslands_Fishing_Landscape.png" data="photo" title="photo" %}
-
 

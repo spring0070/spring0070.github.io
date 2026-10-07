@@ -19,6 +19,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 3 萬人
 - **宗教**：路德教派為主
 - **國土面積**：約 1,580 平方公里
+{% include custom-nav-links.html src="AlandIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

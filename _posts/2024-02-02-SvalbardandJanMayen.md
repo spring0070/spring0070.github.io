@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 2,500 人
 - **宗教**：路德教派為主
 - **國土面積**：約 62,422 平方公里
+{% include custom-nav-links.html src="SvalbardandJanMayen_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

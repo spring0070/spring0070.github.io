@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 510 萬人
 - **宗教**：天主教為主
 - **國土面積**：約 51,100 平方公里
+{% include custom-nav-links.html src="CostaRica_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 764 人
 - **宗教**：天主教
 - **國土面積**：約 0.44 平方公里
+{% include custom-nav-links.html src="VaticanCity_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 
@@ -200,5 +201,4 @@ excerpt_separator:  <!--more-->
 - **歷史傳統**：具有悠久的歷史傳統。
 - **文化象徵**：重要的文化象徵。
 {% include custom-nav-links.html src="VaticanCity_Swiss_Guard.png" data="photo" title="photo" %}
-
 

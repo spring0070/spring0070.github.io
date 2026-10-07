@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="BosniaandHerzegovina_Territory_Map.png" data="photo" title="國土地圖" %}
 # 波士尼亞與赫塞哥維納
 - 地理位置： 波士尼亞和赫塞哥維納位於南斯拉夫曾經的一部分，東臨塞爾維亞、西臨克羅地亞，南臨黑山，北與克羅地亞接壤。該國地理上主要由兩個地區組成，即波士尼亞和赫塞哥維納。
 
@@ -76,5 +77,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Travnik+Castle/@44.2269,17.6658,0a,1000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 位於特拉夫尼克的中世紀城堡，曾經是波士尼亞王國的軍事要塞，現在是重要的歷史遺跡和旅遊景點。
 {% include custom-nav-links.html src="BosniaandHerzegovina_Travnik_Castle.png" data="photo" title="photo" %}
-
 

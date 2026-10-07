@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 6,700 萬人
 - **宗教**：基督教、天主教、伊斯蘭教等
 - **國土面積**：約 242,495 平方公里
+{% include custom-nav-links.html src="UnitedKingdom_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

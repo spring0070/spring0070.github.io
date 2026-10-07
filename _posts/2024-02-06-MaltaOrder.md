@@ -16,6 +16,7 @@ excerpt_separator:  <!--more-->
 - **成員**：約13,500名騎士和女騎士
 - **成立時間**：約1048年
 - **現任大團長**：賈科莫·達拉·托雷·德爾·坦皮奧·迪·桑圭內托
+{% include custom-nav-links.html src="MaltaOrder_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 
@@ -135,5 +136,4 @@ excerpt_separator:  <!--more-->
 - **人道主義**：體現騎士團的人道主義精神。
 - **文化意義**：具有重要的文化意義。
 {% include custom-nav-links.html src="MaltaOrder_Memorial.png" data="photo" title="photo" %}
-
 

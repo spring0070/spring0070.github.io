@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="PitcairnIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 皮特肯群島
 - 首都與大城市：皮特肯群島是一個無人居住的海外領地，因此沒有首都或大城市。
 

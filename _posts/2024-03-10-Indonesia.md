@@ -18,6 +18,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 2.7 億人
 - **宗教**：伊斯蘭教（主要）、基督教、天主教、印度教、佛教等
 - **國土面積**：約 1,904,569 平方公里
+{% include custom-nav-links.html src="Indonesia_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

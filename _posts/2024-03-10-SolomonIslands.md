@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="SolomonIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 索羅門群島
 - 首都與大城市：索羅門群島的首都是霍尼亞拉（Honiara），同時也是該國最大的城市。
 

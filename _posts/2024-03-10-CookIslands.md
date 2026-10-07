@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="CookIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 # 庫克群島
 - 首都與大城市：庫克群島是一個位於南太平洋的群島國家，首都及最大城市為阿瓦魯阿（Avarua），位於拉群島（Rarotonga）島上。
 
@@ -71,7 +72,4 @@ excerpt_separator:  <!--more-->
 - [GoogleEarth](https://earth.google.com/web/search/Cook+Islands+Coconut+Plantations/@-21.2,-159.8,2000a,10000d,35y,0h,0t,0r/ "GoogleEarth"){:target="_blank"} 
 - 庫克群島擁有廣闊的椰子種植園，椰子是該國重要的經濟作物之一。
 {% include custom-nav-links.html src="CookIslands_Coconut_Plantations.png" data="photo" title="photo" %}
-
-
-
 

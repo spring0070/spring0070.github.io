@@ -9,7 +9,6 @@ excerpt_separator:  <!--more-->
 # 🏯 甲信越名城賞楓之旅 · 戰國群像故事線
 - [Youtube](https://www.youtube.com/watch?v=X4yLiTGY82k "YT"){:target="_blank"}
 
-
 ## 📌 基本資料
 - **行程主題**：甲信越名城賞楓之旅 · 戰國群像故事線
 - **主要地區**：甲斐、信濃、越後、關東地區
@@ -17,6 +16,7 @@ excerpt_separator:  <!--more-->
 - **最佳季節**：秋季（11-12月）賞楓時節
 - **主要特色**：戰國歷史、古城遺跡、秋季楓葉
 - **文化背景**：日本戰國時代群雄爭霸的歷史縮影
+{% include custom-nav-links.html src="Japan-fuji_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 
@@ -242,7 +242,7 @@ excerpt_separator:  <!--more-->
 - 國寶五城之一，日本現存最古老的天守閣，由織田信康所建
 - 木曾川畔的戰略要地，見證了織田信長統一尾張的重要據點
 - 秋季時分，天守閣與木曾川的紅葉形成絕美風景，是賞楓的絕佳地點
-{% include custom-nav-links.html src="Japan_Inuyama_Castle.png" data="photo" title="photo" %}
+{% include custom-nav-links.html src="Japan_Inuyama_Castle.jpeg" data="photo" title="photo" %}
 ---
 
 ## 🗓️ 行程安排

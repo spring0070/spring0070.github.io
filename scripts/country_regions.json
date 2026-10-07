@@ -1,0 +1,2209 @@
+[
+  {
+    "slug": "2024-02-04-Germany",
+    "country": "Germany",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Germany"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Poland",
+    "country": "Poland",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Poland"
+    ]
+  },
+  {
+    "slug": "2024-02-04-CzechRepublic",
+    "country": "CzechRepublic",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Czechia",
+      "Czech Republic"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Hungary",
+    "country": "Hungary",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Hungary"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Austria",
+    "country": "Austria",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Austria"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Switzerland",
+    "country": "Switzerland",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Switzerland"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Slovakia",
+    "country": "Slovakia",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Slovakia"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Slovenia",
+    "country": "Slovenia",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Slovenia"
+    ]
+  },
+  {
+    "slug": "2024-02-04-Liechtenstein",
+    "country": "Liechtenstein",
+    "continent": "Europe",
+    "region": "中歐",
+    "ne_names": [
+      "Liechtenstein"
+    ]
+  },
+  {
+    "slug": "2024-02-02-Sweden",
+    "country": "Sweden",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Sweden"
+    ]
+  },
+  {
+    "slug": "2024-02-02-Denmark",
+    "country": "Denmark",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Denmark"
+    ]
+  },
+  {
+    "slug": "2024-02-02-Norway",
+    "country": "Norway",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Norway"
+    ]
+  },
+  {
+    "slug": "2024-02-02-Finland",
+    "country": "Finland",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Finland"
+    ]
+  },
+  {
+    "slug": "2024-02-02-Iceland",
+    "country": "Iceland",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Iceland"
+    ]
+  },
+  {
+    "slug": "2024-02-02-FaroeIslands",
+    "country": "FaroeIslands",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Faroe Islands"
+    ]
+  },
+  {
+    "slug": "2024-02-02-AlandIslands",
+    "country": "AlandIslands",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Åland",
+      "Aland",
+      "Åland Islands"
+    ]
+  },
+  {
+    "slug": "2024-02-02-SvalbardandJanMayen",
+    "country": "SvalbardandJanMayen",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Svalbard",
+      "Svalbard Islands",
+      "Jan Mayen"
+    ]
+  },
+  {
+    "slug": "2024-02-01-Lithuania",
+    "country": "Lithuania",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Lithuania"
+    ]
+  },
+  {
+    "slug": "2024-02-01-Latvia",
+    "country": "Latvia",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Latvia"
+    ]
+  },
+  {
+    "slug": "2024-02-01-Estonia",
+    "country": "Estonia",
+    "continent": "Europe",
+    "region": "北歐",
+    "ne_names": [
+      "Estonia"
+    ]
+  },
+  {
+    "slug": "2024-02-07-UnitedKingdom",
+    "country": "UnitedKingdom",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "United Kingdom"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Ireland",
+    "country": "Ireland",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Ireland"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Netherlands",
+    "country": "Netherlands",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Netherlands"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Belgium",
+    "country": "Belgium",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Belgium"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Luxembourg",
+    "country": "Luxembourg",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Luxembourg"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Jersey",
+    "country": "Jersey",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Jersey"
+    ]
+  },
+  {
+    "slug": "2024-02-07-IsleofMan",
+    "country": "IsleofMan",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Isle of Man"
+    ]
+  },
+  {
+    "slug": "2024-02-07-Guernsey",
+    "country": "Guernsey",
+    "continent": "Europe",
+    "region": "西歐",
+    "ne_names": [
+      "Guernsey"
+    ]
+  },
+  {
+    "slug": "2024-02-06-France",
+    "country": "France",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "France"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Italy",
+    "country": "Italy",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Italy"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Spain",
+    "country": "Spain",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Spain"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Portugal",
+    "country": "Portugal",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Portugal"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Greece",
+    "country": "Greece",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Greece"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Croatia",
+    "country": "Croatia",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Croatia"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Albania",
+    "country": "Albania",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Albania"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Andorra",
+    "country": "Andorra",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Andorra"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Monaco",
+    "country": "Monaco",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Monaco"
+    ]
+  },
+  {
+    "slug": "2024-02-06-VaticanCity",
+    "country": "VaticanCity",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Vatican"
+    ]
+  },
+  {
+    "slug": "2024-02-06-MaltaOrder",
+    "country": "MaltaOrder",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Malta"
+    ]
+  },
+  {
+    "slug": "2024-02-06-SanMarino",
+    "country": "SanMarino",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "San Marino"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Gibraltar",
+    "country": "Gibraltar",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Gibraltar"
+    ]
+  },
+  {
+    "slug": "2024-02-06-Malta",
+    "country": "Malta",
+    "continent": "Europe",
+    "region": "南歐",
+    "ne_names": [
+      "Malta"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Romania",
+    "country": "Romania",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Romania"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Serbia",
+    "country": "Serbia",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Serbia"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Bulgaria",
+    "country": "Bulgaria",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Bulgaria"
+    ]
+  },
+  {
+    "slug": "2024-02-08-BosniaandHerzegovina",
+    "country": "BosniaandHerzegovina",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Bosnia and Herz.",
+      "Bosnia and Herzegovina"
+    ]
+  },
+  {
+    "slug": "2024-02-08-NorthMacedonia",
+    "country": "NorthMacedonia",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "North Macedonia",
+      "Macedonia"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Kosovo",
+    "country": "Kosovo",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Kosovo"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Montenegro",
+    "country": "Montenegro",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Montenegro"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Moldova",
+    "country": "Moldova",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Moldova"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Abkhazia",
+    "country": "Abkhazia",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Georgia"
+    ]
+  },
+  {
+    "slug": "2024-02-08-SouthOssetia",
+    "country": "SouthOssetia",
+    "continent": "Europe",
+    "region": "東南歐",
+    "ne_names": [
+      "Georgia"
+    ]
+  },
+  {
+    "slug": "2024-02-03-Russia",
+    "country": "Russia",
+    "continent": "Europe",
+    "region": "東歐",
+    "ne_names": [
+      "Russia",
+      "Russian Federation"
+    ]
+  },
+  {
+    "slug": "2024-02-03-Ukraine",
+    "country": "Ukraine",
+    "continent": "Europe",
+    "region": "東歐",
+    "ne_names": [
+      "Ukraine"
+    ]
+  },
+  {
+    "slug": "2024-02-03-Belarus",
+    "country": "Belarus",
+    "continent": "Europe",
+    "region": "東歐",
+    "ne_names": [
+      "Belarus"
+    ]
+  },
+  {
+    "slug": "2024-04-01-UnitedStates",
+    "country": "UnitedStates",
+    "continent": "America",
+    "region": "北美洲 North America",
+    "ne_names": [
+      "United States of America",
+      "United States"
+    ]
+  },
+  {
+    "slug": "2024-04-01-Canada",
+    "country": "Canada",
+    "continent": "America",
+    "region": "北美洲 North America",
+    "ne_names": [
+      "Canada"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Mexico",
+    "country": "Mexico",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Mexico"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Guatemala",
+    "country": "Guatemala",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Guatemala"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Honduras",
+    "country": "Honduras",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Honduras"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Nicaragua",
+    "country": "Nicaragua",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Nicaragua"
+    ]
+  },
+  {
+    "slug": "2024-04-05-ElSalvador",
+    "country": "ElSalvador",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "El Salvador"
+    ]
+  },
+  {
+    "slug": "2024-04-05-CostaRica",
+    "country": "CostaRica",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Costa Rica"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Panama",
+    "country": "Panama",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Panama"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Belize",
+    "country": "Belize",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Belize"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Curacao",
+    "country": "Curacao",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Curaçao"
+    ]
+  },
+  {
+    "slug": "2024-04-05-Aruba",
+    "country": "Aruba",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Aruba"
+    ]
+  },
+  {
+    "slug": "2024-04-05-SintMaarten",
+    "country": "SintMaarten",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Sint Maarten"
+    ]
+  },
+  {
+    "slug": "2024-04-05-SaintBarthelemy",
+    "country": "SaintBarthelemy",
+    "continent": "America",
+    "region": "中美洲 Central America",
+    "ne_names": [
+      "Saint Barthelemy"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Brazil",
+    "country": "Brazil",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Brazil"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Colombia",
+    "country": "Colombia",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Colombia"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Argentina",
+    "country": "Argentina",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Argentina"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Peru",
+    "country": "Peru",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Peru"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Venezuela",
+    "country": "Venezuela",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Venezuela"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Chile",
+    "country": "Chile",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Chile"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Ecuador",
+    "country": "Ecuador",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Ecuador"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Bolivia",
+    "country": "Bolivia",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Bolivia"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Paraguay",
+    "country": "Paraguay",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Paraguay"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Uruguay",
+    "country": "Uruguay",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Uruguay"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Guyana",
+    "country": "Guyana",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Guyana"
+    ]
+  },
+  {
+    "slug": "2024-04-10-Suriname",
+    "country": "Suriname",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Suriname"
+    ]
+  },
+  {
+    "slug": "2024-04-10-FalklandIslands",
+    "country": "FalklandIslands",
+    "continent": "America",
+    "region": "南美洲 South America",
+    "ne_names": [
+      "Falkland Is.",
+      "Falkland Islands",
+      "Falkland Islands / Malvinas"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Haiti",
+    "country": "Haiti",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Haiti"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Cuba",
+    "country": "Cuba",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Cuba"
+    ]
+  },
+  {
+    "slug": "2024-04-15-U.S.VirginIslands",
+    "country": "U.S.VirginIslands",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "U.S. Virgin Is.",
+      "United States Virgin Islands"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Bermuda",
+    "country": "Bermuda",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Bermuda"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Greenland",
+    "country": "Greenland",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Greenland"
+    ]
+  },
+  {
+    "slug": "2024-04-15-TurksAndCaicosIslands",
+    "country": "TurksAndCaicosIslands",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Turks and Caicos Is.",
+      "Turks and Caicos Islands"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Anguilla",
+    "country": "Anguilla",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Anguilla"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Montserrat",
+    "country": "Montserrat",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Montserrat"
+    ]
+  },
+  {
+    "slug": "2024-04-15-PuertoRico",
+    "country": "PuertoRico",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Puerto Rico"
+    ]
+  },
+  {
+    "slug": "2024-04-15-DominicanRepublic",
+    "country": "DominicanRepublic",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Dominican Rep.",
+      "Dominican Republic"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Jamaica",
+    "country": "Jamaica",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Jamaica"
+    ]
+  },
+  {
+    "slug": "2024-04-15-TrinidadAndTobago",
+    "country": "TrinidadAndTobago",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Trinidad and Tobago"
+    ]
+  },
+  {
+    "slug": "2024-04-15-TheBahamas",
+    "country": "TheBahamas",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Bahamas",
+      "The Bahamas"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Barbados",
+    "country": "Barbados",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Barbados"
+    ]
+  },
+  {
+    "slug": "2024-04-15-SaintLucia",
+    "country": "SaintLucia",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Saint Lucia"
+    ]
+  },
+  {
+    "slug": "2024-04-15-SaintVincentAndTheGrenadines",
+    "country": "SaintVincentAndTheGrenadines",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Saint Vincent and the Grenadines"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Grenada",
+    "country": "Grenada",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Grenada"
+    ]
+  },
+  {
+    "slug": "2024-04-15-AntiguaAndBarbuda",
+    "country": "AntiguaAndBarbuda",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Antigua and Barbuda",
+      "Antigua"
+    ]
+  },
+  {
+    "slug": "2024-04-15-CaymanIslands",
+    "country": "CaymanIslands",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Cayman Is.",
+      "Cayman Islands"
+    ]
+  },
+  {
+    "slug": "2024-04-15-Dominica",
+    "country": "Dominica",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Dominica"
+    ]
+  },
+  {
+    "slug": "2024-04-15-SaintKittsAndNevis",
+    "country": "SaintKittsAndNevis",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Saint Kitts and Nevis"
+    ]
+  },
+  {
+    "slug": "2024-04-15-SaintMartin",
+    "country": "SaintMartin",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "St-Martin",
+      "Saint Martin"
+    ]
+  },
+  {
+    "slug": "2024-04-15-BritishVirginIslands",
+    "country": "BritishVirginIslands",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "British Virgin Is.",
+      "British Virgin Islands"
+    ]
+  },
+  {
+    "slug": "2024-04-15-WallisAndFutuna",
+    "country": "WallisAndFutuna",
+    "continent": "West Indies",
+    "region": "西印度群島",
+    "ne_names": [
+      "Wallis and Futuna",
+      "Wallis and Futuna Islands",
+      "Wallis and Futuna Is."
+    ]
+  },
+  {
+    "slug": "2024-03-10-Australia",
+    "country": "Australia",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Australia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-PapuaNewGuinea",
+    "country": "PapuaNewGuinea",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "slug": "2024-03-10-NewZealand",
+    "country": "NewZealand",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "New Zealand"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Fiji",
+    "country": "Fiji",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Fiji"
+    ]
+  },
+  {
+    "slug": "2024-03-10-SolomonIslands",
+    "country": "SolomonIslands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Solomon Is.",
+      "Solomon Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Vanuatu",
+    "country": "Vanuatu",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Vanuatu"
+    ]
+  },
+  {
+    "slug": "2024-03-10-FrenchPolynesia",
+    "country": "FrenchPolynesia",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "French Polynesia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-NewCaledonia",
+    "country": "NewCaledonia",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "New Caledonia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Samoa",
+    "country": "Samoa",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Samoa"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Guam",
+    "country": "Guam",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Guam"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Kiribati",
+    "country": "Kiribati",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Kiribati"
+    ]
+  },
+  {
+    "slug": "2024-03-10-FederatedStatesofMicronesia",
+    "country": "FederatedStatesofMicronesia",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Federated States of Micronesia",
+      "Micronesia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Tonga",
+    "country": "Tonga",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Tonga"
+    ]
+  },
+  {
+    "slug": "2024-03-10-NorthernMarianaIslands",
+    "country": "NorthernMarianaIslands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Northern Mariana Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-10-MarshallIslands",
+    "country": "MarshallIslands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Marshall Is.",
+      "Marshall Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Palau",
+    "country": "Palau",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Palau"
+    ]
+  },
+  {
+    "slug": "2024-03-10-CookIslands",
+    "country": "CookIslands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Cook Is.",
+      "Cook Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Nauru",
+    "country": "Nauru",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Nauru"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Tuvalu",
+    "country": "Tuvalu",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Tuvalu"
+    ]
+  },
+  {
+    "slug": "2024-03-10-NorfolkIsland",
+    "country": "NorfolkIsland",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Norfolk Island"
+    ]
+  },
+  {
+    "slug": "2024-03-10-ChristmasIsland",
+    "country": "ChristmasIsland",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Christmas I.",
+      "Christmas Island"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Niue",
+    "country": "Niue",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Niue"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Tokelau",
+    "country": "Tokelau",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Tokelau"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Cocos(Keeling)Islands",
+    "country": "Cocos(Keeling)Islands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Cocos (Keeling) Islands",
+      "Cocos Is.",
+      "Cocos Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-10-PitcairnIslands",
+    "country": "PitcairnIslands",
+    "continent": "Oceania",
+    "region": "大洋洲",
+    "ne_names": [
+      "Pitcairn Is.",
+      "Pitcairn Islands"
+    ]
+  },
+  {
+    "slug": "2024-03-15-China",
+    "country": "China",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "China"
+    ]
+  },
+  {
+    "slug": "2024-01-31-Japan",
+    "country": "Japan",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Japan"
+    ]
+  },
+  {
+    "slug": "2024-01-31-Japan-hokkaido",
+    "country": "Japan-hokkaido",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Japan"
+    ]
+  },
+  {
+    "slug": "2024-01-31-Japan-fuji",
+    "country": "Japan-fuji",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Japan"
+    ]
+  },
+  {
+    "slug": "2024-03-15-SouthKorea",
+    "country": "SouthKorea",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "South Korea",
+      "Republic of Korea"
+    ]
+  },
+  {
+    "slug": "2024-03-15-NorthKorea",
+    "country": "NorthKorea",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "North Korea",
+      "Dem. Rep. Korea"
+    ]
+  },
+  {
+    "slug": "2024-03-15-Taiwan",
+    "country": "Taiwan",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Taiwan"
+    ]
+  },
+  {
+    "slug": "2024-03-15-HongKong",
+    "country": "HongKong",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Hong Kong",
+      "Hong Kong S.A.R."
+    ]
+  },
+  {
+    "slug": "2024-03-15-Macau",
+    "country": "Macau",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Macao",
+      "Macao S.A.R"
+    ]
+  },
+  {
+    "slug": "2024-03-15-Mongolia",
+    "country": "Mongolia",
+    "continent": "Asia",
+    "region": "東亞",
+    "ne_names": [
+      "Mongolia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Indonesia",
+    "country": "Indonesia",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Indonesia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Philippines",
+    "country": "Philippines",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Philippines"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Vietnam",
+    "country": "Vietnam",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Vietnam"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Thailand",
+    "country": "Thailand",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Thailand"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Myanmar",
+    "country": "Myanmar",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Myanmar"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Malaysia",
+    "country": "Malaysia",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Malaysia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Cambodia",
+    "country": "Cambodia",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Cambodia"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Laos",
+    "country": "Laos",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Laos"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Singapore",
+    "country": "Singapore",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Singapore"
+    ]
+  },
+  {
+    "slug": "2024-03-10-Brunei",
+    "country": "Brunei",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "Brunei",
+      "Brunei Darussalam"
+    ]
+  },
+  {
+    "slug": "2024-03-10-EastTimor",
+    "country": "EastTimor",
+    "continent": "Asia",
+    "region": "東南亞",
+    "ne_names": [
+      "East Timor",
+      "Timor-Leste"
+    ]
+  },
+  {
+    "slug": "2024-03-20-India",
+    "country": "India",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "India"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Pakistan",
+    "country": "Pakistan",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Pakistan"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Bangladesh",
+    "country": "Bangladesh",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Bangladesh"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Afghanistan",
+    "country": "Afghanistan",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Afghanistan"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Nepal",
+    "country": "Nepal",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Nepal"
+    ]
+  },
+  {
+    "slug": "2024-03-20-SriLanka",
+    "country": "SriLanka",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Sri Lanka"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Bhutan",
+    "country": "Bhutan",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Bhutan"
+    ]
+  },
+  {
+    "slug": "2024-03-20-Maldives",
+    "country": "Maldives",
+    "continent": "Asia",
+    "region": "南亞",
+    "ne_names": [
+      "Maldives"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Turkey",
+    "country": "Turkey",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Turkey"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Azerbaijan",
+    "country": "Azerbaijan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Azerbaijan"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Georgia",
+    "country": "Georgia",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Georgia"
+    ]
+  },
+  {
+    "slug": "2024-02-08-Armenia",
+    "country": "Armenia",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Armenia"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Cyprus",
+    "country": "Cyprus",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Cyprus"
+    ]
+  },
+  {
+    "slug": "2024-03-01-NorthernCyprus",
+    "country": "NorthernCyprus",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "N. Cyprus",
+      "Northern Cyprus"
+    ]
+  },
+  {
+    "slug": "2024-03-01-SaudiArabia",
+    "country": "SaudiArabia",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Saudi Arabia"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Iraq",
+    "country": "Iraq",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Iraq"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Iran",
+    "country": "Iran",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Iran"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Qatar",
+    "country": "Qatar",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Qatar"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Yemen",
+    "country": "Yemen",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Yemen"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Syria",
+    "country": "Syria",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Syria"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Jordan",
+    "country": "Jordan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Jordan"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Israel",
+    "country": "Israel",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Israel"
+    ]
+  },
+  {
+    "slug": "2024-03-01-UnitedArabEmirates",
+    "country": "UnitedArabEmirates",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "United Arab Emirates"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Lebanon",
+    "country": "Lebanon",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Lebanon"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Oman",
+    "country": "Oman",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Oman"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Kuwait",
+    "country": "Kuwait",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Kuwait"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Bahrain",
+    "country": "Bahrain",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Bahrain"
+    ]
+  },
+  {
+    "slug": "2024-03-01-PalestinianAuthority",
+    "country": "PalestinianAuthority",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Palestine"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Uzbekistan",
+    "country": "Uzbekistan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Uzbekistan"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Kazakhstan",
+    "country": "Kazakhstan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Kazakhstan"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Tajikistan",
+    "country": "Tajikistan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Tajikistan"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Turkmenistan",
+    "country": "Turkmenistan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Turkmenistan"
+    ]
+  },
+  {
+    "slug": "2024-03-01-Kyrgyzstan",
+    "country": "Kyrgyzstan",
+    "continent": "Asia",
+    "region": "西亞  中東",
+    "ne_names": [
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "slug": "2024-05-01-DemocraticRepublicOfTheCongo",
+    "country": "DemocraticRepublicOfTheCongo",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Democratic Republic of the Congo",
+      "Dem. Rep. Congo"
+    ]
+  },
+  {
+    "slug": "2024-05-01-Angola",
+    "country": "Angola",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Angola"
+    ]
+  },
+  {
+    "slug": "2024-05-01-Cameroon",
+    "country": "Cameroon",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Cameroon"
+    ]
+  },
+  {
+    "slug": "2024-05-01-Chad",
+    "country": "Chad",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Chad"
+    ]
+  },
+  {
+    "slug": "2024-05-01-CentralAfricanRepublic",
+    "country": "CentralAfricanRepublic",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Central African Rep.",
+      "Central African Republic"
+    ]
+  },
+  {
+    "slug": "2024-05-01-RepublicOfTheCongo",
+    "country": "RepublicOfTheCongo",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Republic of the Congo",
+      "Congo"
+    ]
+  },
+  {
+    "slug": "2024-05-01-Gabon",
+    "country": "Gabon",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Gabon"
+    ]
+  },
+  {
+    "slug": "2024-05-01-EquatorialGuinea",
+    "country": "EquatorialGuinea",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "Eq. Guinea",
+      "Equatorial Guinea"
+    ]
+  },
+  {
+    "slug": "2024-05-01-SaoTomeAndPrincipe",
+    "country": "SaoTomeAndPrincipe",
+    "continent": "Africa",
+    "region": "中非",
+    "ne_names": [
+      "São Tomé and Principe",
+      "Sao Tome and Principe"
+    ]
+  },
+  {
+    "slug": "2024-05-05-Egypt",
+    "country": "Egypt",
+    "continent": "Africa",
+    "region": "北非",
+    "ne_names": [
+      "Egypt"
+    ]
+  },
+  {
+    "slug": "2024-05-05-Libya",
+    "country": "Libya",
+    "continent": "Africa",
+    "region": "北非",
+    "ne_names": [
+      "Libya"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Ethiopia",
+    "country": "Ethiopia",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Ethiopia"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Tanzania",
+    "country": "Tanzania",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Tanzania",
+      "United Republic of Tanzania"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Sudan",
+    "country": "Sudan",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Sudan"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Kenya",
+    "country": "Kenya",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Kenya"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Uganda",
+    "country": "Uganda",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Uganda"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Mozambique",
+    "country": "Mozambique",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Mozambique"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Madagascar",
+    "country": "Madagascar",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Madagascar"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Zambia",
+    "country": "Zambia",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Zambia"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Somalia",
+    "country": "Somalia",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Somalia"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Malawi",
+    "country": "Malawi",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Malawi"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Zimbabwe",
+    "country": "Zimbabwe",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Zimbabwe"
+    ]
+  },
+  {
+    "slug": "2024-05-10-SouthSudan",
+    "country": "SouthSudan",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "S. Sudan",
+      "South Sudan"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Rwanda",
+    "country": "Rwanda",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Rwanda"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Burundi",
+    "country": "Burundi",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Burundi"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Eritrea",
+    "country": "Eritrea",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Eritrea"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Mauritius",
+    "country": "Mauritius",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Mauritius"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Djibouti",
+    "country": "Djibouti",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Djibouti"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Seychelles",
+    "country": "Seychelles",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Seychelles"
+    ]
+  },
+  {
+    "slug": "2024-05-10-Somaliland",
+    "country": "Somaliland",
+    "continent": "Africa",
+    "region": "東非",
+    "ne_names": [
+      "Somaliland"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Nigeria",
+    "country": "Nigeria",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Nigeria"
+    ]
+  },
+  {
+    "slug": "2024-05-05-Algeria",
+    "country": "Algeria",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Algeria"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Morocco",
+    "country": "Morocco",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Morocco"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Ghana",
+    "country": "Ghana",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Ghana"
+    ]
+  },
+  {
+    "slug": "2024-05-15-IvoryCoast",
+    "country": "IvoryCoast",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Ivory Coast",
+      "Côte d'Ivoire"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Niger",
+    "country": "Niger",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Niger"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Mali",
+    "country": "Mali",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Mali"
+    ]
+  },
+  {
+    "slug": "2024-05-15-BurkinaFaso",
+    "country": "BurkinaFaso",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Burkina Faso"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Senegal",
+    "country": "Senegal",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Senegal"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Guinea",
+    "country": "Guinea",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Guinea"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Benin",
+    "country": "Benin",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Benin"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Tunisia",
+    "country": "Tunisia",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Tunisia"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Togo",
+    "country": "Togo",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Togo"
+    ]
+  },
+  {
+    "slug": "2024-05-15-SierraLeone",
+    "country": "SierraLeone",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Sierra Leone"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Liberia",
+    "country": "Liberia",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Liberia"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Mauritania",
+    "country": "Mauritania",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Mauritania"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Gambia",
+    "country": "Gambia",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Gambia",
+      "The Gambia"
+    ]
+  },
+  {
+    "slug": "2024-05-15-Guinea-Bissau",
+    "country": "Guinea-Bissau",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "slug": "2024-05-15-WesternSahara",
+    "country": "WesternSahara",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Western Sahara"
+    ]
+  },
+  {
+    "slug": "2024-05-15-CapeVerde",
+    "country": "CapeVerde",
+    "continent": "Africa",
+    "region": "西非",
+    "ne_names": [
+      "Cape Verde",
+      "Cabo Verde"
+    ]
+  },
+  {
+    "slug": "2024-05-20-SouthAfrica",
+    "country": "SouthAfrica",
+    "continent": "Africa",
+    "region": "南部非洲",
+    "ne_names": [
+      "South Africa"
+    ]
+  },
+  {
+    "slug": "2024-05-20-Namibia",
+    "country": "Namibia",
+    "continent": "Africa",
+    "region": "南部非洲",
+    "ne_names": [
+      "Namibia"
+    ]
+  },
+  {
+    "slug": "2024-05-20-Botswana",
+    "country": "Botswana",
+    "continent": "Africa",
+    "region": "南部非洲",
+    "ne_names": [
+      "Botswana"
+    ]
+  },
+  {
+    "slug": "2024-05-20-Lesotho",
+    "country": "Lesotho",
+    "continent": "Africa",
+    "region": "南部非洲",
+    "ne_names": [
+      "Lesotho"
+    ]
+  },
+  {
+    "slug": "2024-05-20-Eswatini",
+    "country": "Eswatini",
+    "continent": "Africa",
+    "region": "南部非洲",
+    "ne_names": [
+      "eSwatini",
+      "Kingdom of eSwatini"
+    ]
+  }
+]

@@ -6,6 +6,7 @@ categories:
 - Article
 excerpt_separator:  <!--more-->
 ---
+{% include custom-nav-links.html src="EastTimor_Territory_Map.png" data="photo" title="國土地圖" %}
 ## East Timor 
 - [Wiki](https://zh.wikipedia.org/w/index.php?search=East Timor "Wiki"){:target="_blank"} 
 - [GoogleEarth](https://earth.google.com/web/search/East Timor "GoogleEarth"){:target="_blank"} 

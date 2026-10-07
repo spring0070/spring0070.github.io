@@ -19,6 +19,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 5.4 萬人
 - **宗教**：路德教派為主
 - **國土面積**：約 1,399 平方公里
+{% include custom-nav-links.html src="FaroeIslands_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 

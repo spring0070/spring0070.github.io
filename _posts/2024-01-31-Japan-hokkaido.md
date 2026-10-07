@@ -19,6 +19,7 @@ excerpt_separator:  <!--more-->
 - **人口**：約 518 萬人
 - **宗教**：神道、佛教為主
 - **面積**：約 83,424 平方公里
+{% include custom-nav-links.html src="Japan-hokkaido_Territory_Map.png" data="photo" title="國土地圖" %}
 
 ---
 
@@ -134,13 +135,4 @@ excerpt_separator:  <!--more-->
 - 1934年，英國將領事館遷至東京，該建築被出售給私人。1979年，函館市政府購入該建築，並於1981年將其改建為博物館，對外開放。
 {% include custom-nav-links.html src="Japan_Hokkaido_British_Consulate.png" data="photo" title="photo" %}
 {% include custom-nav-links.html src="Japan_Hokkaido_Photo6.JPG" data="photo" title="photo" %} 
-
-
-
-
-
-
-
-
-
 
